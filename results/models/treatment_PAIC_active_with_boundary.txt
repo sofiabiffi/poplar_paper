@@ -1,0 +1,251 @@
+Linear mixed model fit by REML. t-tests use Satterthwaite's method [
+lmerModLmerTest]
+Formula: PAIC ~ block + treatment_code * hybrid_code * interval + (1 |  
+    row_id) + (1 | row_hybrid) + (1 | row_interval)
+   Data: dat
+
+REML criterion at convergence: 224.9
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.6347 -0.4187  0.0158  0.4252  2.1302 
+
+Random effects:
+ Groups       Name        Variance  Std.Dev.
+ row_interval (Intercept) 0.0078800 0.08877 
+ row_hybrid   (Intercept) 0.0170842 0.13071 
+ row_id       (Intercept) 0.0004596 0.02144 
+ Residual                 0.0263541 0.16234 
+Number of obs: 288, groups:  row_interval, 72; row_hybrid, 36; row_id, 9
+
+Fixed effects:
+                                         Estimate Std. Error         df t value
+(Intercept)                             1.419e+00  2.696e-02  4.001e+00  52.628
+block1                                  2.317e-02  3.812e-02  4.001e+00   0.608
+block2                                  1.282e-02  3.812e-02  4.001e+00   0.336
+treatment_code1                         2.101e-01  3.812e-02  4.001e+00   5.512
+treatment_code2                        -2.353e-01  3.812e-02  4.001e+00  -6.173
+hybrid_code1                            2.528e-01  4.121e-02  1.800e+01   6.135
+hybrid_code2                           -2.213e-01  4.121e-02  1.800e+01  -5.371
+hybrid_code3                           -1.687e-01  4.121e-02  1.800e+01  -4.095
+interval1                              -1.154e+00  3.751e-02  4.200e+01 -30.758
+interval2                              -7.206e-01  3.751e-02  4.200e+01 -19.213
+interval3                              -3.886e-01  3.751e-02  4.200e+01 -10.362
+interval4                               3.334e-01  3.751e-02  4.200e+01   8.889
+interval5                               1.231e+00  3.751e-02  4.200e+01  32.825
+interval6                              -5.253e-01  3.751e-02  4.200e+01 -14.006
+interval7                               3.546e-01  3.751e-02  4.200e+01   9.454
+treatment_code1:hybrid_code1            6.105e-02  5.828e-02  1.800e+01   1.048
+treatment_code2:hybrid_code1           -6.224e-02  5.828e-02  1.800e+01  -1.068
+treatment_code1:hybrid_code2           -4.067e-02  5.828e-02  1.800e+01  -0.698
+treatment_code2:hybrid_code2            5.637e-02  5.828e-02  1.800e+01   0.967
+treatment_code1:hybrid_code3           -1.775e-02  5.828e-02  1.800e+01  -0.305
+treatment_code2:hybrid_code3           -5.150e-02  5.828e-02  1.800e+01  -0.884
+treatment_code1:interval1              -1.515e-01  5.304e-02  4.200e+01  -2.856
+treatment_code2:interval1               1.739e-01  5.304e-02  4.200e+01   3.278
+treatment_code1:interval2               8.765e-02  5.304e-02  4.200e+01   1.653
+treatment_code2:interval2              -5.897e-02  5.304e-02  4.200e+01  -1.112
+treatment_code1:interval3               1.295e-01  5.304e-02  4.200e+01   2.441
+treatment_code2:interval3              -1.067e-01  5.304e-02  4.200e+01  -2.012
+treatment_code1:interval4               2.982e-02  5.304e-02  4.200e+01   0.562
+treatment_code2:interval4              -1.197e-01  5.304e-02  4.200e+01  -2.256
+treatment_code1:interval5               1.328e-01  5.304e-02  4.200e+01   2.505
+treatment_code2:interval5              -2.542e-01  5.304e-02  4.200e+01  -4.792
+treatment_code1:interval6              -9.097e-02  5.304e-02  4.200e+01  -1.715
+treatment_code2:interval6               1.563e-01  5.304e-02  4.200e+01   2.947
+treatment_code1:interval7              -6.108e-02  5.304e-02  4.200e+01  -1.152
+treatment_code2:interval7               9.361e-02  5.304e-02  4.200e+01   1.765
+hybrid_code1:interval1                  7.099e-04  4.384e-02  1.260e+02   0.016
+hybrid_code2:interval1                  8.577e-02  4.384e-02  1.260e+02   1.957
+hybrid_code3:interval1                  8.206e-02  4.384e-02  1.260e+02   1.872
+hybrid_code1:interval2                  2.137e-01  4.384e-02  1.260e+02   4.876
+hybrid_code2:interval2                 -7.695e-02  4.384e-02  1.260e+02  -1.755
+hybrid_code3:interval2                  5.383e-02  4.384e-02  1.260e+02   1.228
+hybrid_code1:interval3                  1.105e-02  4.384e-02  1.260e+02   0.252
+hybrid_code2:interval3                  3.793e-02  4.384e-02  1.260e+02   0.865
+hybrid_code3:interval3                  1.796e-01  4.384e-02  1.260e+02   4.098
+hybrid_code1:interval4                  2.763e-01  4.384e-02  1.260e+02   6.303
+hybrid_code2:interval4                 -1.649e-01  4.384e-02  1.260e+02  -3.761
+hybrid_code3:interval4                  4.066e-02  4.384e-02  1.260e+02   0.928
+hybrid_code1:interval5                  2.370e-01  4.384e-02  1.260e+02   5.406
+hybrid_code2:interval5                 -4.537e-03  4.384e-02  1.260e+02  -0.103
+hybrid_code3:interval5                 -2.007e-01  4.384e-02  1.260e+02  -4.578
+hybrid_code1:interval6                 -2.419e-01  4.384e-02  1.260e+02  -5.517
+hybrid_code2:interval6                  1.103e-01  4.384e-02  1.260e+02   2.517
+hybrid_code3:interval6                 -2.245e-02  4.384e-02  1.260e+02  -0.512
+hybrid_code1:interval7                 -9.360e-02  4.384e-02  1.260e+02  -2.135
+hybrid_code2:interval7                  8.836e-02  4.384e-02  1.260e+02   2.016
+hybrid_code3:interval7                 -8.802e-02  4.384e-02  1.260e+02  -2.008
+treatment_code1:hybrid_code1:interval1  6.104e-03  6.199e-02  1.260e+02   0.098
+treatment_code2:hybrid_code1:interval1  6.800e-03  6.199e-02  1.260e+02   0.110
+treatment_code1:hybrid_code2:interval1  1.216e-02  6.199e-02  1.260e+02   0.196
+treatment_code2:hybrid_code2:interval1 -3.162e-02  6.199e-02  1.260e+02  -0.510
+treatment_code1:hybrid_code3:interval1 -1.400e-04  6.199e-02  1.260e+02  -0.002
+treatment_code2:hybrid_code3:interval1  5.709e-02  6.199e-02  1.260e+02   0.921
+treatment_code1:hybrid_code1:interval2  8.429e-02  6.199e-02  1.260e+02   1.360
+treatment_code2:hybrid_code1:interval2 -1.111e-01  6.199e-02  1.260e+02  -1.792
+treatment_code1:hybrid_code2:interval2  1.299e-02  6.199e-02  1.260e+02   0.209
+treatment_code2:hybrid_code2:interval2  7.142e-03  6.199e-02  1.260e+02   0.115
+treatment_code1:hybrid_code3:interval2 -9.759e-04  6.199e-02  1.260e+02  -0.016
+treatment_code2:hybrid_code3:interval2  2.408e-02  6.199e-02  1.260e+02   0.388
+treatment_code1:hybrid_code1:interval3  1.018e-01  6.199e-02  1.260e+02   1.642
+treatment_code2:hybrid_code1:interval3 -3.864e-02  6.199e-02  1.260e+02  -0.623
+treatment_code1:hybrid_code2:interval3 -1.597e-02  6.199e-02  1.260e+02  -0.258
+treatment_code2:hybrid_code2:interval3 -5.416e-03  6.199e-02  1.260e+02  -0.087
+treatment_code1:hybrid_code3:interval3  3.010e-02  6.199e-02  1.260e+02   0.486
+treatment_code2:hybrid_code3:interval3 -1.688e-02  6.199e-02  1.260e+02  -0.272
+treatment_code1:hybrid_code1:interval4  4.354e-02  6.199e-02  1.260e+02   0.702
+treatment_code2:hybrid_code1:interval4 -1.306e-01  6.199e-02  1.260e+02  -2.107
+treatment_code1:hybrid_code2:interval4  5.867e-02  6.199e-02  1.260e+02   0.946
+treatment_code2:hybrid_code2:interval4  1.387e-02  6.199e-02  1.260e+02   0.224
+treatment_code1:hybrid_code3:interval4 -8.694e-02  6.199e-02  1.260e+02  -1.402
+treatment_code2:hybrid_code3:interval4  1.014e-01  6.199e-02  1.260e+02   1.636
+treatment_code1:hybrid_code1:interval5  3.668e-02  6.199e-02  1.260e+02   0.592
+treatment_code2:hybrid_code1:interval5 -1.607e-02  6.199e-02  1.260e+02  -0.259
+treatment_code1:hybrid_code2:interval5  7.429e-02  6.199e-02  1.260e+02   1.198
+treatment_code2:hybrid_code2:interval5 -1.499e-02  6.199e-02  1.260e+02  -0.242
+treatment_code1:hybrid_code3:interval5 -3.386e-02  6.199e-02  1.260e+02  -0.546
+treatment_code2:hybrid_code3:interval5 -2.975e-03  6.199e-02  1.260e+02  -0.048
+treatment_code1:hybrid_code1:interval6 -9.989e-02  6.199e-02  1.260e+02  -1.611
+treatment_code2:hybrid_code1:interval6  8.733e-02  6.199e-02  1.260e+02   1.409
+treatment_code1:hybrid_code2:interval6 -3.011e-02  6.199e-02  1.260e+02  -0.486
+treatment_code2:hybrid_code2:interval6 -7.964e-03  6.199e-02  1.260e+02  -0.128
+treatment_code1:hybrid_code3:interval6  1.682e-02  6.199e-02  1.260e+02   0.271
+treatment_code2:hybrid_code3:interval6 -3.947e-03  6.199e-02  1.260e+02  -0.064
+treatment_code1:hybrid_code1:interval7 -4.229e-02  6.199e-02  1.260e+02  -0.682
+treatment_code2:hybrid_code1:interval7  4.281e-02  6.199e-02  1.260e+02   0.691
+treatment_code1:hybrid_code2:interval7  3.940e-03  6.199e-02  1.260e+02   0.064
+treatment_code2:hybrid_code2:interval7  4.274e-02  6.199e-02  1.260e+02   0.689
+treatment_code1:hybrid_code3:interval7 -3.197e-02  6.199e-02  1.260e+02  -0.516
+treatment_code2:hybrid_code3:interval7 -4.597e-02  6.199e-02  1.260e+02  -0.741
+                                       Pr(>|t|)    
+(Intercept)                            7.78e-07 ***
+block1                                 0.576061    
+block2                                 0.753499    
+treatment_code1                        0.005281 ** 
+treatment_code2                        0.003495 ** 
+hybrid_code1                           8.56e-06 ***
+hybrid_code2                           4.19e-05 ***
+hybrid_code3                           0.000680 ***
+interval1                               < 2e-16 ***
+interval2                               < 2e-16 ***
+interval3                              3.83e-13 ***
+interval4                              3.34e-11 ***
+interval5                               < 2e-16 ***
+interval6                               < 2e-16 ***
+interval7                              5.84e-12 ***
+treatment_code1:hybrid_code1           0.308675    
+treatment_code2:hybrid_code1           0.299641    
+treatment_code1:hybrid_code2           0.494182    
+treatment_code2:hybrid_code2           0.346197    
+treatment_code1:hybrid_code3           0.764129    
+treatment_code2:hybrid_code3           0.388538    
+treatment_code1:interval1              0.006642 ** 
+treatment_code2:interval1              0.002104 ** 
+treatment_code1:interval2              0.105880    
+treatment_code2:interval2              0.272532    
+treatment_code1:interval3              0.018925 *  
+treatment_code2:interval3              0.050697 .  
+treatment_code1:interval4              0.576988    
+treatment_code2:interval4              0.029328 *  
+treatment_code1:interval5              0.016229 *  
+treatment_code2:interval5              2.08e-05 ***
+treatment_code1:interval6              0.093699 .  
+treatment_code2:interval6              0.005223 ** 
+treatment_code1:interval7              0.256004    
+treatment_code2:interval7              0.084848 .  
+hybrid_code1:interval1                 0.987106    
+hybrid_code2:interval1                 0.052614 .  
+hybrid_code3:interval1                 0.063539 .  
+hybrid_code1:interval2                 3.20e-06 ***
+hybrid_code2:interval2                 0.081620 .  
+hybrid_code3:interval2                 0.221710    
+hybrid_code1:interval3                 0.801401    
+hybrid_code2:interval3                 0.388558    
+hybrid_code3:interval3                 7.42e-05 ***
+hybrid_code1:interval4                 4.49e-09 ***
+hybrid_code2:interval4                 0.000258 ***
+hybrid_code3:interval4                 0.355434    
+hybrid_code1:interval5                 3.11e-07 ***
+hybrid_code2:interval5                 0.917732    
+hybrid_code3:interval5                 1.11e-05 ***
+hybrid_code1:interval6                 1.87e-07 ***
+hybrid_code2:interval6                 0.013100 *  
+hybrid_code3:interval6                 0.609493    
+hybrid_code1:interval7                 0.034678 *  
+hybrid_code2:interval7                 0.045960 *  
+hybrid_code3:interval7                 0.046785 *  
+treatment_code1:hybrid_code1:interval1 0.921721    
+treatment_code2:hybrid_code1:interval1 0.912828    
+treatment_code1:hybrid_code2:interval1 0.844815    
+treatment_code2:hybrid_code2:interval1 0.610914    
+treatment_code1:hybrid_code3:interval1 0.998202    
+treatment_code2:hybrid_code3:interval1 0.358870    
+treatment_code1:hybrid_code1:interval2 0.176354    
+treatment_code2:hybrid_code1:interval2 0.075458 .  
+treatment_code1:hybrid_code2:interval2 0.834429    
+treatment_code2:hybrid_code2:interval2 0.908463    
+treatment_code1:hybrid_code3:interval2 0.987466    
+treatment_code2:hybrid_code3:interval2 0.698323    
+treatment_code1:hybrid_code1:interval3 0.102988    
+treatment_code2:hybrid_code1:interval3 0.534234    
+treatment_code1:hybrid_code2:interval3 0.797163    
+treatment_code2:hybrid_code2:interval3 0.930522    
+treatment_code1:hybrid_code3:interval3 0.628091    
+treatment_code2:hybrid_code3:interval3 0.785804    
+treatment_code1:hybrid_code1:interval4 0.483748    
+treatment_code2:hybrid_code1:interval4 0.037103 *  
+treatment_code1:hybrid_code2:interval4 0.345734    
+treatment_code2:hybrid_code2:interval4 0.823373    
+treatment_code1:hybrid_code3:interval4 0.163239    
+treatment_code2:hybrid_code3:interval4 0.104327    
+treatment_code1:hybrid_code1:interval5 0.555172    
+treatment_code2:hybrid_code1:interval5 0.795908    
+treatment_code1:hybrid_code2:interval5 0.233059    
+treatment_code2:hybrid_code2:interval5 0.809298    
+treatment_code1:hybrid_code3:interval5 0.585910    
+treatment_code2:hybrid_code3:interval5 0.961805    
+treatment_code1:hybrid_code1:interval6 0.109624    
+treatment_code2:hybrid_code1:interval6 0.161381    
+treatment_code1:hybrid_code2:interval6 0.628066    
+treatment_code2:hybrid_code2:interval6 0.897993    
+treatment_code1:hybrid_code3:interval6 0.786654    
+treatment_code2:hybrid_code3:interval6 0.949343    
+treatment_code1:hybrid_code1:interval7 0.496343    
+treatment_code2:hybrid_code1:interval7 0.491114    
+treatment_code1:hybrid_code2:interval7 0.949430    
+treatment_code2:hybrid_code2:interval7 0.491779    
+treatment_code1:hybrid_code3:interval7 0.606965    
+treatment_code2:hybrid_code3:interval7 0.459781    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+                                         Sum Sq     Mean Sq NumDF      DenDF
+block                                0.02414666  0.01207333     2   4.001024
+treatment_code                       1.21096041  0.60548021     2   4.001024
+hybrid_code                          1.86459628  0.62153209     3  18.000650
+interval                            78.43878428 11.20554061     7  41.999895
+treatment_code:hybrid_code           0.10373629  0.01728938     6  18.000650
+treatment_code:interval              1.56221823  0.11158702    14  41.999895
+hybrid_code:interval                 9.16688774  0.43651846    21 126.000504
+treatment_code:hybrid_code:interval  1.06668857  0.02539735    42 126.000504
+                                        F value       Pr(>F)
+block                                 0.4581196 6.619872e-01
+treatment_code                       22.9747999 6.407657e-03
+hybrid_code                          23.5838848 1.849246e-06
+interval                            425.1915258 7.397332e-37
+treatment_code:hybrid_code            0.6560414 6.853865e-01
+treatment_code:interval               4.2341423 1.370196e-04
+hybrid_code:interval                 16.5635874 7.473605e-27
+treatment_code:hybrid_code:interval   0.9636962 5.413041e-01
+                                                                   term
+block                                                             block
+treatment_code                                           treatment_code
+hybrid_code                                                 hybrid_code
+interval                                                       interval
+treatment_code:hybrid_code                   treatment_code:hybrid_code
+treatment_code:interval                         treatment_code:interval
+hybrid_code:interval                               hybrid_code:interval
+treatment_code:hybrid_code:interval treatment_code:hybrid_code:interval
+
+Singular fit: FALSE 
+Convergence: OK 

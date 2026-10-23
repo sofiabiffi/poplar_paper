@@ -1,0 +1,1 @@
+Supplementary BD and SOC-content letters compare land covers using two-sided tie-corrected Dunn tests, BH adjustment across three pairs separately for each property, alpha 0.05. Shared letters indicate no detected difference. Tests use complete-profile measured 0-30 cm property values and assume profile independence.

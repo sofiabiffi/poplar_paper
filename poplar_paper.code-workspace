@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "name": "Poplar paper",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "files.exclude": {
+      "**/renv/library": true,
+      "**/renv/cache": true,
+      "**/renv/staging": true,
+      "**/renv/local": true
+    },
+    "search.exclude": {
+      "**/renv/**": true
+    },
+    "files.watcherExclude": {
+      "**/renv/**": true
+    },
+    "[r]": {
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true
+    }
+  }
+}

@@ -1,0 +1,937 @@
+"measurement_year","hybrid_code","hybrid","PAIC","id","label","value","coverage","common_basis"
+1994,"B","Beaupre",0.512608,"spring_rainfall","Spring rainfall (mm)",144.9,1,TRUE
+1994,"B","Beaupre",0.512608,"summer_rainfall","Summer rainfall (mm)",152.6,1,TRUE
+1994,"B","Beaupre",0.512608,"spring_sunshine","Spring sunshine (hours)",362.9,1,TRUE
+1994,"B","Beaupre",0.512608,"summer_sunshine","Summer sunshine (hours)",433.9,1,TRUE
+1994,"B","Beaupre",0.512608,"spring_temp","Spring air temperature (degrees C)",8.54076086956522,1,TRUE
+1994,"B","Beaupre",0.512608,"summer_temp","Summer air temperature (degrees C)",14.2222826086957,1,TRUE
+1994,"B","Beaupre",0.512608,"dry_spell","Apr-Sep longest dry spell (days)",15,1,TRUE
+1994,"B","Beaupre",0.512608,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+1994,"B","Beaupre",0.512608,"spring_ground_frost_days","Spring ground frost (days)",30,1,TRUE
+1994,"G","Gibecq",0.0990605,"spring_rainfall","Spring rainfall (mm)",144.9,1,TRUE
+1994,"G","Gibecq",0.0990605,"summer_rainfall","Summer rainfall (mm)",152.6,1,TRUE
+1994,"G","Gibecq",0.0990605,"spring_sunshine","Spring sunshine (hours)",362.9,1,TRUE
+1994,"G","Gibecq",0.0990605,"summer_sunshine","Summer sunshine (hours)",433.9,1,TRUE
+1994,"G","Gibecq",0.0990605,"spring_temp","Spring air temperature (degrees C)",8.54076086956522,1,TRUE
+1994,"G","Gibecq",0.0990605,"summer_temp","Summer air temperature (degrees C)",14.2222826086957,1,TRUE
+1994,"G","Gibecq",0.0990605,"dry_spell","Apr-Sep longest dry spell (days)",15,1,TRUE
+1994,"G","Gibecq",0.0990605,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+1994,"G","Gibecq",0.0990605,"spring_ground_frost_days","Spring ground frost (days)",30,1,TRUE
+1994,"R","Robusta",0.156206,"spring_rainfall","Spring rainfall (mm)",144.9,1,TRUE
+1994,"R","Robusta",0.156206,"summer_rainfall","Summer rainfall (mm)",152.6,1,TRUE
+1994,"R","Robusta",0.156206,"spring_sunshine","Spring sunshine (hours)",362.9,1,TRUE
+1994,"R","Robusta",0.156206,"summer_sunshine","Summer sunshine (hours)",433.9,1,TRUE
+1994,"R","Robusta",0.156206,"spring_temp","Spring air temperature (degrees C)",8.54076086956522,1,TRUE
+1994,"R","Robusta",0.156206,"summer_temp","Summer air temperature (degrees C)",14.2222826086957,1,TRUE
+1994,"R","Robusta",0.156206,"dry_spell","Apr-Sep longest dry spell (days)",15,1,TRUE
+1994,"R","Robusta",0.156206,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+1994,"R","Robusta",0.156206,"spring_ground_frost_days","Spring ground frost (days)",30,1,TRUE
+1994,"T","Trichobel",0.232566,"spring_rainfall","Spring rainfall (mm)",144.9,1,TRUE
+1994,"T","Trichobel",0.232566,"summer_rainfall","Summer rainfall (mm)",152.6,1,TRUE
+1994,"T","Trichobel",0.232566,"spring_sunshine","Spring sunshine (hours)",362.9,1,TRUE
+1994,"T","Trichobel",0.232566,"summer_sunshine","Summer sunshine (hours)",433.9,1,TRUE
+1994,"T","Trichobel",0.232566,"spring_temp","Spring air temperature (degrees C)",8.54076086956522,1,TRUE
+1994,"T","Trichobel",0.232566,"summer_temp","Summer air temperature (degrees C)",14.2222826086957,1,TRUE
+1994,"T","Trichobel",0.232566,"dry_spell","Apr-Sep longest dry spell (days)",15,1,TRUE
+1994,"T","Trichobel",0.232566,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+1994,"T","Trichobel",0.232566,"spring_ground_frost_days","Spring ground frost (days)",30,1,TRUE
+1995,"B","Beaupre",1.15785,"spring_rainfall","Spring rainfall (mm)",121.1,1,TRUE
+1995,"B","Beaupre",1.15785,"summer_rainfall","Summer rainfall (mm)",90.8,1,TRUE
+1995,"B","Beaupre",1.15785,"spring_sunshine","Spring sunshine (hours)",426.5,1,TRUE
+1995,"B","Beaupre",1.15785,"summer_sunshine","Summer sunshine (hours)",481,1,TRUE
+1995,"B","Beaupre",1.15785,"spring_temp","Spring air temperature (degrees C)",8.39456521739131,1,TRUE
+1995,"B","Beaupre",1.15785,"summer_temp","Summer air temperature (degrees C)",15.5048913043478,1,TRUE
+1995,"B","Beaupre",1.15785,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+1995,"B","Beaupre",1.15785,"spring_air_frost_days","Spring air frost (days)",3,1,TRUE
+1995,"B","Beaupre",1.15785,"spring_ground_frost_days","Spring ground frost (days)",28,1,TRUE
+1995,"G","Gibecq",0.334988,"spring_rainfall","Spring rainfall (mm)",121.1,1,TRUE
+1995,"G","Gibecq",0.334988,"summer_rainfall","Summer rainfall (mm)",90.8,1,TRUE
+1995,"G","Gibecq",0.334988,"spring_sunshine","Spring sunshine (hours)",426.5,1,TRUE
+1995,"G","Gibecq",0.334988,"summer_sunshine","Summer sunshine (hours)",481,1,TRUE
+1995,"G","Gibecq",0.334988,"spring_temp","Spring air temperature (degrees C)",8.39456521739131,1,TRUE
+1995,"G","Gibecq",0.334988,"summer_temp","Summer air temperature (degrees C)",15.5048913043478,1,TRUE
+1995,"G","Gibecq",0.334988,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+1995,"G","Gibecq",0.334988,"spring_air_frost_days","Spring air frost (days)",3,1,TRUE
+1995,"G","Gibecq",0.334988,"spring_ground_frost_days","Spring ground frost (days)",28,1,TRUE
+1995,"R","Robusta",0.4686595,"spring_rainfall","Spring rainfall (mm)",121.1,1,TRUE
+1995,"R","Robusta",0.4686595,"summer_rainfall","Summer rainfall (mm)",90.8,1,TRUE
+1995,"R","Robusta",0.4686595,"spring_sunshine","Spring sunshine (hours)",426.5,1,TRUE
+1995,"R","Robusta",0.4686595,"summer_sunshine","Summer sunshine (hours)",481,1,TRUE
+1995,"R","Robusta",0.4686595,"spring_temp","Spring air temperature (degrees C)",8.39456521739131,1,TRUE
+1995,"R","Robusta",0.4686595,"summer_temp","Summer air temperature (degrees C)",15.5048913043478,1,TRUE
+1995,"R","Robusta",0.4686595,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+1995,"R","Robusta",0.4686595,"spring_air_frost_days","Spring air frost (days)",3,1,TRUE
+1995,"R","Robusta",0.4686595,"spring_ground_frost_days","Spring ground frost (days)",28,1,TRUE
+1995,"T","Trichobel",0.626318,"spring_rainfall","Spring rainfall (mm)",121.1,1,TRUE
+1995,"T","Trichobel",0.626318,"summer_rainfall","Summer rainfall (mm)",90.8,1,TRUE
+1995,"T","Trichobel",0.626318,"spring_sunshine","Spring sunshine (hours)",426.5,1,TRUE
+1995,"T","Trichobel",0.626318,"summer_sunshine","Summer sunshine (hours)",481,1,TRUE
+1995,"T","Trichobel",0.626318,"spring_temp","Spring air temperature (degrees C)",8.39456521739131,1,TRUE
+1995,"T","Trichobel",0.626318,"summer_temp","Summer air temperature (degrees C)",15.5048913043478,1,TRUE
+1995,"T","Trichobel",0.626318,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+1995,"T","Trichobel",0.626318,"spring_air_frost_days","Spring air frost (days)",3,1,TRUE
+1995,"T","Trichobel",0.626318,"spring_ground_frost_days","Spring ground frost (days)",28,1,TRUE
+1996,"B","Beaupre",1.196113,"spring_rainfall","Spring rainfall (mm)",107.2,1,TRUE
+1996,"B","Beaupre",1.196113,"summer_rainfall","Summer rainfall (mm)",46.5,1,TRUE
+1996,"B","Beaupre",1.196113,"spring_sunshine","Spring sunshine (hours)",513.2,1,TRUE
+1996,"B","Beaupre",1.196113,"summer_sunshine","Summer sunshine (hours)",609.5,1,TRUE
+1996,"B","Beaupre",1.196113,"spring_temp","Spring air temperature (degrees C)",8.17336956521739,1,TRUE
+1996,"B","Beaupre",1.196113,"summer_temp","Summer air temperature (degrees C)",16.4815217391304,1,TRUE
+1996,"B","Beaupre",1.196113,"dry_spell","Apr-Sep longest dry spell (days)",32,1,TRUE
+1996,"B","Beaupre",1.196113,"spring_air_frost_days","Spring air frost (days)",14,1,TRUE
+1996,"B","Beaupre",1.196113,"spring_ground_frost_days","Spring ground frost (days)",40,1,TRUE
+1996,"G","Gibecq",0.8257255,"spring_rainfall","Spring rainfall (mm)",107.2,1,TRUE
+1996,"G","Gibecq",0.8257255,"summer_rainfall","Summer rainfall (mm)",46.5,1,TRUE
+1996,"G","Gibecq",0.8257255,"spring_sunshine","Spring sunshine (hours)",513.2,1,TRUE
+1996,"G","Gibecq",0.8257255,"summer_sunshine","Summer sunshine (hours)",609.5,1,TRUE
+1996,"G","Gibecq",0.8257255,"spring_temp","Spring air temperature (degrees C)",8.17336956521739,1,TRUE
+1996,"G","Gibecq",0.8257255,"summer_temp","Summer air temperature (degrees C)",16.4815217391304,1,TRUE
+1996,"G","Gibecq",0.8257255,"dry_spell","Apr-Sep longest dry spell (days)",32,1,TRUE
+1996,"G","Gibecq",0.8257255,"spring_air_frost_days","Spring air frost (days)",14,1,TRUE
+1996,"G","Gibecq",0.8257255,"spring_ground_frost_days","Spring ground frost (days)",40,1,TRUE
+1996,"R","Robusta",1.1169725,"spring_rainfall","Spring rainfall (mm)",107.2,1,TRUE
+1996,"R","Robusta",1.1169725,"summer_rainfall","Summer rainfall (mm)",46.5,1,TRUE
+1996,"R","Robusta",1.1169725,"spring_sunshine","Spring sunshine (hours)",513.2,1,TRUE
+1996,"R","Robusta",1.1169725,"summer_sunshine","Summer sunshine (hours)",609.5,1,TRUE
+1996,"R","Robusta",1.1169725,"spring_temp","Spring air temperature (degrees C)",8.17336956521739,1,TRUE
+1996,"R","Robusta",1.1169725,"summer_temp","Summer air temperature (degrees C)",16.4815217391304,1,TRUE
+1996,"R","Robusta",1.1169725,"dry_spell","Apr-Sep longest dry spell (days)",32,1,TRUE
+1996,"R","Robusta",1.1169725,"spring_air_frost_days","Spring air frost (days)",14,1,TRUE
+1996,"R","Robusta",1.1169725,"spring_ground_frost_days","Spring ground frost (days)",40,1,TRUE
+1996,"T","Trichobel",0.916071,"spring_rainfall","Spring rainfall (mm)",107.2,1,TRUE
+1996,"T","Trichobel",0.916071,"summer_rainfall","Summer rainfall (mm)",46.5,1,TRUE
+1996,"T","Trichobel",0.916071,"spring_sunshine","Spring sunshine (hours)",513.2,1,TRUE
+1996,"T","Trichobel",0.916071,"summer_sunshine","Summer sunshine (hours)",609.5,1,TRUE
+1996,"T","Trichobel",0.916071,"spring_temp","Spring air temperature (degrees C)",8.17336956521739,1,TRUE
+1996,"T","Trichobel",0.916071,"summer_temp","Summer air temperature (degrees C)",16.4815217391304,1,TRUE
+1996,"T","Trichobel",0.916071,"dry_spell","Apr-Sep longest dry spell (days)",32,1,TRUE
+1996,"T","Trichobel",0.916071,"spring_air_frost_days","Spring air frost (days)",14,1,TRUE
+1996,"T","Trichobel",0.916071,"spring_ground_frost_days","Spring ground frost (days)",40,1,TRUE
+1997,"B","Beaupre",2.240336,"spring_rainfall","Spring rainfall (mm)",113.4,1,TRUE
+1997,"B","Beaupre",2.240336,"summer_rainfall","Summer rainfall (mm)",123.3,1,TRUE
+1997,"B","Beaupre",2.240336,"spring_sunshine","Spring sunshine (hours)",298.6,1,TRUE
+1997,"B","Beaupre",2.240336,"summer_sunshine","Summer sunshine (hours)",566.2,1,TRUE
+1997,"B","Beaupre",2.240336,"spring_temp","Spring air temperature (degrees C)",6.74239130434783,1,TRUE
+1997,"B","Beaupre",2.240336,"summer_temp","Summer air temperature (degrees C)",15.2929347826087,1,TRUE
+1997,"B","Beaupre",2.240336,"dry_spell","Apr-Sep longest dry spell (days)",15,1,TRUE
+1997,"B","Beaupre",2.240336,"spring_air_frost_days","Spring air frost (days)",16,1,TRUE
+1997,"B","Beaupre",2.240336,"spring_ground_frost_days","Spring ground frost (days)",39,1,TRUE
+1997,"G","Gibecq",1.346343,"spring_rainfall","Spring rainfall (mm)",113.4,1,TRUE
+1997,"G","Gibecq",1.346343,"summer_rainfall","Summer rainfall (mm)",123.3,1,TRUE
+1997,"G","Gibecq",1.346343,"spring_sunshine","Spring sunshine (hours)",298.6,1,TRUE
+1997,"G","Gibecq",1.346343,"summer_sunshine","Summer sunshine (hours)",566.2,1,TRUE
+1997,"G","Gibecq",1.346343,"spring_temp","Spring air temperature (degrees C)",6.74239130434783,1,TRUE
+1997,"G","Gibecq",1.346343,"summer_temp","Summer air temperature (degrees C)",15.2929347826087,1,TRUE
+1997,"G","Gibecq",1.346343,"dry_spell","Apr-Sep longest dry spell (days)",15,1,TRUE
+1997,"G","Gibecq",1.346343,"spring_air_frost_days","Spring air frost (days)",16,1,TRUE
+1997,"G","Gibecq",1.346343,"spring_ground_frost_days","Spring ground frost (days)",39,1,TRUE
+1997,"R","Robusta",1.5328025,"spring_rainfall","Spring rainfall (mm)",113.4,1,TRUE
+1997,"R","Robusta",1.5328025,"summer_rainfall","Summer rainfall (mm)",123.3,1,TRUE
+1997,"R","Robusta",1.5328025,"spring_sunshine","Spring sunshine (hours)",298.6,1,TRUE
+1997,"R","Robusta",1.5328025,"summer_sunshine","Summer sunshine (hours)",566.2,1,TRUE
+1997,"R","Robusta",1.5328025,"spring_temp","Spring air temperature (degrees C)",6.74239130434783,1,TRUE
+1997,"R","Robusta",1.5328025,"summer_temp","Summer air temperature (degrees C)",15.2929347826087,1,TRUE
+1997,"R","Robusta",1.5328025,"dry_spell","Apr-Sep longest dry spell (days)",15,1,TRUE
+1997,"R","Robusta",1.5328025,"spring_air_frost_days","Spring air frost (days)",16,1,TRUE
+1997,"R","Robusta",1.5328025,"spring_ground_frost_days","Spring ground frost (days)",39,1,TRUE
+1997,"T","Trichobel",1.746735,"spring_rainfall","Spring rainfall (mm)",113.4,1,TRUE
+1997,"T","Trichobel",1.746735,"summer_rainfall","Summer rainfall (mm)",123.3,1,TRUE
+1997,"T","Trichobel",1.746735,"spring_sunshine","Spring sunshine (hours)",298.6,1,TRUE
+1997,"T","Trichobel",1.746735,"summer_sunshine","Summer sunshine (hours)",566.2,1,TRUE
+1997,"T","Trichobel",1.746735,"spring_temp","Spring air temperature (degrees C)",6.74239130434783,1,TRUE
+1997,"T","Trichobel",1.746735,"summer_temp","Summer air temperature (degrees C)",15.2929347826087,1,TRUE
+1997,"T","Trichobel",1.746735,"dry_spell","Apr-Sep longest dry spell (days)",15,1,TRUE
+1997,"T","Trichobel",1.746735,"spring_air_frost_days","Spring air frost (days)",16,1,TRUE
+1997,"T","Trichobel",1.746735,"spring_ground_frost_days","Spring ground frost (days)",39,1,TRUE
+1998,"B","Beaupre",3.018129,"spring_rainfall","Spring rainfall (mm)",107.9,1,TRUE
+1998,"B","Beaupre",3.018129,"summer_rainfall","Summer rainfall (mm)",230.7,1,TRUE
+1998,"B","Beaupre",3.018129,"spring_sunshine","Spring sunshine (hours)",455.1,1,TRUE
+1998,"B","Beaupre",3.018129,"summer_sunshine","Summer sunshine (hours)",487.6,1,TRUE
+1998,"B","Beaupre",3.018129,"spring_temp","Spring air temperature (degrees C)",8.74402173913044,1,TRUE
+1998,"B","Beaupre",3.018129,"summer_temp","Summer air temperature (degrees C)",15.7934782608696,1,TRUE
+1998,"B","Beaupre",3.018129,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+1998,"B","Beaupre",3.018129,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+1998,"B","Beaupre",3.018129,"spring_ground_frost_days","Spring ground frost (days)",41,1,TRUE
+1998,"G","Gibecq",2.414221,"spring_rainfall","Spring rainfall (mm)",107.9,1,TRUE
+1998,"G","Gibecq",2.414221,"summer_rainfall","Summer rainfall (mm)",230.7,1,TRUE
+1998,"G","Gibecq",2.414221,"spring_sunshine","Spring sunshine (hours)",455.1,1,TRUE
+1998,"G","Gibecq",2.414221,"summer_sunshine","Summer sunshine (hours)",487.6,1,TRUE
+1998,"G","Gibecq",2.414221,"spring_temp","Spring air temperature (degrees C)",8.74402173913044,1,TRUE
+1998,"G","Gibecq",2.414221,"summer_temp","Summer air temperature (degrees C)",15.7934782608696,1,TRUE
+1998,"G","Gibecq",2.414221,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+1998,"G","Gibecq",2.414221,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+1998,"G","Gibecq",2.414221,"spring_ground_frost_days","Spring ground frost (days)",41,1,TRUE
+1998,"R","Robusta",2.2800515,"spring_rainfall","Spring rainfall (mm)",107.9,1,TRUE
+1998,"R","Robusta",2.2800515,"summer_rainfall","Summer rainfall (mm)",230.7,1,TRUE
+1998,"R","Robusta",2.2800515,"spring_sunshine","Spring sunshine (hours)",455.1,1,TRUE
+1998,"R","Robusta",2.2800515,"summer_sunshine","Summer sunshine (hours)",487.6,1,TRUE
+1998,"R","Robusta",2.2800515,"spring_temp","Spring air temperature (degrees C)",8.74402173913044,1,TRUE
+1998,"R","Robusta",2.2800515,"summer_temp","Summer air temperature (degrees C)",15.7934782608696,1,TRUE
+1998,"R","Robusta",2.2800515,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+1998,"R","Robusta",2.2800515,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+1998,"R","Robusta",2.2800515,"spring_ground_frost_days","Spring ground frost (days)",41,1,TRUE
+1998,"T","Trichobel",2.798511,"spring_rainfall","Spring rainfall (mm)",107.9,1,TRUE
+1998,"T","Trichobel",2.798511,"summer_rainfall","Summer rainfall (mm)",230.7,1,TRUE
+1998,"T","Trichobel",2.798511,"spring_sunshine","Spring sunshine (hours)",455.1,1,TRUE
+1998,"T","Trichobel",2.798511,"summer_sunshine","Summer sunshine (hours)",487.6,1,TRUE
+1998,"T","Trichobel",2.798511,"spring_temp","Spring air temperature (degrees C)",8.74402173913044,1,TRUE
+1998,"T","Trichobel",2.798511,"summer_temp","Summer air temperature (degrees C)",15.7934782608696,1,TRUE
+1998,"T","Trichobel",2.798511,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+1998,"T","Trichobel",2.798511,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+1998,"T","Trichobel",2.798511,"spring_ground_frost_days","Spring ground frost (days)",41,1,TRUE
+2001,"B","Beaupre",0.875567,"spring_rainfall","Spring rainfall (mm)",188.783,1,FALSE
+2001,"B","Beaupre",0.875567,"summer_rainfall","Summer rainfall (mm)",174.542,1,FALSE
+2001,"B","Beaupre",0.875567,"spring_sunshine","Spring sunshine (hours)",454.8,1,FALSE
+2001,"B","Beaupre",0.875567,"summer_sunshine","Summer sunshine (hours)",465.7,1,FALSE
+2001,"B","Beaupre",0.875567,"spring_temp","Spring air temperature (degrees C)",NA,0.989130434782609,FALSE
+2001,"B","Beaupre",0.875567,"summer_temp","Summer air temperature (degrees C)",14.899587173913,1,FALSE
+2001,"B","Beaupre",0.875567,"dry_spell","Apr-Sep longest dry spell (days)",20,1,FALSE
+2001,"B","Beaupre",0.875567,"spring_air_frost_days","Spring air frost (days)",12,1,FALSE
+2001,"B","Beaupre",0.875567,"spring_ground_frost_days","Spring ground frost (days)",27,1,FALSE
+2001,"G","Gibecq",0.732475,"spring_rainfall","Spring rainfall (mm)",188.783,1,FALSE
+2001,"G","Gibecq",0.732475,"summer_rainfall","Summer rainfall (mm)",174.542,1,FALSE
+2001,"G","Gibecq",0.732475,"spring_sunshine","Spring sunshine (hours)",454.8,1,FALSE
+2001,"G","Gibecq",0.732475,"summer_sunshine","Summer sunshine (hours)",465.7,1,FALSE
+2001,"G","Gibecq",0.732475,"spring_temp","Spring air temperature (degrees C)",NA,0.989130434782609,FALSE
+2001,"G","Gibecq",0.732475,"summer_temp","Summer air temperature (degrees C)",14.899587173913,1,FALSE
+2001,"G","Gibecq",0.732475,"dry_spell","Apr-Sep longest dry spell (days)",20,1,FALSE
+2001,"G","Gibecq",0.732475,"spring_air_frost_days","Spring air frost (days)",12,1,FALSE
+2001,"G","Gibecq",0.732475,"spring_ground_frost_days","Spring ground frost (days)",27,1,FALSE
+2001,"R","Robusta",0.670059,"spring_rainfall","Spring rainfall (mm)",188.783,1,FALSE
+2001,"R","Robusta",0.670059,"summer_rainfall","Summer rainfall (mm)",174.542,1,FALSE
+2001,"R","Robusta",0.670059,"spring_sunshine","Spring sunshine (hours)",454.8,1,FALSE
+2001,"R","Robusta",0.670059,"summer_sunshine","Summer sunshine (hours)",465.7,1,FALSE
+2001,"R","Robusta",0.670059,"spring_temp","Spring air temperature (degrees C)",NA,0.989130434782609,FALSE
+2001,"R","Robusta",0.670059,"summer_temp","Summer air temperature (degrees C)",14.899587173913,1,FALSE
+2001,"R","Robusta",0.670059,"dry_spell","Apr-Sep longest dry spell (days)",20,1,FALSE
+2001,"R","Robusta",0.670059,"spring_air_frost_days","Spring air frost (days)",12,1,FALSE
+2001,"R","Robusta",0.670059,"spring_ground_frost_days","Spring ground frost (days)",27,1,FALSE
+2001,"T","Trichobel",1.14028166666667,"spring_rainfall","Spring rainfall (mm)",188.783,1,FALSE
+2001,"T","Trichobel",1.14028166666667,"summer_rainfall","Summer rainfall (mm)",174.542,1,FALSE
+2001,"T","Trichobel",1.14028166666667,"spring_sunshine","Spring sunshine (hours)",454.8,1,FALSE
+2001,"T","Trichobel",1.14028166666667,"summer_sunshine","Summer sunshine (hours)",465.7,1,FALSE
+2001,"T","Trichobel",1.14028166666667,"spring_temp","Spring air temperature (degrees C)",NA,0.989130434782609,FALSE
+2001,"T","Trichobel",1.14028166666667,"summer_temp","Summer air temperature (degrees C)",14.899587173913,1,FALSE
+2001,"T","Trichobel",1.14028166666667,"dry_spell","Apr-Sep longest dry spell (days)",20,1,FALSE
+2001,"T","Trichobel",1.14028166666667,"spring_air_frost_days","Spring air frost (days)",12,1,FALSE
+2001,"T","Trichobel",1.14028166666667,"spring_ground_frost_days","Spring ground frost (days)",27,1,FALSE
+2002,"B","Beaupre",1.852228,"spring_rainfall","Spring rainfall (mm)",127.799,1,TRUE
+2002,"B","Beaupre",1.852228,"summer_rainfall","Summer rainfall (mm)",141.5,1,TRUE
+2002,"B","Beaupre",1.852228,"spring_sunshine","Spring sunshine (hours)",439.8,1,TRUE
+2002,"B","Beaupre",1.852228,"summer_sunshine","Summer sunshine (hours)",456.7,1,TRUE
+2002,"B","Beaupre",1.852228,"spring_temp","Spring air temperature (degrees C)",7.82529635869565,1,TRUE
+2002,"B","Beaupre",1.852228,"summer_temp","Summer air temperature (degrees C)",14.951409673913,1,TRUE
+2002,"B","Beaupre",1.852228,"dry_spell","Apr-Sep longest dry spell (days)",20,1,TRUE
+2002,"B","Beaupre",1.852228,"spring_air_frost_days","Spring air frost (days)",11,1,TRUE
+2002,"B","Beaupre",1.852228,"spring_ground_frost_days","Spring ground frost (days)",17,1,TRUE
+2002,"G","Gibecq",1.673031,"spring_rainfall","Spring rainfall (mm)",127.799,1,TRUE
+2002,"G","Gibecq",1.673031,"summer_rainfall","Summer rainfall (mm)",141.5,1,TRUE
+2002,"G","Gibecq",1.673031,"spring_sunshine","Spring sunshine (hours)",439.8,1,TRUE
+2002,"G","Gibecq",1.673031,"summer_sunshine","Summer sunshine (hours)",456.7,1,TRUE
+2002,"G","Gibecq",1.673031,"spring_temp","Spring air temperature (degrees C)",7.82529635869565,1,TRUE
+2002,"G","Gibecq",1.673031,"summer_temp","Summer air temperature (degrees C)",14.951409673913,1,TRUE
+2002,"G","Gibecq",1.673031,"dry_spell","Apr-Sep longest dry spell (days)",20,1,TRUE
+2002,"G","Gibecq",1.673031,"spring_air_frost_days","Spring air frost (days)",11,1,TRUE
+2002,"G","Gibecq",1.673031,"spring_ground_frost_days","Spring ground frost (days)",17,1,TRUE
+2002,"R","Robusta",1.393072,"spring_rainfall","Spring rainfall (mm)",127.799,1,TRUE
+2002,"R","Robusta",1.393072,"summer_rainfall","Summer rainfall (mm)",141.5,1,TRUE
+2002,"R","Robusta",1.393072,"spring_sunshine","Spring sunshine (hours)",439.8,1,TRUE
+2002,"R","Robusta",1.393072,"summer_sunshine","Summer sunshine (hours)",456.7,1,TRUE
+2002,"R","Robusta",1.393072,"spring_temp","Spring air temperature (degrees C)",7.82529635869565,1,TRUE
+2002,"R","Robusta",1.393072,"summer_temp","Summer air temperature (degrees C)",14.951409673913,1,TRUE
+2002,"R","Robusta",1.393072,"dry_spell","Apr-Sep longest dry spell (days)",20,1,TRUE
+2002,"R","Robusta",1.393072,"spring_air_frost_days","Spring air frost (days)",11,1,TRUE
+2002,"R","Robusta",1.393072,"spring_ground_frost_days","Spring ground frost (days)",17,1,TRUE
+2002,"T","Trichobel",1.926098,"spring_rainfall","Spring rainfall (mm)",127.799,1,TRUE
+2002,"T","Trichobel",1.926098,"summer_rainfall","Summer rainfall (mm)",141.5,1,TRUE
+2002,"T","Trichobel",1.926098,"spring_sunshine","Spring sunshine (hours)",439.8,1,TRUE
+2002,"T","Trichobel",1.926098,"summer_sunshine","Summer sunshine (hours)",456.7,1,TRUE
+2002,"T","Trichobel",1.926098,"spring_temp","Spring air temperature (degrees C)",7.82529635869565,1,TRUE
+2002,"T","Trichobel",1.926098,"summer_temp","Summer air temperature (degrees C)",14.951409673913,1,TRUE
+2002,"T","Trichobel",1.926098,"dry_spell","Apr-Sep longest dry spell (days)",20,1,TRUE
+2002,"T","Trichobel",1.926098,"spring_air_frost_days","Spring air frost (days)",11,1,TRUE
+2002,"T","Trichobel",1.926098,"spring_ground_frost_days","Spring ground frost (days)",17,1,TRUE
+2005,"B","Beaupre",2.123306,"spring_rainfall","Spring rainfall (mm)",119.6775,1,TRUE
+2005,"B","Beaupre",2.123306,"summer_rainfall","Summer rainfall (mm)",234.824,1,TRUE
+2005,"B","Beaupre",2.123306,"spring_sunshine","Spring sunshine (hours)",418.8,1,TRUE
+2005,"B","Beaupre",2.123306,"summer_sunshine","Summer sunshine (hours)",464.1,1,TRUE
+2005,"B","Beaupre",2.123306,"spring_temp","Spring air temperature (degrees C)",9.09323695652174,1,TRUE
+2005,"B","Beaupre",2.123306,"summer_temp","Summer air temperature (degrees C)",15.9622113043478,1,TRUE
+2005,"B","Beaupre",2.123306,"dry_spell","Apr-Sep longest dry spell (days)",13,1,TRUE
+2005,"B","Beaupre",2.123306,"spring_air_frost_days","Spring air frost (days)",5,1,TRUE
+2005,"B","Beaupre",2.123306,"spring_ground_frost_days","Spring ground frost (days)",17,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"spring_rainfall","Spring rainfall (mm)",119.6775,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"summer_rainfall","Summer rainfall (mm)",234.824,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"spring_sunshine","Spring sunshine (hours)",418.8,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"summer_sunshine","Summer sunshine (hours)",464.1,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"spring_temp","Spring air temperature (degrees C)",9.09323695652174,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"summer_temp","Summer air temperature (degrees C)",15.9622113043478,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"dry_spell","Apr-Sep longest dry spell (days)",13,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"spring_air_frost_days","Spring air frost (days)",5,1,TRUE
+2005,"G","Gibecq",2.02734416666667,"spring_ground_frost_days","Spring ground frost (days)",17,1,TRUE
+2005,"R","Robusta",2.01450683333333,"spring_rainfall","Spring rainfall (mm)",119.6775,1,TRUE
+2005,"R","Robusta",2.01450683333333,"summer_rainfall","Summer rainfall (mm)",234.824,1,TRUE
+2005,"R","Robusta",2.01450683333333,"spring_sunshine","Spring sunshine (hours)",418.8,1,TRUE
+2005,"R","Robusta",2.01450683333333,"summer_sunshine","Summer sunshine (hours)",464.1,1,TRUE
+2005,"R","Robusta",2.01450683333333,"spring_temp","Spring air temperature (degrees C)",9.09323695652174,1,TRUE
+2005,"R","Robusta",2.01450683333333,"summer_temp","Summer air temperature (degrees C)",15.9622113043478,1,TRUE
+2005,"R","Robusta",2.01450683333333,"dry_spell","Apr-Sep longest dry spell (days)",13,1,TRUE
+2005,"R","Robusta",2.01450683333333,"spring_air_frost_days","Spring air frost (days)",5,1,TRUE
+2005,"R","Robusta",2.01450683333333,"spring_ground_frost_days","Spring ground frost (days)",17,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"spring_rainfall","Spring rainfall (mm)",119.6775,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"summer_rainfall","Summer rainfall (mm)",234.824,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"spring_sunshine","Spring sunshine (hours)",418.8,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"summer_sunshine","Summer sunshine (hours)",464.1,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"spring_temp","Spring air temperature (degrees C)",9.09323695652174,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"summer_temp","Summer air temperature (degrees C)",15.9622113043478,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"dry_spell","Apr-Sep longest dry spell (days)",13,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"spring_air_frost_days","Spring air frost (days)",5,1,TRUE
+2005,"T","Trichobel",2.90314633333333,"spring_ground_frost_days","Spring ground frost (days)",17,1,TRUE
+2006,"B","Beaupre",1.266414,"spring_rainfall","Spring rainfall (mm)",127.065,1,TRUE
+2006,"B","Beaupre",1.266414,"summer_rainfall","Summer rainfall (mm)",150.6065,1,TRUE
+2006,"B","Beaupre",1.266414,"spring_sunshine","Spring sunshine (hours)",421.6,1,TRUE
+2006,"B","Beaupre",1.266414,"summer_sunshine","Summer sunshine (hours)",735.7,1,TRUE
+2006,"B","Beaupre",1.266414,"spring_temp","Spring air temperature (degrees C)",8.65054347826087,1,TRUE
+2006,"B","Beaupre",1.266414,"summer_temp","Summer air temperature (degrees C)",16.0505464130435,1,TRUE
+2006,"B","Beaupre",1.266414,"dry_spell","Apr-Sep longest dry spell (days)",12,1,TRUE
+2006,"B","Beaupre",1.266414,"spring_air_frost_days","Spring air frost (days)",12,1,TRUE
+2006,"B","Beaupre",1.266414,"spring_ground_frost_days","Spring ground frost (days)",26,1,TRUE
+2006,"G","Gibecq",1.109295,"spring_rainfall","Spring rainfall (mm)",127.065,1,TRUE
+2006,"G","Gibecq",1.109295,"summer_rainfall","Summer rainfall (mm)",150.6065,1,TRUE
+2006,"G","Gibecq",1.109295,"spring_sunshine","Spring sunshine (hours)",421.6,1,TRUE
+2006,"G","Gibecq",1.109295,"summer_sunshine","Summer sunshine (hours)",735.7,1,TRUE
+2006,"G","Gibecq",1.109295,"spring_temp","Spring air temperature (degrees C)",8.65054347826087,1,TRUE
+2006,"G","Gibecq",1.109295,"summer_temp","Summer air temperature (degrees C)",16.0505464130435,1,TRUE
+2006,"G","Gibecq",1.109295,"dry_spell","Apr-Sep longest dry spell (days)",12,1,TRUE
+2006,"G","Gibecq",1.109295,"spring_air_frost_days","Spring air frost (days)",12,1,TRUE
+2006,"G","Gibecq",1.109295,"spring_ground_frost_days","Spring ground frost (days)",26,1,TRUE
+2006,"R","Robusta",1.403862,"spring_rainfall","Spring rainfall (mm)",127.065,1,TRUE
+2006,"R","Robusta",1.403862,"summer_rainfall","Summer rainfall (mm)",150.6065,1,TRUE
+2006,"R","Robusta",1.403862,"spring_sunshine","Spring sunshine (hours)",421.6,1,TRUE
+2006,"R","Robusta",1.403862,"summer_sunshine","Summer sunshine (hours)",735.7,1,TRUE
+2006,"R","Robusta",1.403862,"spring_temp","Spring air temperature (degrees C)",8.65054347826087,1,TRUE
+2006,"R","Robusta",1.403862,"summer_temp","Summer air temperature (degrees C)",16.0505464130435,1,TRUE
+2006,"R","Robusta",1.403862,"dry_spell","Apr-Sep longest dry spell (days)",12,1,TRUE
+2006,"R","Robusta",1.403862,"spring_air_frost_days","Spring air frost (days)",12,1,TRUE
+2006,"R","Robusta",1.403862,"spring_ground_frost_days","Spring ground frost (days)",26,1,TRUE
+2006,"T","Trichobel",1.90485,"spring_rainfall","Spring rainfall (mm)",127.065,1,TRUE
+2006,"T","Trichobel",1.90485,"summer_rainfall","Summer rainfall (mm)",150.6065,1,TRUE
+2006,"T","Trichobel",1.90485,"spring_sunshine","Spring sunshine (hours)",421.6,1,TRUE
+2006,"T","Trichobel",1.90485,"summer_sunshine","Summer sunshine (hours)",735.7,1,TRUE
+2006,"T","Trichobel",1.90485,"spring_temp","Spring air temperature (degrees C)",8.65054347826087,1,TRUE
+2006,"T","Trichobel",1.90485,"summer_temp","Summer air temperature (degrees C)",16.0505464130435,1,TRUE
+2006,"T","Trichobel",1.90485,"dry_spell","Apr-Sep longest dry spell (days)",12,1,TRUE
+2006,"T","Trichobel",1.90485,"spring_air_frost_days","Spring air frost (days)",12,1,TRUE
+2006,"T","Trichobel",1.90485,"spring_ground_frost_days","Spring ground frost (days)",26,1,TRUE
+2007,"B","Beaupre",1.692536,"spring_rainfall","Spring rainfall (mm)",229.0125,1,TRUE
+2007,"B","Beaupre",1.692536,"summer_rainfall","Summer rainfall (mm)",151.9855,1,TRUE
+2007,"B","Beaupre",1.692536,"spring_sunshine","Spring sunshine (hours)",428.4,1,TRUE
+2007,"B","Beaupre",1.692536,"summer_sunshine","Summer sunshine (hours)",533.9,1,TRUE
+2007,"B","Beaupre",1.692536,"spring_temp","Spring air temperature (degrees C)",8.48043478260869,1,TRUE
+2007,"B","Beaupre",1.692536,"summer_temp","Summer air temperature (degrees C)",17.1256320652174,1,TRUE
+2007,"B","Beaupre",1.692536,"dry_spell","Apr-Sep longest dry spell (days)",18,1,TRUE
+2007,"B","Beaupre",1.692536,"spring_air_frost_days","Spring air frost (days)",14,1,TRUE
+2007,"B","Beaupre",1.692536,"spring_ground_frost_days","Spring ground frost (days)",27,1,TRUE
+2007,"G","Gibecq",1.403198,"spring_rainfall","Spring rainfall (mm)",229.0125,1,TRUE
+2007,"G","Gibecq",1.403198,"summer_rainfall","Summer rainfall (mm)",151.9855,1,TRUE
+2007,"G","Gibecq",1.403198,"spring_sunshine","Spring sunshine (hours)",428.4,1,TRUE
+2007,"G","Gibecq",1.403198,"summer_sunshine","Summer sunshine (hours)",533.9,1,TRUE
+2007,"G","Gibecq",1.403198,"spring_temp","Spring air temperature (degrees C)",8.48043478260869,1,TRUE
+2007,"G","Gibecq",1.403198,"summer_temp","Summer air temperature (degrees C)",17.1256320652174,1,TRUE
+2007,"G","Gibecq",1.403198,"dry_spell","Apr-Sep longest dry spell (days)",18,1,TRUE
+2007,"G","Gibecq",1.403198,"spring_air_frost_days","Spring air frost (days)",14,1,TRUE
+2007,"G","Gibecq",1.403198,"spring_ground_frost_days","Spring ground frost (days)",27,1,TRUE
+2007,"R","Robusta",2.110773,"spring_rainfall","Spring rainfall (mm)",229.0125,1,TRUE
+2007,"R","Robusta",2.110773,"summer_rainfall","Summer rainfall (mm)",151.9855,1,TRUE
+2007,"R","Robusta",2.110773,"spring_sunshine","Spring sunshine (hours)",428.4,1,TRUE
+2007,"R","Robusta",2.110773,"summer_sunshine","Summer sunshine (hours)",533.9,1,TRUE
+2007,"R","Robusta",2.110773,"spring_temp","Spring air temperature (degrees C)",8.48043478260869,1,TRUE
+2007,"R","Robusta",2.110773,"summer_temp","Summer air temperature (degrees C)",17.1256320652174,1,TRUE
+2007,"R","Robusta",2.110773,"dry_spell","Apr-Sep longest dry spell (days)",18,1,TRUE
+2007,"R","Robusta",2.110773,"spring_air_frost_days","Spring air frost (days)",14,1,TRUE
+2007,"R","Robusta",2.110773,"spring_ground_frost_days","Spring ground frost (days)",27,1,TRUE
+2007,"T","Trichobel",2.861508,"spring_rainfall","Spring rainfall (mm)",229.0125,1,TRUE
+2007,"T","Trichobel",2.861508,"summer_rainfall","Summer rainfall (mm)",151.9855,1,TRUE
+2007,"T","Trichobel",2.861508,"spring_sunshine","Spring sunshine (hours)",428.4,1,TRUE
+2007,"T","Trichobel",2.861508,"summer_sunshine","Summer sunshine (hours)",533.9,1,TRUE
+2007,"T","Trichobel",2.861508,"spring_temp","Spring air temperature (degrees C)",8.48043478260869,1,TRUE
+2007,"T","Trichobel",2.861508,"summer_temp","Summer air temperature (degrees C)",17.1256320652174,1,TRUE
+2007,"T","Trichobel",2.861508,"dry_spell","Apr-Sep longest dry spell (days)",18,1,TRUE
+2007,"T","Trichobel",2.861508,"spring_air_frost_days","Spring air frost (days)",14,1,TRUE
+2007,"T","Trichobel",2.861508,"spring_ground_frost_days","Spring ground frost (days)",27,1,TRUE
+2008,"B","Beaupre",1.996731,"spring_rainfall","Spring rainfall (mm)",93.378,1,TRUE
+2008,"B","Beaupre",1.996731,"summer_rainfall","Summer rainfall (mm)",311.9495,1,TRUE
+2008,"B","Beaupre",1.996731,"spring_sunshine","Spring sunshine (hours)",519.4,1,TRUE
+2008,"B","Beaupre",1.996731,"summer_sunshine","Summer sunshine (hours)",488.1,1,TRUE
+2008,"B","Beaupre",1.996731,"spring_temp","Spring air temperature (degrees C)",9.65,1,TRUE
+2008,"B","Beaupre",1.996731,"summer_temp","Summer air temperature (degrees C)",15.2632258695652,1,TRUE
+2008,"B","Beaupre",1.996731,"dry_spell","Apr-Sep longest dry spell (days)",30,1,TRUE
+2008,"B","Beaupre",1.996731,"spring_air_frost_days","Spring air frost (days)",1,1,TRUE
+2008,"B","Beaupre",1.996731,"spring_ground_frost_days","Spring ground frost (days)",11,1,TRUE
+2008,"G","Gibecq",1.871567,"spring_rainfall","Spring rainfall (mm)",93.378,1,TRUE
+2008,"G","Gibecq",1.871567,"summer_rainfall","Summer rainfall (mm)",311.9495,1,TRUE
+2008,"G","Gibecq",1.871567,"spring_sunshine","Spring sunshine (hours)",519.4,1,TRUE
+2008,"G","Gibecq",1.871567,"summer_sunshine","Summer sunshine (hours)",488.1,1,TRUE
+2008,"G","Gibecq",1.871567,"spring_temp","Spring air temperature (degrees C)",9.65,1,TRUE
+2008,"G","Gibecq",1.871567,"summer_temp","Summer air temperature (degrees C)",15.2632258695652,1,TRUE
+2008,"G","Gibecq",1.871567,"dry_spell","Apr-Sep longest dry spell (days)",30,1,TRUE
+2008,"G","Gibecq",1.871567,"spring_air_frost_days","Spring air frost (days)",1,1,TRUE
+2008,"G","Gibecq",1.871567,"spring_ground_frost_days","Spring ground frost (days)",11,1,TRUE
+2008,"R","Robusta",2.425675,"spring_rainfall","Spring rainfall (mm)",93.378,1,TRUE
+2008,"R","Robusta",2.425675,"summer_rainfall","Summer rainfall (mm)",311.9495,1,TRUE
+2008,"R","Robusta",2.425675,"spring_sunshine","Spring sunshine (hours)",519.4,1,TRUE
+2008,"R","Robusta",2.425675,"summer_sunshine","Summer sunshine (hours)",488.1,1,TRUE
+2008,"R","Robusta",2.425675,"spring_temp","Spring air temperature (degrees C)",9.65,1,TRUE
+2008,"R","Robusta",2.425675,"summer_temp","Summer air temperature (degrees C)",15.2632258695652,1,TRUE
+2008,"R","Robusta",2.425675,"dry_spell","Apr-Sep longest dry spell (days)",30,1,TRUE
+2008,"R","Robusta",2.425675,"spring_air_frost_days","Spring air frost (days)",1,1,TRUE
+2008,"R","Robusta",2.425675,"spring_ground_frost_days","Spring ground frost (days)",11,1,TRUE
+2008,"T","Trichobel",3.375444,"spring_rainfall","Spring rainfall (mm)",93.378,1,TRUE
+2008,"T","Trichobel",3.375444,"summer_rainfall","Summer rainfall (mm)",311.9495,1,TRUE
+2008,"T","Trichobel",3.375444,"spring_sunshine","Spring sunshine (hours)",519.4,1,TRUE
+2008,"T","Trichobel",3.375444,"summer_sunshine","Summer sunshine (hours)",488.1,1,TRUE
+2008,"T","Trichobel",3.375444,"spring_temp","Spring air temperature (degrees C)",9.65,1,TRUE
+2008,"T","Trichobel",3.375444,"summer_temp","Summer air temperature (degrees C)",15.2632258695652,1,TRUE
+2008,"T","Trichobel",3.375444,"dry_spell","Apr-Sep longest dry spell (days)",30,1,TRUE
+2008,"T","Trichobel",3.375444,"spring_air_frost_days","Spring air frost (days)",1,1,TRUE
+2008,"T","Trichobel",3.375444,"spring_ground_frost_days","Spring ground frost (days)",11,1,TRUE
+2009,"B","Beaupre",2.095003,"spring_rainfall","Spring rainfall (mm)",151.9855,1,TRUE
+2009,"B","Beaupre",2.095003,"summer_rainfall","Summer rainfall (mm)",259.3505,1,TRUE
+2009,"B","Beaupre",2.095003,"spring_sunshine","Spring sunshine (hours)",412,1,TRUE
+2009,"B","Beaupre",2.095003,"summer_sunshine","Summer sunshine (hours)",402.7,1,TRUE
+2009,"B","Beaupre",2.095003,"spring_temp","Spring air temperature (degrees C)",8.47771739130435,1,TRUE
+2009,"B","Beaupre",2.095003,"summer_temp","Summer air temperature (degrees C)",15.5271739130435,1,TRUE
+2009,"B","Beaupre",2.095003,"dry_spell","Apr-Sep longest dry spell (days)",21,1,TRUE
+2009,"B","Beaupre",2.095003,"spring_air_frost_days","Spring air frost (days)",7,1,TRUE
+2009,"B","Beaupre",2.095003,"spring_ground_frost_days","Spring ground frost (days)",20,1,TRUE
+2009,"G","Gibecq",1.856046,"spring_rainfall","Spring rainfall (mm)",151.9855,1,TRUE
+2009,"G","Gibecq",1.856046,"summer_rainfall","Summer rainfall (mm)",259.3505,1,TRUE
+2009,"G","Gibecq",1.856046,"spring_sunshine","Spring sunshine (hours)",412,1,TRUE
+2009,"G","Gibecq",1.856046,"summer_sunshine","Summer sunshine (hours)",402.7,1,TRUE
+2009,"G","Gibecq",1.856046,"spring_temp","Spring air temperature (degrees C)",8.47771739130435,1,TRUE
+2009,"G","Gibecq",1.856046,"summer_temp","Summer air temperature (degrees C)",15.5271739130435,1,TRUE
+2009,"G","Gibecq",1.856046,"dry_spell","Apr-Sep longest dry spell (days)",21,1,TRUE
+2009,"G","Gibecq",1.856046,"spring_air_frost_days","Spring air frost (days)",7,1,TRUE
+2009,"G","Gibecq",1.856046,"spring_ground_frost_days","Spring ground frost (days)",20,1,TRUE
+2009,"R","Robusta",2.167545,"spring_rainfall","Spring rainfall (mm)",151.9855,1,TRUE
+2009,"R","Robusta",2.167545,"summer_rainfall","Summer rainfall (mm)",259.3505,1,TRUE
+2009,"R","Robusta",2.167545,"spring_sunshine","Spring sunshine (hours)",412,1,TRUE
+2009,"R","Robusta",2.167545,"summer_sunshine","Summer sunshine (hours)",402.7,1,TRUE
+2009,"R","Robusta",2.167545,"spring_temp","Spring air temperature (degrees C)",8.47771739130435,1,TRUE
+2009,"R","Robusta",2.167545,"summer_temp","Summer air temperature (degrees C)",15.5271739130435,1,TRUE
+2009,"R","Robusta",2.167545,"dry_spell","Apr-Sep longest dry spell (days)",21,1,TRUE
+2009,"R","Robusta",2.167545,"spring_air_frost_days","Spring air frost (days)",7,1,TRUE
+2009,"R","Robusta",2.167545,"spring_ground_frost_days","Spring ground frost (days)",20,1,TRUE
+2009,"T","Trichobel",3.055562,"spring_rainfall","Spring rainfall (mm)",151.9855,1,TRUE
+2009,"T","Trichobel",3.055562,"summer_rainfall","Summer rainfall (mm)",259.3505,1,TRUE
+2009,"T","Trichobel",3.055562,"spring_sunshine","Spring sunshine (hours)",412,1,TRUE
+2009,"T","Trichobel",3.055562,"summer_sunshine","Summer sunshine (hours)",402.7,1,TRUE
+2009,"T","Trichobel",3.055562,"spring_temp","Spring air temperature (degrees C)",8.47771739130435,1,TRUE
+2009,"T","Trichobel",3.055562,"summer_temp","Summer air temperature (degrees C)",15.5271739130435,1,TRUE
+2009,"T","Trichobel",3.055562,"dry_spell","Apr-Sep longest dry spell (days)",21,1,TRUE
+2009,"T","Trichobel",3.055562,"spring_air_frost_days","Spring air frost (days)",7,1,TRUE
+2009,"T","Trichobel",3.055562,"spring_ground_frost_days","Spring ground frost (days)",20,1,TRUE
+2010,"B","Beaupre",1.282267,"spring_rainfall","Spring rainfall (mm)",84.119,1,TRUE
+2010,"B","Beaupre",1.282267,"summer_rainfall","Summer rainfall (mm)",238.0745,1,TRUE
+2010,"B","Beaupre",1.282267,"spring_sunshine","Spring sunshine (hours)",540.3,1,TRUE
+2010,"B","Beaupre",1.282267,"summer_sunshine","Summer sunshine (hours)",497.3,1,TRUE
+2010,"B","Beaupre",1.282267,"spring_temp","Spring air temperature (degrees C)",9.425,1,TRUE
+2010,"B","Beaupre",1.282267,"summer_temp","Summer air temperature (degrees C)",15.670652173913,1,TRUE
+2010,"B","Beaupre",1.282267,"dry_spell","Apr-Sep longest dry spell (days)",25,1,TRUE
+2010,"B","Beaupre",1.282267,"spring_air_frost_days","Spring air frost (days)",3,1,TRUE
+2010,"B","Beaupre",1.282267,"spring_ground_frost_days","Spring ground frost (days)",32,1,TRUE
+2010,"G","Gibecq",1.101161,"spring_rainfall","Spring rainfall (mm)",84.119,1,TRUE
+2010,"G","Gibecq",1.101161,"summer_rainfall","Summer rainfall (mm)",238.0745,1,TRUE
+2010,"G","Gibecq",1.101161,"spring_sunshine","Spring sunshine (hours)",540.3,1,TRUE
+2010,"G","Gibecq",1.101161,"summer_sunshine","Summer sunshine (hours)",497.3,1,TRUE
+2010,"G","Gibecq",1.101161,"spring_temp","Spring air temperature (degrees C)",9.425,1,TRUE
+2010,"G","Gibecq",1.101161,"summer_temp","Summer air temperature (degrees C)",15.670652173913,1,TRUE
+2010,"G","Gibecq",1.101161,"dry_spell","Apr-Sep longest dry spell (days)",25,1,TRUE
+2010,"G","Gibecq",1.101161,"spring_air_frost_days","Spring air frost (days)",3,1,TRUE
+2010,"G","Gibecq",1.101161,"spring_ground_frost_days","Spring ground frost (days)",32,1,TRUE
+2010,"R","Robusta",1.494498,"spring_rainfall","Spring rainfall (mm)",84.119,1,TRUE
+2010,"R","Robusta",1.494498,"summer_rainfall","Summer rainfall (mm)",238.0745,1,TRUE
+2010,"R","Robusta",1.494498,"spring_sunshine","Spring sunshine (hours)",540.3,1,TRUE
+2010,"R","Robusta",1.494498,"summer_sunshine","Summer sunshine (hours)",497.3,1,TRUE
+2010,"R","Robusta",1.494498,"spring_temp","Spring air temperature (degrees C)",9.425,1,TRUE
+2010,"R","Robusta",1.494498,"summer_temp","Summer air temperature (degrees C)",15.670652173913,1,TRUE
+2010,"R","Robusta",1.494498,"dry_spell","Apr-Sep longest dry spell (days)",25,1,TRUE
+2010,"R","Robusta",1.494498,"spring_air_frost_days","Spring air frost (days)",3,1,TRUE
+2010,"R","Robusta",1.494498,"spring_ground_frost_days","Spring ground frost (days)",32,1,TRUE
+2010,"T","Trichobel",3.174252,"spring_rainfall","Spring rainfall (mm)",84.119,1,TRUE
+2010,"T","Trichobel",3.174252,"summer_rainfall","Summer rainfall (mm)",238.0745,1,TRUE
+2010,"T","Trichobel",3.174252,"spring_sunshine","Spring sunshine (hours)",540.3,1,TRUE
+2010,"T","Trichobel",3.174252,"summer_sunshine","Summer sunshine (hours)",497.3,1,TRUE
+2010,"T","Trichobel",3.174252,"spring_temp","Spring air temperature (degrees C)",9.425,1,TRUE
+2010,"T","Trichobel",3.174252,"summer_temp","Summer air temperature (degrees C)",15.670652173913,1,TRUE
+2010,"T","Trichobel",3.174252,"dry_spell","Apr-Sep longest dry spell (days)",25,1,TRUE
+2010,"T","Trichobel",3.174252,"spring_air_frost_days","Spring air frost (days)",3,1,TRUE
+2010,"T","Trichobel",3.174252,"spring_ground_frost_days","Spring ground frost (days)",32,1,TRUE
+2011,"B","Beaupre",1.190967,"spring_rainfall","Spring rainfall (mm)",76.5345,1,TRUE
+2011,"B","Beaupre",1.190967,"summer_rainfall","Summer rainfall (mm)",118.2,1,TRUE
+2011,"B","Beaupre",1.190967,"spring_sunshine","Spring sunshine (hours)",495.1,1,TRUE
+2011,"B","Beaupre",1.190967,"summer_sunshine","Summer sunshine (hours)",482.2,1,TRUE
+2011,"B","Beaupre",1.190967,"spring_temp","Spring air temperature (degrees C)",8.46521739130435,1,TRUE
+2011,"B","Beaupre",1.190967,"summer_temp","Summer air temperature (degrees C)",15.7163043478261,1,TRUE
+2011,"B","Beaupre",1.190967,"dry_spell","Apr-Sep longest dry spell (days)",22,1,TRUE
+2011,"B","Beaupre",1.190967,"spring_air_frost_days","Spring air frost (days)",10,1,TRUE
+2011,"B","Beaupre",1.190967,"spring_ground_frost_days","Spring ground frost (days)",42,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"spring_rainfall","Spring rainfall (mm)",76.5345,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"summer_rainfall","Summer rainfall (mm)",118.2,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"spring_sunshine","Spring sunshine (hours)",495.1,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"summer_sunshine","Summer sunshine (hours)",482.2,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"spring_temp","Spring air temperature (degrees C)",8.46521739130435,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"summer_temp","Summer air temperature (degrees C)",15.7163043478261,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"dry_spell","Apr-Sep longest dry spell (days)",22,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"spring_air_frost_days","Spring air frost (days)",10,1,TRUE
+2011,"G","Gibecq",0.898723999999998,"spring_ground_frost_days","Spring ground frost (days)",42,1,TRUE
+2011,"R","Robusta",1.375061,"spring_rainfall","Spring rainfall (mm)",76.5345,1,TRUE
+2011,"R","Robusta",1.375061,"summer_rainfall","Summer rainfall (mm)",118.2,1,TRUE
+2011,"R","Robusta",1.375061,"spring_sunshine","Spring sunshine (hours)",495.1,1,TRUE
+2011,"R","Robusta",1.375061,"summer_sunshine","Summer sunshine (hours)",482.2,1,TRUE
+2011,"R","Robusta",1.375061,"spring_temp","Spring air temperature (degrees C)",8.46521739130435,1,TRUE
+2011,"R","Robusta",1.375061,"summer_temp","Summer air temperature (degrees C)",15.7163043478261,1,TRUE
+2011,"R","Robusta",1.375061,"dry_spell","Apr-Sep longest dry spell (days)",22,1,TRUE
+2011,"R","Robusta",1.375061,"spring_air_frost_days","Spring air frost (days)",10,1,TRUE
+2011,"R","Robusta",1.375061,"spring_ground_frost_days","Spring ground frost (days)",42,1,TRUE
+2011,"T","Trichobel",2.395048,"spring_rainfall","Spring rainfall (mm)",76.5345,1,TRUE
+2011,"T","Trichobel",2.395048,"summer_rainfall","Summer rainfall (mm)",118.2,1,TRUE
+2011,"T","Trichobel",2.395048,"spring_sunshine","Spring sunshine (hours)",495.1,1,TRUE
+2011,"T","Trichobel",2.395048,"summer_sunshine","Summer sunshine (hours)",482.2,1,TRUE
+2011,"T","Trichobel",2.395048,"spring_temp","Spring air temperature (degrees C)",8.46521739130435,1,TRUE
+2011,"T","Trichobel",2.395048,"summer_temp","Summer air temperature (degrees C)",15.7163043478261,1,TRUE
+2011,"T","Trichobel",2.395048,"dry_spell","Apr-Sep longest dry spell (days)",22,1,TRUE
+2011,"T","Trichobel",2.395048,"spring_air_frost_days","Spring air frost (days)",10,1,TRUE
+2011,"T","Trichobel",2.395048,"spring_ground_frost_days","Spring ground frost (days)",42,1,TRUE
+2012,"B","Beaupre",0.823443,"spring_rainfall","Spring rainfall (mm)",58.312,1,TRUE
+2012,"B","Beaupre",0.823443,"summer_rainfall","Summer rainfall (mm)",149.917,1,TRUE
+2012,"B","Beaupre",0.823443,"spring_sunshine","Spring sunshine (hours)",565.8,1,TRUE
+2012,"B","Beaupre",0.823443,"summer_sunshine","Summer sunshine (hours)",495.1,1,TRUE
+2012,"B","Beaupre",0.823443,"spring_temp","Spring air temperature (degrees C)",10.0788043478261,1,TRUE
+2012,"B","Beaupre",0.823443,"summer_temp","Summer air temperature (degrees C)",14.9728260869565,1,TRUE
+2012,"B","Beaupre",0.823443,"dry_spell","Apr-Sep longest dry spell (days)",35,1,TRUE
+2012,"B","Beaupre",0.823443,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2012,"B","Beaupre",0.823443,"spring_ground_frost_days","Spring ground frost (days)",36,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"spring_rainfall","Spring rainfall (mm)",58.312,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"summer_rainfall","Summer rainfall (mm)",149.917,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"spring_sunshine","Spring sunshine (hours)",565.8,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"summer_sunshine","Summer sunshine (hours)",495.1,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"spring_temp","Spring air temperature (degrees C)",10.0788043478261,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"summer_temp","Summer air temperature (degrees C)",14.9728260869565,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"dry_spell","Apr-Sep longest dry spell (days)",35,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2012,"G","Gibecq",0.820122999999998,"spring_ground_frost_days","Spring ground frost (days)",36,1,TRUE
+2012,"R","Robusta",0.926363,"spring_rainfall","Spring rainfall (mm)",58.312,1,TRUE
+2012,"R","Robusta",0.926363,"summer_rainfall","Summer rainfall (mm)",149.917,1,TRUE
+2012,"R","Robusta",0.926363,"spring_sunshine","Spring sunshine (hours)",565.8,1,TRUE
+2012,"R","Robusta",0.926363,"summer_sunshine","Summer sunshine (hours)",495.1,1,TRUE
+2012,"R","Robusta",0.926363,"spring_temp","Spring air temperature (degrees C)",10.0788043478261,1,TRUE
+2012,"R","Robusta",0.926363,"summer_temp","Summer air temperature (degrees C)",14.9728260869565,1,TRUE
+2012,"R","Robusta",0.926363,"dry_spell","Apr-Sep longest dry spell (days)",35,1,TRUE
+2012,"R","Robusta",0.926363,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2012,"R","Robusta",0.926363,"spring_ground_frost_days","Spring ground frost (days)",36,1,TRUE
+2012,"T","Trichobel",1.287164,"spring_rainfall","Spring rainfall (mm)",58.312,1,TRUE
+2012,"T","Trichobel",1.287164,"summer_rainfall","Summer rainfall (mm)",149.917,1,TRUE
+2012,"T","Trichobel",1.287164,"spring_sunshine","Spring sunshine (hours)",565.8,1,TRUE
+2012,"T","Trichobel",1.287164,"summer_sunshine","Summer sunshine (hours)",495.1,1,TRUE
+2012,"T","Trichobel",1.287164,"spring_temp","Spring air temperature (degrees C)",10.0788043478261,1,TRUE
+2012,"T","Trichobel",1.287164,"summer_temp","Summer air temperature (degrees C)",14.9728260869565,1,TRUE
+2012,"T","Trichobel",1.287164,"dry_spell","Apr-Sep longest dry spell (days)",35,1,TRUE
+2012,"T","Trichobel",1.287164,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2012,"T","Trichobel",1.287164,"spring_ground_frost_days","Spring ground frost (days)",36,1,TRUE
+2013,"B","Beaupre",1.193374,"spring_rainfall","Spring rainfall (mm)",189.0215,1,TRUE
+2013,"B","Beaupre",1.193374,"summer_rainfall","Summer rainfall (mm)",242.704,1,TRUE
+2013,"B","Beaupre",1.193374,"spring_sunshine","Spring sunshine (hours)",500.2,1,TRUE
+2013,"B","Beaupre",1.193374,"summer_sunshine","Summer sunshine (hours)",384,1,TRUE
+2013,"B","Beaupre",1.193374,"spring_temp","Spring air temperature (degrees C)",8.72065217391304,1,TRUE
+2013,"B","Beaupre",1.193374,"summer_temp","Summer air temperature (degrees C)",14.966847826087,1,TRUE
+2013,"B","Beaupre",1.193374,"dry_spell","Apr-Sep longest dry spell (days)",13,1,TRUE
+2013,"B","Beaupre",1.193374,"spring_air_frost_days","Spring air frost (days)",10,1,TRUE
+2013,"B","Beaupre",1.193374,"spring_ground_frost_days","Spring ground frost (days)",35,1,TRUE
+2013,"G","Gibecq",1.202255,"spring_rainfall","Spring rainfall (mm)",189.0215,1,TRUE
+2013,"G","Gibecq",1.202255,"summer_rainfall","Summer rainfall (mm)",242.704,1,TRUE
+2013,"G","Gibecq",1.202255,"spring_sunshine","Spring sunshine (hours)",500.2,1,TRUE
+2013,"G","Gibecq",1.202255,"summer_sunshine","Summer sunshine (hours)",384,1,TRUE
+2013,"G","Gibecq",1.202255,"spring_temp","Spring air temperature (degrees C)",8.72065217391304,1,TRUE
+2013,"G","Gibecq",1.202255,"summer_temp","Summer air temperature (degrees C)",14.966847826087,1,TRUE
+2013,"G","Gibecq",1.202255,"dry_spell","Apr-Sep longest dry spell (days)",13,1,TRUE
+2013,"G","Gibecq",1.202255,"spring_air_frost_days","Spring air frost (days)",10,1,TRUE
+2013,"G","Gibecq",1.202255,"spring_ground_frost_days","Spring ground frost (days)",35,1,TRUE
+2013,"R","Robusta",1.23421,"spring_rainfall","Spring rainfall (mm)",189.0215,1,TRUE
+2013,"R","Robusta",1.23421,"summer_rainfall","Summer rainfall (mm)",242.704,1,TRUE
+2013,"R","Robusta",1.23421,"spring_sunshine","Spring sunshine (hours)",500.2,1,TRUE
+2013,"R","Robusta",1.23421,"summer_sunshine","Summer sunshine (hours)",384,1,TRUE
+2013,"R","Robusta",1.23421,"spring_temp","Spring air temperature (degrees C)",8.72065217391304,1,TRUE
+2013,"R","Robusta",1.23421,"summer_temp","Summer air temperature (degrees C)",14.966847826087,1,TRUE
+2013,"R","Robusta",1.23421,"dry_spell","Apr-Sep longest dry spell (days)",13,1,TRUE
+2013,"R","Robusta",1.23421,"spring_air_frost_days","Spring air frost (days)",10,1,TRUE
+2013,"R","Robusta",1.23421,"spring_ground_frost_days","Spring ground frost (days)",35,1,TRUE
+2013,"T","Trichobel",2.26009,"spring_rainfall","Spring rainfall (mm)",189.0215,1,TRUE
+2013,"T","Trichobel",2.26009,"summer_rainfall","Summer rainfall (mm)",242.704,1,TRUE
+2013,"T","Trichobel",2.26009,"spring_sunshine","Spring sunshine (hours)",500.2,1,TRUE
+2013,"T","Trichobel",2.26009,"summer_sunshine","Summer sunshine (hours)",384,1,TRUE
+2013,"T","Trichobel",2.26009,"spring_temp","Spring air temperature (degrees C)",8.72065217391304,1,TRUE
+2013,"T","Trichobel",2.26009,"summer_temp","Summer air temperature (degrees C)",14.966847826087,1,TRUE
+2013,"T","Trichobel",2.26009,"dry_spell","Apr-Sep longest dry spell (days)",13,1,TRUE
+2013,"T","Trichobel",2.26009,"spring_air_frost_days","Spring air frost (days)",10,1,TRUE
+2013,"T","Trichobel",2.26009,"spring_ground_frost_days","Spring ground frost (days)",35,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"spring_rainfall","Spring rainfall (mm)",114.7525,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"summer_rainfall","Summer rainfall (mm)",147.6515,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"spring_sunshine","Spring sunshine (hours)",424.1,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"summer_sunshine","Summer sunshine (hours)",579.4,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"spring_temp","Spring air temperature (degrees C)",6.83532608695652,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"summer_temp","Summer air temperature (degrees C)",16.3445652173913,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"dry_spell","Apr-Sep longest dry spell (days)",19,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"spring_air_frost_days","Spring air frost (days)",23,1,TRUE
+2014,"B","Beaupre",0.804103999999998,"spring_ground_frost_days","Spring ground frost (days)",47,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"spring_rainfall","Spring rainfall (mm)",114.7525,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"summer_rainfall","Summer rainfall (mm)",147.6515,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"spring_sunshine","Spring sunshine (hours)",424.1,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"summer_sunshine","Summer sunshine (hours)",579.4,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"spring_temp","Spring air temperature (degrees C)",6.83532608695652,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"summer_temp","Summer air temperature (degrees C)",16.3445652173913,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"dry_spell","Apr-Sep longest dry spell (days)",19,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"spring_air_frost_days","Spring air frost (days)",23,1,TRUE
+2014,"G","Gibecq",0.843860999999998,"spring_ground_frost_days","Spring ground frost (days)",47,1,TRUE
+2014,"R","Robusta",1.189141,"spring_rainfall","Spring rainfall (mm)",114.7525,1,TRUE
+2014,"R","Robusta",1.189141,"summer_rainfall","Summer rainfall (mm)",147.6515,1,TRUE
+2014,"R","Robusta",1.189141,"spring_sunshine","Spring sunshine (hours)",424.1,1,TRUE
+2014,"R","Robusta",1.189141,"summer_sunshine","Summer sunshine (hours)",579.4,1,TRUE
+2014,"R","Robusta",1.189141,"spring_temp","Spring air temperature (degrees C)",6.83532608695652,1,TRUE
+2014,"R","Robusta",1.189141,"summer_temp","Summer air temperature (degrees C)",16.3445652173913,1,TRUE
+2014,"R","Robusta",1.189141,"dry_spell","Apr-Sep longest dry spell (days)",19,1,TRUE
+2014,"R","Robusta",1.189141,"spring_air_frost_days","Spring air frost (days)",23,1,TRUE
+2014,"R","Robusta",1.189141,"spring_ground_frost_days","Spring ground frost (days)",47,1,TRUE
+2014,"T","Trichobel",2.506019,"spring_rainfall","Spring rainfall (mm)",114.7525,1,TRUE
+2014,"T","Trichobel",2.506019,"summer_rainfall","Summer rainfall (mm)",147.6515,1,TRUE
+2014,"T","Trichobel",2.506019,"spring_sunshine","Spring sunshine (hours)",424.1,1,TRUE
+2014,"T","Trichobel",2.506019,"summer_sunshine","Summer sunshine (hours)",579.4,1,TRUE
+2014,"T","Trichobel",2.506019,"spring_temp","Spring air temperature (degrees C)",6.83532608695652,1,TRUE
+2014,"T","Trichobel",2.506019,"summer_temp","Summer air temperature (degrees C)",16.3445652173913,1,TRUE
+2014,"T","Trichobel",2.506019,"dry_spell","Apr-Sep longest dry spell (days)",19,1,TRUE
+2014,"T","Trichobel",2.506019,"spring_air_frost_days","Spring air frost (days)",23,1,TRUE
+2014,"T","Trichobel",2.506019,"spring_ground_frost_days","Spring ground frost (days)",47,1,TRUE
+2015,"B","Beaupre",0.904036,"spring_rainfall","Spring rainfall (mm)",153.9555,1,TRUE
+2015,"B","Beaupre",0.904036,"summer_rainfall","Summer rainfall (mm)",237.4835,1,TRUE
+2015,"B","Beaupre",0.904036,"spring_sunshine","Spring sunshine (hours)",413.7,1,TRUE
+2015,"B","Beaupre",0.904036,"summer_sunshine","Summer sunshine (hours)",548.3,1,TRUE
+2015,"B","Beaupre",0.904036,"spring_temp","Spring air temperature (degrees C)",9.73586956521739,1,TRUE
+2015,"B","Beaupre",0.904036,"summer_temp","Summer air temperature (degrees C)",15.9070652173913,1,TRUE
+2015,"B","Beaupre",0.904036,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+2015,"B","Beaupre",0.904036,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2015,"B","Beaupre",0.904036,"spring_ground_frost_days","Spring ground frost (days)",25,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"spring_rainfall","Spring rainfall (mm)",153.9555,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"summer_rainfall","Summer rainfall (mm)",237.4835,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"spring_sunshine","Spring sunshine (hours)",413.7,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"summer_sunshine","Summer sunshine (hours)",548.3,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"spring_temp","Spring air temperature (degrees C)",9.73586956521739,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"summer_temp","Summer air temperature (degrees C)",15.9070652173913,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2015,"G","Gibecq",0.687406000000003,"spring_ground_frost_days","Spring ground frost (days)",25,1,TRUE
+2015,"R","Robusta",1.373567,"spring_rainfall","Spring rainfall (mm)",153.9555,1,TRUE
+2015,"R","Robusta",1.373567,"summer_rainfall","Summer rainfall (mm)",237.4835,1,TRUE
+2015,"R","Robusta",1.373567,"spring_sunshine","Spring sunshine (hours)",413.7,1,TRUE
+2015,"R","Robusta",1.373567,"summer_sunshine","Summer sunshine (hours)",548.3,1,TRUE
+2015,"R","Robusta",1.373567,"spring_temp","Spring air temperature (degrees C)",9.73586956521739,1,TRUE
+2015,"R","Robusta",1.373567,"summer_temp","Summer air temperature (degrees C)",15.9070652173913,1,TRUE
+2015,"R","Robusta",1.373567,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+2015,"R","Robusta",1.373567,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2015,"R","Robusta",1.373567,"spring_ground_frost_days","Spring ground frost (days)",25,1,TRUE
+2015,"T","Trichobel",2.617986,"spring_rainfall","Spring rainfall (mm)",153.9555,1,TRUE
+2015,"T","Trichobel",2.617986,"summer_rainfall","Summer rainfall (mm)",237.4835,1,TRUE
+2015,"T","Trichobel",2.617986,"spring_sunshine","Spring sunshine (hours)",413.7,1,TRUE
+2015,"T","Trichobel",2.617986,"summer_sunshine","Summer sunshine (hours)",548.3,1,TRUE
+2015,"T","Trichobel",2.617986,"spring_temp","Spring air temperature (degrees C)",9.73586956521739,1,TRUE
+2015,"T","Trichobel",2.617986,"summer_temp","Summer air temperature (degrees C)",15.9070652173913,1,TRUE
+2015,"T","Trichobel",2.617986,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+2015,"T","Trichobel",2.617986,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2015,"T","Trichobel",2.617986,"spring_ground_frost_days","Spring ground frost (days)",25,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"spring_rainfall","Spring rainfall (mm)",116.427,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"summer_rainfall","Summer rainfall (mm)",172.2765,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"spring_sunshine","Spring sunshine (hours)",489.9,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"summer_sunshine","Summer sunshine (hours)",525.8,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"spring_temp","Spring air temperature (degrees C)",8.4320652173913,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"summer_temp","Summer air temperature (degrees C)",15.0190217391304,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2016,"B","Beaupre",0.362876000000002,"spring_ground_frost_days","Spring ground frost (days)",37,1,TRUE
+2016,"G","Gibecq",0.178367,"spring_rainfall","Spring rainfall (mm)",116.427,1,TRUE
+2016,"G","Gibecq",0.178367,"summer_rainfall","Summer rainfall (mm)",172.2765,1,TRUE
+2016,"G","Gibecq",0.178367,"spring_sunshine","Spring sunshine (hours)",489.9,1,TRUE
+2016,"G","Gibecq",0.178367,"summer_sunshine","Summer sunshine (hours)",525.8,1,TRUE
+2016,"G","Gibecq",0.178367,"spring_temp","Spring air temperature (degrees C)",8.4320652173913,1,TRUE
+2016,"G","Gibecq",0.178367,"summer_temp","Summer air temperature (degrees C)",15.0190217391304,1,TRUE
+2016,"G","Gibecq",0.178367,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+2016,"G","Gibecq",0.178367,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2016,"G","Gibecq",0.178367,"spring_ground_frost_days","Spring ground frost (days)",37,1,TRUE
+2016,"R","Robusta",0.651052,"spring_rainfall","Spring rainfall (mm)",116.427,1,TRUE
+2016,"R","Robusta",0.651052,"summer_rainfall","Summer rainfall (mm)",172.2765,1,TRUE
+2016,"R","Robusta",0.651052,"spring_sunshine","Spring sunshine (hours)",489.9,1,TRUE
+2016,"R","Robusta",0.651052,"summer_sunshine","Summer sunshine (hours)",525.8,1,TRUE
+2016,"R","Robusta",0.651052,"spring_temp","Spring air temperature (degrees C)",8.4320652173913,1,TRUE
+2016,"R","Robusta",0.651052,"summer_temp","Summer air temperature (degrees C)",15.0190217391304,1,TRUE
+2016,"R","Robusta",0.651052,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+2016,"R","Robusta",0.651052,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2016,"R","Robusta",0.651052,"spring_ground_frost_days","Spring ground frost (days)",37,1,TRUE
+2016,"T","Trichobel",2.221163,"spring_rainfall","Spring rainfall (mm)",116.427,1,TRUE
+2016,"T","Trichobel",2.221163,"summer_rainfall","Summer rainfall (mm)",172.2765,1,TRUE
+2016,"T","Trichobel",2.221163,"spring_sunshine","Spring sunshine (hours)",489.9,1,TRUE
+2016,"T","Trichobel",2.221163,"summer_sunshine","Summer sunshine (hours)",525.8,1,TRUE
+2016,"T","Trichobel",2.221163,"spring_temp","Spring air temperature (degrees C)",8.4320652173913,1,TRUE
+2016,"T","Trichobel",2.221163,"summer_temp","Summer air temperature (degrees C)",15.0190217391304,1,TRUE
+2016,"T","Trichobel",2.221163,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+2016,"T","Trichobel",2.221163,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2016,"T","Trichobel",2.221163,"spring_ground_frost_days","Spring ground frost (days)",37,1,TRUE
+2017,"B","Beaupre",0.450524,"spring_rainfall","Spring rainfall (mm)",206.653,1,TRUE
+2017,"B","Beaupre",0.450524,"summer_rainfall","Summer rainfall (mm)",140.3625,1,TRUE
+2017,"B","Beaupre",0.450524,"spring_sunshine","Spring sunshine (hours)",429.1,1,TRUE
+2017,"B","Beaupre",0.450524,"summer_sunshine","Summer sunshine (hours)",467.5,1,TRUE
+2017,"B","Beaupre",0.450524,"spring_temp","Spring air temperature (degrees C)",8.18423913043478,1,TRUE
+2017,"B","Beaupre",0.450524,"summer_temp","Summer air temperature (degrees C)",16.0298913043478,1,TRUE
+2017,"B","Beaupre",0.450524,"dry_spell","Apr-Sep longest dry spell (days)",18,1,TRUE
+2017,"B","Beaupre",0.450524,"spring_air_frost_days","Spring air frost (days)",5,1,TRUE
+2017,"B","Beaupre",0.450524,"spring_ground_frost_days","Spring ground frost (days)",29,1,TRUE
+2017,"G","Gibecq",0.183181,"spring_rainfall","Spring rainfall (mm)",206.653,1,TRUE
+2017,"G","Gibecq",0.183181,"summer_rainfall","Summer rainfall (mm)",140.3625,1,TRUE
+2017,"G","Gibecq",0.183181,"spring_sunshine","Spring sunshine (hours)",429.1,1,TRUE
+2017,"G","Gibecq",0.183181,"summer_sunshine","Summer sunshine (hours)",467.5,1,TRUE
+2017,"G","Gibecq",0.183181,"spring_temp","Spring air temperature (degrees C)",8.18423913043478,1,TRUE
+2017,"G","Gibecq",0.183181,"summer_temp","Summer air temperature (degrees C)",16.0298913043478,1,TRUE
+2017,"G","Gibecq",0.183181,"dry_spell","Apr-Sep longest dry spell (days)",18,1,TRUE
+2017,"G","Gibecq",0.183181,"spring_air_frost_days","Spring air frost (days)",5,1,TRUE
+2017,"G","Gibecq",0.183181,"spring_ground_frost_days","Spring ground frost (days)",29,1,TRUE
+2017,"R","Robusta",0.608307,"spring_rainfall","Spring rainfall (mm)",206.653,1,TRUE
+2017,"R","Robusta",0.608307,"summer_rainfall","Summer rainfall (mm)",140.3625,1,TRUE
+2017,"R","Robusta",0.608307,"spring_sunshine","Spring sunshine (hours)",429.1,1,TRUE
+2017,"R","Robusta",0.608307,"summer_sunshine","Summer sunshine (hours)",467.5,1,TRUE
+2017,"R","Robusta",0.608307,"spring_temp","Spring air temperature (degrees C)",8.18423913043478,1,TRUE
+2017,"R","Robusta",0.608307,"summer_temp","Summer air temperature (degrees C)",16.0298913043478,1,TRUE
+2017,"R","Robusta",0.608307,"dry_spell","Apr-Sep longest dry spell (days)",18,1,TRUE
+2017,"R","Robusta",0.608307,"spring_air_frost_days","Spring air frost (days)",5,1,TRUE
+2017,"R","Robusta",0.608307,"spring_ground_frost_days","Spring ground frost (days)",29,1,TRUE
+2017,"T","Trichobel",1.90983,"spring_rainfall","Spring rainfall (mm)",206.653,1,TRUE
+2017,"T","Trichobel",1.90983,"summer_rainfall","Summer rainfall (mm)",140.3625,1,TRUE
+2017,"T","Trichobel",1.90983,"spring_sunshine","Spring sunshine (hours)",429.1,1,TRUE
+2017,"T","Trichobel",1.90983,"summer_sunshine","Summer sunshine (hours)",467.5,1,TRUE
+2017,"T","Trichobel",1.90983,"spring_temp","Spring air temperature (degrees C)",8.18423913043478,1,TRUE
+2017,"T","Trichobel",1.90983,"summer_temp","Summer air temperature (degrees C)",16.0298913043478,1,TRUE
+2017,"T","Trichobel",1.90983,"dry_spell","Apr-Sep longest dry spell (days)",18,1,TRUE
+2017,"T","Trichobel",1.90983,"spring_air_frost_days","Spring air frost (days)",5,1,TRUE
+2017,"T","Trichobel",1.90983,"spring_ground_frost_days","Spring ground frost (days)",29,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"spring_rainfall","Spring rainfall (mm)",106.2815,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"summer_rainfall","Summer rainfall (mm)",184.6875,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"spring_sunshine","Spring sunshine (hours)",493.6,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"summer_sunshine","Summer sunshine (hours)",475.1,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"spring_temp","Spring air temperature (degrees C)",9.76032608695652,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"summer_temp","Summer air temperature (degrees C)",15.8875,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2018,"B","Beaupre",0.638103999999998,"spring_ground_frost_days","Spring ground frost (days)",23,1,TRUE
+2018,"G","Gibecq",0.547468,"spring_rainfall","Spring rainfall (mm)",106.2815,1,TRUE
+2018,"G","Gibecq",0.547468,"summer_rainfall","Summer rainfall (mm)",184.6875,1,TRUE
+2018,"G","Gibecq",0.547468,"spring_sunshine","Spring sunshine (hours)",493.6,1,TRUE
+2018,"G","Gibecq",0.547468,"summer_sunshine","Summer sunshine (hours)",475.1,1,TRUE
+2018,"G","Gibecq",0.547468,"spring_temp","Spring air temperature (degrees C)",9.76032608695652,1,TRUE
+2018,"G","Gibecq",0.547468,"summer_temp","Summer air temperature (degrees C)",15.8875,1,TRUE
+2018,"G","Gibecq",0.547468,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+2018,"G","Gibecq",0.547468,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2018,"G","Gibecq",0.547468,"spring_ground_frost_days","Spring ground frost (days)",23,1,TRUE
+2018,"R","Robusta",0.922877000000002,"spring_rainfall","Spring rainfall (mm)",106.2815,1,TRUE
+2018,"R","Robusta",0.922877000000002,"summer_rainfall","Summer rainfall (mm)",184.6875,1,TRUE
+2018,"R","Robusta",0.922877000000002,"spring_sunshine","Spring sunshine (hours)",493.6,1,TRUE
+2018,"R","Robusta",0.922877000000002,"summer_sunshine","Summer sunshine (hours)",475.1,1,TRUE
+2018,"R","Robusta",0.922877000000002,"spring_temp","Spring air temperature (degrees C)",9.76032608695652,1,TRUE
+2018,"R","Robusta",0.922877000000002,"summer_temp","Summer air temperature (degrees C)",15.8875,1,TRUE
+2018,"R","Robusta",0.922877000000002,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+2018,"R","Robusta",0.922877000000002,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2018,"R","Robusta",0.922877000000002,"spring_ground_frost_days","Spring ground frost (days)",23,1,TRUE
+2018,"T","Trichobel",2.732111,"spring_rainfall","Spring rainfall (mm)",106.2815,1,TRUE
+2018,"T","Trichobel",2.732111,"summer_rainfall","Summer rainfall (mm)",184.6875,1,TRUE
+2018,"T","Trichobel",2.732111,"spring_sunshine","Spring sunshine (hours)",493.6,1,TRUE
+2018,"T","Trichobel",2.732111,"summer_sunshine","Summer sunshine (hours)",475.1,1,TRUE
+2018,"T","Trichobel",2.732111,"spring_temp","Spring air temperature (degrees C)",9.76032608695652,1,TRUE
+2018,"T","Trichobel",2.732111,"summer_temp","Summer air temperature (degrees C)",15.8875,1,TRUE
+2018,"T","Trichobel",2.732111,"dry_spell","Apr-Sep longest dry spell (days)",17,1,TRUE
+2018,"T","Trichobel",2.732111,"spring_air_frost_days","Spring air frost (days)",6,1,TRUE
+2018,"T","Trichobel",2.732111,"spring_ground_frost_days","Spring ground frost (days)",23,1,TRUE
+2019,"B","Beaupre",0.787171999999998,"spring_rainfall","Spring rainfall (mm)",190.893,1,FALSE
+2019,"B","Beaupre",0.787171999999998,"summer_rainfall","Summer rainfall (mm)",72.3975,1,FALSE
+2019,"B","Beaupre",0.787171999999998,"spring_sunshine","Spring sunshine (hours)",483.7,1,FALSE
+2019,"B","Beaupre",0.787171999999998,"summer_sunshine","Summer sunshine (hours)",599.8,1,FALSE
+2019,"B","Beaupre",0.787171999999998,"spring_temp","Spring air temperature (degrees C)",8.75217391304348,1,FALSE
+2019,"B","Beaupre",0.787171999999998,"summer_temp","Summer air temperature (degrees C)",17.2048913043478,1,FALSE
+2019,"B","Beaupre",0.787171999999998,"dry_spell","Apr-Sep longest dry spell (days)",39,1,FALSE
+2019,"B","Beaupre",0.787171999999998,"spring_air_frost_days","Spring air frost (days)",11,1,FALSE
+2019,"B","Beaupre",0.787171999999998,"spring_ground_frost_days","Spring ground frost (days)",NA,0.978260869565217,FALSE
+2019,"G","Gibecq",0.530951,"spring_rainfall","Spring rainfall (mm)",190.893,1,FALSE
+2019,"G","Gibecq",0.530951,"summer_rainfall","Summer rainfall (mm)",72.3975,1,FALSE
+2019,"G","Gibecq",0.530951,"spring_sunshine","Spring sunshine (hours)",483.7,1,FALSE
+2019,"G","Gibecq",0.530951,"summer_sunshine","Summer sunshine (hours)",599.8,1,FALSE
+2019,"G","Gibecq",0.530951,"spring_temp","Spring air temperature (degrees C)",8.75217391304348,1,FALSE
+2019,"G","Gibecq",0.530951,"summer_temp","Summer air temperature (degrees C)",17.2048913043478,1,FALSE
+2019,"G","Gibecq",0.530951,"dry_spell","Apr-Sep longest dry spell (days)",39,1,FALSE
+2019,"G","Gibecq",0.530951,"spring_air_frost_days","Spring air frost (days)",11,1,FALSE
+2019,"G","Gibecq",0.530951,"spring_ground_frost_days","Spring ground frost (days)",NA,0.978260869565217,FALSE
+2019,"R","Robusta",0.886689,"spring_rainfall","Spring rainfall (mm)",190.893,1,FALSE
+2019,"R","Robusta",0.886689,"summer_rainfall","Summer rainfall (mm)",72.3975,1,FALSE
+2019,"R","Robusta",0.886689,"spring_sunshine","Spring sunshine (hours)",483.7,1,FALSE
+2019,"R","Robusta",0.886689,"summer_sunshine","Summer sunshine (hours)",599.8,1,FALSE
+2019,"R","Robusta",0.886689,"spring_temp","Spring air temperature (degrees C)",8.75217391304348,1,FALSE
+2019,"R","Robusta",0.886689,"summer_temp","Summer air temperature (degrees C)",17.2048913043478,1,FALSE
+2019,"R","Robusta",0.886689,"dry_spell","Apr-Sep longest dry spell (days)",39,1,FALSE
+2019,"R","Robusta",0.886689,"spring_air_frost_days","Spring air frost (days)",11,1,FALSE
+2019,"R","Robusta",0.886689,"spring_ground_frost_days","Spring ground frost (days)",NA,0.978260869565217,FALSE
+2019,"T","Trichobel",1.707144,"spring_rainfall","Spring rainfall (mm)",190.893,1,FALSE
+2019,"T","Trichobel",1.707144,"summer_rainfall","Summer rainfall (mm)",72.3975,1,FALSE
+2019,"T","Trichobel",1.707144,"spring_sunshine","Spring sunshine (hours)",483.7,1,FALSE
+2019,"T","Trichobel",1.707144,"summer_sunshine","Summer sunshine (hours)",599.8,1,FALSE
+2019,"T","Trichobel",1.707144,"spring_temp","Spring air temperature (degrees C)",8.75217391304348,1,FALSE
+2019,"T","Trichobel",1.707144,"summer_temp","Summer air temperature (degrees C)",17.2048913043478,1,FALSE
+2019,"T","Trichobel",1.707144,"dry_spell","Apr-Sep longest dry spell (days)",39,1,FALSE
+2019,"T","Trichobel",1.707144,"spring_air_frost_days","Spring air frost (days)",11,1,FALSE
+2019,"T","Trichobel",1.707144,"spring_ground_frost_days","Spring ground frost (days)",NA,0.978260869565217,FALSE
+2020,"B","Beaupre",1.591193,"spring_rainfall","Spring rainfall (mm)",116.1315,1,TRUE
+2020,"B","Beaupre",1.591193,"summer_rainfall","Summer rainfall (mm)",236.203,1,TRUE
+2020,"B","Beaupre",1.591193,"spring_sunshine","Spring sunshine (hours)",508.3,1,TRUE
+2020,"B","Beaupre",1.591193,"summer_sunshine","Summer sunshine (hours)",502.6,1,TRUE
+2020,"B","Beaupre",1.591193,"spring_temp","Spring air temperature (degrees C)",9.19891304347826,1,TRUE
+2020,"B","Beaupre",1.591193,"summer_temp","Summer air temperature (degrees C)",16.4625,1,TRUE
+2020,"B","Beaupre",1.591193,"dry_spell","Apr-Sep longest dry spell (days)",20,1,TRUE
+2020,"B","Beaupre",1.591193,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2020,"B","Beaupre",1.591193,"spring_ground_frost_days","Spring ground frost (days)",24,1,TRUE
+2020,"G","Gibecq",1.370164,"spring_rainfall","Spring rainfall (mm)",116.1315,1,TRUE
+2020,"G","Gibecq",1.370164,"summer_rainfall","Summer rainfall (mm)",236.203,1,TRUE
+2020,"G","Gibecq",1.370164,"spring_sunshine","Spring sunshine (hours)",508.3,1,TRUE
+2020,"G","Gibecq",1.370164,"summer_sunshine","Summer sunshine (hours)",502.6,1,TRUE
+2020,"G","Gibecq",1.370164,"spring_temp","Spring air temperature (degrees C)",9.19891304347826,1,TRUE
+2020,"G","Gibecq",1.370164,"summer_temp","Summer air temperature (degrees C)",16.4625,1,TRUE
+2020,"G","Gibecq",1.370164,"dry_spell","Apr-Sep longest dry spell (days)",20,1,TRUE
+2020,"G","Gibecq",1.370164,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2020,"G","Gibecq",1.370164,"spring_ground_frost_days","Spring ground frost (days)",24,1,TRUE
+2020,"R","Robusta",1.210306,"spring_rainfall","Spring rainfall (mm)",116.1315,1,TRUE
+2020,"R","Robusta",1.210306,"summer_rainfall","Summer rainfall (mm)",236.203,1,TRUE
+2020,"R","Robusta",1.210306,"spring_sunshine","Spring sunshine (hours)",508.3,1,TRUE
+2020,"R","Robusta",1.210306,"summer_sunshine","Summer sunshine (hours)",502.6,1,TRUE
+2020,"R","Robusta",1.210306,"spring_temp","Spring air temperature (degrees C)",9.19891304347826,1,TRUE
+2020,"R","Robusta",1.210306,"summer_temp","Summer air temperature (degrees C)",16.4625,1,TRUE
+2020,"R","Robusta",1.210306,"dry_spell","Apr-Sep longest dry spell (days)",20,1,TRUE
+2020,"R","Robusta",1.210306,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2020,"R","Robusta",1.210306,"spring_ground_frost_days","Spring ground frost (days)",24,1,TRUE
+2020,"T","Trichobel",1.994988,"spring_rainfall","Spring rainfall (mm)",116.1315,1,TRUE
+2020,"T","Trichobel",1.994988,"summer_rainfall","Summer rainfall (mm)",236.203,1,TRUE
+2020,"T","Trichobel",1.994988,"spring_sunshine","Spring sunshine (hours)",508.3,1,TRUE
+2020,"T","Trichobel",1.994988,"summer_sunshine","Summer sunshine (hours)",502.6,1,TRUE
+2020,"T","Trichobel",1.994988,"spring_temp","Spring air temperature (degrees C)",9.19891304347826,1,TRUE
+2020,"T","Trichobel",1.994988,"summer_temp","Summer air temperature (degrees C)",16.4625,1,TRUE
+2020,"T","Trichobel",1.994988,"dry_spell","Apr-Sep longest dry spell (days)",20,1,TRUE
+2020,"T","Trichobel",1.994988,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2020,"T","Trichobel",1.994988,"spring_ground_frost_days","Spring ground frost (days)",24,1,TRUE
+2021,"B","Beaupre",1.49898,"spring_rainfall","Spring rainfall (mm)",34.3765,1,TRUE
+2021,"B","Beaupre",1.49898,"summer_rainfall","Summer rainfall (mm)",196.3105,1,TRUE
+2021,"B","Beaupre",1.49898,"spring_sunshine","Spring sunshine (hours)",655.6,1,TRUE
+2021,"B","Beaupre",1.49898,"summer_sunshine","Summer sunshine (hours)",447.7,1,TRUE
+2021,"B","Beaupre",1.49898,"spring_temp","Spring air temperature (degrees C)",9.48967391304348,1,TRUE
+2021,"B","Beaupre",1.49898,"summer_temp","Summer air temperature (degrees C)",15.7516304347826,1,TRUE
+2021,"B","Beaupre",1.49898,"dry_spell","Apr-Sep longest dry spell (days)",28,1,TRUE
+2021,"B","Beaupre",1.49898,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2021,"B","Beaupre",1.49898,"spring_ground_frost_days","Spring ground frost (days)",44,1,TRUE
+2021,"G","Gibecq",1.330075,"spring_rainfall","Spring rainfall (mm)",34.3765,1,TRUE
+2021,"G","Gibecq",1.330075,"summer_rainfall","Summer rainfall (mm)",196.3105,1,TRUE
+2021,"G","Gibecq",1.330075,"spring_sunshine","Spring sunshine (hours)",655.6,1,TRUE
+2021,"G","Gibecq",1.330075,"summer_sunshine","Summer sunshine (hours)",447.7,1,TRUE
+2021,"G","Gibecq",1.330075,"spring_temp","Spring air temperature (degrees C)",9.48967391304348,1,TRUE
+2021,"G","Gibecq",1.330075,"summer_temp","Summer air temperature (degrees C)",15.7516304347826,1,TRUE
+2021,"G","Gibecq",1.330075,"dry_spell","Apr-Sep longest dry spell (days)",28,1,TRUE
+2021,"G","Gibecq",1.330075,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2021,"G","Gibecq",1.330075,"spring_ground_frost_days","Spring ground frost (days)",44,1,TRUE
+2021,"R","Robusta",1.618583,"spring_rainfall","Spring rainfall (mm)",34.3765,1,TRUE
+2021,"R","Robusta",1.618583,"summer_rainfall","Summer rainfall (mm)",196.3105,1,TRUE
+2021,"R","Robusta",1.618583,"spring_sunshine","Spring sunshine (hours)",655.6,1,TRUE
+2021,"R","Robusta",1.618583,"summer_sunshine","Summer sunshine (hours)",447.7,1,TRUE
+2021,"R","Robusta",1.618583,"spring_temp","Spring air temperature (degrees C)",9.48967391304348,1,TRUE
+2021,"R","Robusta",1.618583,"summer_temp","Summer air temperature (degrees C)",15.7516304347826,1,TRUE
+2021,"R","Robusta",1.618583,"dry_spell","Apr-Sep longest dry spell (days)",28,1,TRUE
+2021,"R","Robusta",1.618583,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2021,"R","Robusta",1.618583,"spring_ground_frost_days","Spring ground frost (days)",44,1,TRUE
+2021,"T","Trichobel",3.723546,"spring_rainfall","Spring rainfall (mm)",34.3765,1,TRUE
+2021,"T","Trichobel",3.723546,"summer_rainfall","Summer rainfall (mm)",196.3105,1,TRUE
+2021,"T","Trichobel",3.723546,"spring_sunshine","Spring sunshine (hours)",655.6,1,TRUE
+2021,"T","Trichobel",3.723546,"summer_sunshine","Summer sunshine (hours)",447.7,1,TRUE
+2021,"T","Trichobel",3.723546,"spring_temp","Spring air temperature (degrees C)",9.48967391304348,1,TRUE
+2021,"T","Trichobel",3.723546,"summer_temp","Summer air temperature (degrees C)",15.7516304347826,1,TRUE
+2021,"T","Trichobel",3.723546,"dry_spell","Apr-Sep longest dry spell (days)",28,1,TRUE
+2021,"T","Trichobel",3.723546,"spring_air_frost_days","Spring air frost (days)",8,1,TRUE
+2021,"T","Trichobel",3.723546,"spring_ground_frost_days","Spring ground frost (days)",44,1,TRUE
+2022,"B","Beaupre",1.494,"spring_rainfall","Spring rainfall (mm)",147.947,1,TRUE
+2022,"B","Beaupre",1.494,"summer_rainfall","Summer rainfall (mm)",203.501,1,TRUE
+2022,"B","Beaupre",1.494,"spring_sunshine","Spring sunshine (hours)",521.8,1,TRUE
+2022,"B","Beaupre",1.494,"summer_sunshine","Summer sunshine (hours)",511.4,1,TRUE
+2022,"B","Beaupre",1.494,"spring_temp","Spring air temperature (degrees C)",7.78097826086957,1,TRUE
+2022,"B","Beaupre",1.494,"summer_temp","Summer air temperature (degrees C)",16.5554347826087,1,TRUE
+2022,"B","Beaupre",1.494,"dry_spell","Apr-Sep longest dry spell (days)",23,1,TRUE
+2022,"B","Beaupre",1.494,"spring_air_frost_days","Spring air frost (days)",21,1,TRUE
+2022,"B","Beaupre",1.494,"spring_ground_frost_days","Spring ground frost (days)",44,1,TRUE
+2022,"G","Gibecq",1.370164,"spring_rainfall","Spring rainfall (mm)",147.947,1,TRUE
+2022,"G","Gibecq",1.370164,"summer_rainfall","Summer rainfall (mm)",203.501,1,TRUE
+2022,"G","Gibecq",1.370164,"spring_sunshine","Spring sunshine (hours)",521.8,1,TRUE
+2022,"G","Gibecq",1.370164,"summer_sunshine","Summer sunshine (hours)",511.4,1,TRUE
+2022,"G","Gibecq",1.370164,"spring_temp","Spring air temperature (degrees C)",7.78097826086957,1,TRUE
+2022,"G","Gibecq",1.370164,"summer_temp","Summer air temperature (degrees C)",16.5554347826087,1,TRUE
+2022,"G","Gibecq",1.370164,"dry_spell","Apr-Sep longest dry spell (days)",23,1,TRUE
+2022,"G","Gibecq",1.370164,"spring_air_frost_days","Spring air frost (days)",21,1,TRUE
+2022,"G","Gibecq",1.370164,"spring_ground_frost_days","Spring ground frost (days)",44,1,TRUE
+2022,"R","Robusta",1.286998,"spring_rainfall","Spring rainfall (mm)",147.947,1,TRUE
+2022,"R","Robusta",1.286998,"summer_rainfall","Summer rainfall (mm)",203.501,1,TRUE
+2022,"R","Robusta",1.286998,"spring_sunshine","Spring sunshine (hours)",521.8,1,TRUE
+2022,"R","Robusta",1.286998,"summer_sunshine","Summer sunshine (hours)",511.4,1,TRUE
+2022,"R","Robusta",1.286998,"spring_temp","Spring air temperature (degrees C)",7.78097826086957,1,TRUE
+2022,"R","Robusta",1.286998,"summer_temp","Summer air temperature (degrees C)",16.5554347826087,1,TRUE
+2022,"R","Robusta",1.286998,"dry_spell","Apr-Sep longest dry spell (days)",23,1,TRUE
+2022,"R","Robusta",1.286998,"spring_air_frost_days","Spring air frost (days)",21,1,TRUE
+2022,"R","Robusta",1.286998,"spring_ground_frost_days","Spring ground frost (days)",44,1,TRUE
+2022,"T","Trichobel",2.095833,"spring_rainfall","Spring rainfall (mm)",147.947,1,TRUE
+2022,"T","Trichobel",2.095833,"summer_rainfall","Summer rainfall (mm)",203.501,1,TRUE
+2022,"T","Trichobel",2.095833,"spring_sunshine","Spring sunshine (hours)",521.8,1,TRUE
+2022,"T","Trichobel",2.095833,"summer_sunshine","Summer sunshine (hours)",511.4,1,TRUE
+2022,"T","Trichobel",2.095833,"spring_temp","Spring air temperature (degrees C)",7.78097826086957,1,TRUE
+2022,"T","Trichobel",2.095833,"summer_temp","Summer air temperature (degrees C)",16.5554347826087,1,TRUE
+2022,"T","Trichobel",2.095833,"dry_spell","Apr-Sep longest dry spell (days)",23,1,TRUE
+2022,"T","Trichobel",2.095833,"spring_air_frost_days","Spring air frost (days)",21,1,TRUE
+2022,"T","Trichobel",2.095833,"spring_ground_frost_days","Spring ground frost (days)",44,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"spring_rainfall","Spring rainfall (mm)",110.2215,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"summer_rainfall","Summer rainfall (mm)",75.057,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"spring_sunshine","Spring sunshine (hours)",507.7,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"summer_sunshine","Summer sunshine (hours)",507.7,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"spring_temp","Spring air temperature (degrees C)",9.7625,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"summer_temp","Summer air temperature (degrees C)",17.3947165217391,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+2023,"B","Beaupre",0.700852000000002,"spring_ground_frost_days","Spring ground frost (days)",32,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"spring_rainfall","Spring rainfall (mm)",110.2215,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"summer_rainfall","Summer rainfall (mm)",75.057,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"spring_sunshine","Spring sunshine (hours)",507.7,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"summer_sunshine","Summer sunshine (hours)",507.7,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"spring_temp","Spring air temperature (degrees C)",9.7625,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"summer_temp","Summer air temperature (degrees C)",17.3947165217391,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+2023,"G","Gibecq",0.420478000000003,"spring_ground_frost_days","Spring ground frost (days)",32,1,TRUE
+2023,"R","Robusta",0.858018476,"spring_rainfall","Spring rainfall (mm)",110.2215,1,TRUE
+2023,"R","Robusta",0.858018476,"summer_rainfall","Summer rainfall (mm)",75.057,1,TRUE
+2023,"R","Robusta",0.858018476,"spring_sunshine","Spring sunshine (hours)",507.7,1,TRUE
+2023,"R","Robusta",0.858018476,"summer_sunshine","Summer sunshine (hours)",507.7,1,TRUE
+2023,"R","Robusta",0.858018476,"spring_temp","Spring air temperature (degrees C)",9.7625,1,TRUE
+2023,"R","Robusta",0.858018476,"summer_temp","Summer air temperature (degrees C)",17.3947165217391,1,TRUE
+2023,"R","Robusta",0.858018476,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+2023,"R","Robusta",0.858018476,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+2023,"R","Robusta",0.858018476,"spring_ground_frost_days","Spring ground frost (days)",32,1,TRUE
+2023,"T","Trichobel",2.330889,"spring_rainfall","Spring rainfall (mm)",110.2215,1,TRUE
+2023,"T","Trichobel",2.330889,"summer_rainfall","Summer rainfall (mm)",75.057,1,TRUE
+2023,"T","Trichobel",2.330889,"spring_sunshine","Spring sunshine (hours)",507.7,1,TRUE
+2023,"T","Trichobel",2.330889,"summer_sunshine","Summer sunshine (hours)",507.7,1,TRUE
+2023,"T","Trichobel",2.330889,"spring_temp","Spring air temperature (degrees C)",9.7625,1,TRUE
+2023,"T","Trichobel",2.330889,"summer_temp","Summer air temperature (degrees C)",17.3947165217391,1,TRUE
+2023,"T","Trichobel",2.330889,"dry_spell","Apr-Sep longest dry spell (days)",24,1,TRUE
+2023,"T","Trichobel",2.330889,"spring_air_frost_days","Spring air frost (days)",9,1,TRUE
+2023,"T","Trichobel",2.330889,"spring_ground_frost_days","Spring ground frost (days)",32,1,TRUE

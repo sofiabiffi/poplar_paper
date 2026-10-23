@@ -1,0 +1,235 @@
+"measurement_year","id","label","value","coverage","growth_year","age_years","shared_departure","linear_departure","common_basis"
+1994,"spring_rainfall","Spring rainfall (mm)",144.9,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1994,"summer_rainfall","Summer rainfall (mm)",152.6,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1994,"spring_sunshine","Spring sunshine (hours)",362.9,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1994,"summer_sunshine","Summer sunshine (hours)",433.9,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1994,"spring_temp","Spring air temperature (degrees C)",8.54076086956522,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1994,"summer_temp","Summer air temperature (degrees C)",14.2222826086957,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1994,"dry_spell","Apr-Sep longest dry spell (days)",15,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1994,"spring_air_frost_days","Spring air frost (days)",9,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1994,"spring_ground_frost_days","Spring ground frost (days)",30,1,1993,2,-2.28626914420474,-2.77851182543091,TRUE
+1995,"spring_rainfall","Spring rainfall (mm)",121.1,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1995,"summer_rainfall","Summer rainfall (mm)",90.8,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1995,"spring_sunshine","Spring sunshine (hours)",426.5,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1995,"summer_sunshine","Summer sunshine (hours)",481,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1995,"spring_temp","Spring air temperature (degrees C)",8.39456521739131,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1995,"summer_temp","Summer air temperature (degrees C)",15.5048913043478,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1995,"dry_spell","Apr-Sep longest dry spell (days)",17,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1995,"spring_air_frost_days","Spring air frost (days)",3,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1995,"spring_ground_frost_days","Spring ground frost (days)",28,1,1994,3,-0.490920113396353,-1.03263471379687,TRUE
+1996,"spring_rainfall","Spring rainfall (mm)",107.2,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1996,"summer_rainfall","Summer rainfall (mm)",46.5,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1996,"spring_sunshine","Spring sunshine (hours)",513.2,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1996,"summer_sunshine","Summer sunshine (hours)",609.5,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1996,"spring_temp","Spring air temperature (degrees C)",8.17336956521739,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1996,"summer_temp","Summer air temperature (degrees C)",16.4815217391304,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1996,"dry_spell","Apr-Sep longest dry spell (days)",32,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1996,"spring_air_frost_days","Spring air frost (days)",14,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1996,"spring_ground_frost_days","Spring ground frost (days)",40,1,1995,4,0.313643756760993,-0.1816958818526,TRUE
+1997,"spring_rainfall","Spring rainfall (mm)",113.4,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1997,"summer_rainfall","Summer rainfall (mm)",123.3,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1997,"spring_sunshine","Spring sunshine (hours)",298.6,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1997,"summer_sunshine","Summer sunshine (hours)",566.2,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1997,"spring_temp","Spring air temperature (degrees C)",6.74239130434783,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1997,"summer_temp","Summer air temperature (degrees C)",15.2929347826087,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1997,"dry_spell","Apr-Sep longest dry spell (days)",15,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1997,"spring_air_frost_days","Spring air frost (days)",16,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1997,"spring_ground_frost_days","Spring ground frost (days)",39,1,1996,5,1.18138929078992,0.732090021784814,TRUE
+1998,"spring_rainfall","Spring rainfall (mm)",107.9,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+1998,"summer_rainfall","Summer rainfall (mm)",230.7,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+1998,"spring_sunshine","Spring sunshine (hours)",455.1,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+1998,"summer_sunshine","Summer sunshine (hours)",487.6,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+1998,"spring_temp","Spring air temperature (degrees C)",8.74402173913044,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+1998,"summer_temp","Summer air temperature (degrees C)",15.7934782608696,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+1998,"dry_spell","Apr-Sep longest dry spell (days)",24,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+1998,"spring_air_frost_days","Spring air frost (days)",9,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+1998,"spring_ground_frost_days","Spring ground frost (days)",41,1,1997,6,1.85938234199546,1.45854177303599,TRUE
+2001,"spring_rainfall","Spring rainfall (mm)",188.783,1,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2001,"summer_rainfall","Summer rainfall (mm)",174.542,1,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2001,"spring_sunshine","Spring sunshine (hours)",454.8,1,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2001,"summer_sunshine","Summer sunshine (hours)",465.7,1,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2001,"spring_temp","Spring air temperature (degrees C)",NA,0.989130434782609,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2001,"summer_temp","Summer air temperature (degrees C)",14.899587173913,1,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2001,"dry_spell","Apr-Sep longest dry spell (days)",20,1,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2001,"spring_air_frost_days","Spring air frost (days)",12,1,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2001,"spring_ground_frost_days","Spring ground frost (days)",27,1,2000,9,-0.780462493510041,-0.548342779850818,FALSE
+2002,"spring_rainfall","Spring rainfall (mm)",127.799,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2002,"summer_rainfall","Summer rainfall (mm)",141.5,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2002,"spring_sunshine","Spring sunshine (hours)",439.8,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2002,"summer_sunshine","Summer sunshine (hours)",456.7,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2002,"spring_temp","Spring air temperature (degrees C)",7.82529635869565,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2002,"summer_temp","Summer air temperature (degrees C)",14.951409673913,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2002,"dry_spell","Apr-Sep longest dry spell (days)",20,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2002,"spring_air_frost_days","Spring air frost (days)",11,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2002,"spring_ground_frost_days","Spring ground frost (days)",17,1,2001,10,0.466297779344336,0.648906346909964,TRUE
+2005,"spring_rainfall","Spring rainfall (mm)",119.6775,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2005,"summer_rainfall","Summer rainfall (mm)",234.824,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2005,"spring_sunshine","Spring sunshine (hours)",418.8,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2005,"summer_sunshine","Summer sunshine (hours)",464.1,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2005,"spring_temp","Spring air temperature (degrees C)",9.09323695652174,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2005,"summer_temp","Summer air temperature (degrees C)",15.9622113043478,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2005,"dry_spell","Apr-Sep longest dry spell (days)",13,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2005,"spring_air_frost_days","Spring air frost (days)",5,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2005,"spring_ground_frost_days","Spring ground frost (days)",17,1,2004,13,0.788537641623011,1.10443722126798,TRUE
+2006,"spring_rainfall","Spring rainfall (mm)",127.065,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2006,"summer_rainfall","Summer rainfall (mm)",150.6065,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2006,"spring_sunshine","Spring sunshine (hours)",421.6,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2006,"summer_sunshine","Summer sunshine (hours)",735.7,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2006,"spring_temp","Spring air temperature (degrees C)",8.65054347826087,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2006,"summer_temp","Summer air temperature (degrees C)",16.0505464130435,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2006,"dry_spell","Apr-Sep longest dry spell (days)",12,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2006,"spring_air_frost_days","Spring air frost (days)",12,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2006,"spring_ground_frost_days","Spring ground frost (days)",26,1,2005,14,-0.183966971763923,0.278347562498032,TRUE
+2007,"spring_rainfall","Spring rainfall (mm)",229.0125,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2007,"summer_rainfall","Summer rainfall (mm)",151.9855,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2007,"spring_sunshine","Spring sunshine (hours)",428.4,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2007,"summer_sunshine","Summer sunshine (hours)",533.9,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2007,"spring_temp","Spring air temperature (degrees C)",8.48043478260869,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2007,"summer_temp","Summer air temperature (degrees C)",17.1256320652174,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2007,"dry_spell","Apr-Sep longest dry spell (days)",18,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2007,"spring_air_frost_days","Spring air frost (days)",14,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2007,"spring_ground_frost_days","Spring ground frost (days)",27,1,2006,15,0.461152256953653,0.864368944419243,TRUE
+2008,"spring_rainfall","Spring rainfall (mm)",93.378,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2008,"summer_rainfall","Summer rainfall (mm)",311.9495,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2008,"spring_sunshine","Spring sunshine (hours)",519.4,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2008,"summer_sunshine","Summer sunshine (hours)",488.1,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2008,"spring_temp","Spring air temperature (degrees C)",9.65,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2008,"summer_temp","Summer air temperature (degrees C)",15.2632258695652,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2008,"dry_spell","Apr-Sep longest dry spell (days)",30,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2008,"spring_air_frost_days","Spring air frost (days)",1,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2008,"spring_ground_frost_days","Spring ground frost (days)",11,1,2007,16,0.786788852850609,1.1667249043686,TRUE
+2009,"spring_rainfall","Spring rainfall (mm)",151.9855,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2009,"summer_rainfall","Summer rainfall (mm)",259.3505,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2009,"spring_sunshine","Spring sunshine (hours)",412,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2009,"summer_sunshine","Summer sunshine (hours)",402.7,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2009,"spring_temp","Spring air temperature (degrees C)",8.47771739130435,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2009,"summer_temp","Summer air temperature (degrees C)",15.5271739130435,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2009,"dry_spell","Apr-Sep longest dry spell (days)",21,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2009,"spring_air_frost_days","Spring air frost (days)",7,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2009,"spring_ground_frost_days","Spring ground frost (days)",20,1,2008,17,0.672366376981296,1.07628128587285,TRUE
+2010,"spring_rainfall","Spring rainfall (mm)",84.119,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2010,"summer_rainfall","Summer rainfall (mm)",238.0745,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2010,"spring_sunshine","Spring sunshine (hours)",540.3,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2010,"summer_sunshine","Summer sunshine (hours)",497.3,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2010,"spring_temp","Spring air temperature (degrees C)",9.425,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2010,"summer_temp","Summer air temperature (degrees C)",15.670652173913,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2010,"dry_spell","Apr-Sep longest dry spell (days)",25,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2010,"spring_air_frost_days","Spring air frost (days)",3,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2010,"spring_ground_frost_days","Spring ground frost (days)",32,1,2009,18,0.079991544754141,0.515748216095628,TRUE
+2011,"spring_rainfall","Spring rainfall (mm)",76.5345,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2011,"summer_rainfall","Summer rainfall (mm)",118.2,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2011,"spring_sunshine","Spring sunshine (hours)",495.1,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2011,"summer_sunshine","Summer sunshine (hours)",482.2,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2011,"spring_temp","Spring air temperature (degrees C)",8.46521739130435,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2011,"summer_temp","Summer air temperature (degrees C)",15.7163043478261,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2011,"dry_spell","Apr-Sep longest dry spell (days)",22,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2011,"spring_air_frost_days","Spring air frost (days)",10,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2011,"spring_ground_frost_days","Spring ground frost (days)",42,1,2010,19,-0.234572624080167,0.224720617798461,TRUE
+2012,"spring_rainfall","Spring rainfall (mm)",58.312,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2012,"summer_rainfall","Summer rainfall (mm)",149.917,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2012,"spring_sunshine","Spring sunshine (hours)",565.8,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2012,"summer_sunshine","Summer sunshine (hours)",495.1,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2012,"spring_temp","Spring air temperature (degrees C)",10.0788043478261,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2012,"summer_temp","Summer air temperature (degrees C)",14.9728260869565,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2012,"dry_spell","Apr-Sep longest dry spell (days)",35,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2012,"spring_air_frost_days","Spring air frost (days)",6,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2012,"spring_ground_frost_days","Spring ground frost (days)",36,1,2011,20,-1.018192114573,-0.484221795021907,TRUE
+2013,"spring_rainfall","Spring rainfall (mm)",189.0215,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2013,"summer_rainfall","Summer rainfall (mm)",242.704,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2013,"spring_sunshine","Spring sunshine (hours)",500.2,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2013,"summer_sunshine","Summer sunshine (hours)",384,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2013,"spring_temp","Spring air temperature (degrees C)",8.72065217391304,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2013,"summer_temp","Summer air temperature (degrees C)",14.966847826087,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2013,"dry_spell","Apr-Sep longest dry spell (days)",13,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2013,"spring_air_frost_days","Spring air frost (days)",10,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2013,"spring_ground_frost_days","Spring ground frost (days)",35,1,2012,21,-0.161574807695858,0.214571277567489,TRUE
+2014,"spring_rainfall","Spring rainfall (mm)",114.7525,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2014,"summer_rainfall","Summer rainfall (mm)",147.6515,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2014,"spring_sunshine","Spring sunshine (hours)",424.1,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2014,"summer_sunshine","Summer sunshine (hours)",579.4,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2014,"spring_temp","Spring air temperature (degrees C)",6.83532608695652,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2014,"summer_temp","Summer air temperature (degrees C)",16.3445652173913,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2014,"dry_spell","Apr-Sep longest dry spell (days)",19,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2014,"spring_air_frost_days","Spring air frost (days)",23,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2014,"spring_ground_frost_days","Spring ground frost (days)",47,1,2013,22,-0.382567609875063,-0.0685296721846119,TRUE
+2015,"spring_rainfall","Spring rainfall (mm)",153.9555,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2015,"summer_rainfall","Summer rainfall (mm)",237.4835,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2015,"spring_sunshine","Spring sunshine (hours)",413.7,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2015,"summer_sunshine","Summer sunshine (hours)",548.3,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2015,"spring_temp","Spring air temperature (degrees C)",9.73586956521739,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2015,"summer_temp","Summer air temperature (degrees C)",15.9070652173913,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2015,"dry_spell","Apr-Sep longest dry spell (days)",17,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2015,"spring_air_frost_days","Spring air frost (days)",6,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2015,"spring_ground_frost_days","Spring ground frost (days)",25,1,2014,23,-0.225609675572391,-0.00266239046932733,TRUE
+2016,"spring_rainfall","Spring rainfall (mm)",116.427,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2016,"summer_rainfall","Summer rainfall (mm)",172.2765,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2016,"spring_sunshine","Spring sunshine (hours)",489.9,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2016,"summer_sunshine","Summer sunshine (hours)",525.8,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2016,"spring_temp","Spring air temperature (degrees C)",8.4320652173913,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2016,"summer_temp","Summer air temperature (degrees C)",15.0190217391304,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2016,"dry_spell","Apr-Sep longest dry spell (days)",24,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2016,"spring_air_frost_days","Spring air frost (days)",8,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2016,"spring_ground_frost_days","Spring ground frost (days)",37,1,2015,24,-1.54627693976146,-1.294231943061,TRUE
+2017,"spring_rainfall","Spring rainfall (mm)",206.653,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2017,"summer_rainfall","Summer rainfall (mm)",140.3625,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2017,"spring_sunshine","Spring sunshine (hours)",429.1,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2017,"summer_sunshine","Summer sunshine (hours)",467.5,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2017,"spring_temp","Spring air temperature (degrees C)",8.18423913043478,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2017,"summer_temp","Summer air temperature (degrees C)",16.0298913043478,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2017,"dry_spell","Apr-Sep longest dry spell (days)",18,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2017,"spring_air_frost_days","Spring air frost (days)",5,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2017,"spring_ground_frost_days","Spring ground frost (days)",29,1,2016,25,-1.46250288739262,-1.29688742978952,TRUE
+2018,"spring_rainfall","Spring rainfall (mm)",106.2815,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2018,"summer_rainfall","Summer rainfall (mm)",184.6875,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2018,"spring_sunshine","Spring sunshine (hours)",493.6,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2018,"summer_sunshine","Summer sunshine (hours)",475.1,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2018,"spring_temp","Spring air temperature (degrees C)",9.76032608695652,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2018,"summer_temp","Summer air temperature (degrees C)",15.8875,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2018,"dry_spell","Apr-Sep longest dry spell (days)",17,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2018,"spring_air_frost_days","Spring air frost (days)",6,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2018,"spring_ground_frost_days","Spring ground frost (days)",23,1,2017,26,-0.369802345967565,-0.435325885311798,TRUE
+2019,"spring_rainfall","Spring rainfall (mm)",190.893,1,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2019,"summer_rainfall","Summer rainfall (mm)",72.3975,1,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2019,"spring_sunshine","Spring sunshine (hours)",483.7,1,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2019,"summer_sunshine","Summer sunshine (hours)",599.8,1,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2019,"spring_temp","Spring air temperature (degrees C)",8.75217391304348,1,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2019,"summer_temp","Summer air temperature (degrees C)",17.2048913043478,1,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2019,"dry_spell","Apr-Sep longest dry spell (days)",39,1,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2019,"spring_air_frost_days","Spring air frost (days)",11,1,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2019,"spring_ground_frost_days","Spring ground frost (days)",NA,0.978260869565217,2018,27,-0.467998195256526,-0.608205391782823,FALSE
+2020,"spring_rainfall","Spring rainfall (mm)",116.1315,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2020,"summer_rainfall","Summer rainfall (mm)",236.203,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2020,"spring_sunshine","Spring sunshine (hours)",508.3,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2020,"summer_sunshine","Summer sunshine (hours)",502.6,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2020,"spring_temp","Spring air temperature (degrees C)",9.19891304347826,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2020,"summer_temp","Summer air temperature (degrees C)",16.4625,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2020,"dry_spell","Apr-Sep longest dry spell (days)",20,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2020,"spring_air_frost_days","Spring air frost (days)",8,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2020,"spring_ground_frost_days","Spring ground frost (days)",24,1,2019,28,0.602015631091587,0.236684718372371,TRUE
+2021,"spring_rainfall","Spring rainfall (mm)",34.3765,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2021,"summer_rainfall","Summer rainfall (mm)",196.3105,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2021,"spring_sunshine","Spring sunshine (hours)",655.6,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2021,"summer_sunshine","Summer sunshine (hours)",447.7,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2021,"spring_temp","Spring air temperature (degrees C)",9.48967391304348,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2021,"summer_temp","Summer air temperature (degrees C)",15.7516304347826,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2021,"dry_spell","Apr-Sep longest dry spell (days)",28,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2021,"spring_air_frost_days","Spring air frost (days)",8,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2021,"spring_ground_frost_days","Spring ground frost (days)",44,1,2020,29,1.25172032515167,0.625622231962415,TRUE
+2022,"spring_rainfall","Spring rainfall (mm)",147.947,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2022,"summer_rainfall","Summer rainfall (mm)",203.501,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2022,"spring_sunshine","Spring sunshine (hours)",521.8,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2022,"summer_sunshine","Summer sunshine (hours)",511.4,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2022,"spring_temp","Spring air temperature (degrees C)",7.78097826086957,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2022,"summer_temp","Summer air temperature (degrees C)",16.5554347826087,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2022,"dry_spell","Apr-Sep longest dry spell (days)",23,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2022,"spring_air_frost_days","Spring air frost (days)",21,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2022,"spring_ground_frost_days","Spring ground frost (days)",44,1,2021,30,0.946092601916859,0.231052964355584,TRUE
+2023,"spring_rainfall","Spring rainfall (mm)",110.2215,1,2022,31,0.201337522836167,-0.646848377757247,TRUE
+2023,"summer_rainfall","Summer rainfall (mm)",75.057,1,2022,31,0.201337522836167,-0.646848377757247,TRUE
+2023,"spring_sunshine","Spring sunshine (hours)",507.7,1,2022,31,0.201337522836167,-0.646848377757247,TRUE
+2023,"summer_sunshine","Summer sunshine (hours)",507.7,1,2022,31,0.201337522836167,-0.646848377757247,TRUE
+2023,"spring_temp","Spring air temperature (degrees C)",9.7625,1,2022,31,0.201337522836167,-0.646848377757247,TRUE
+2023,"summer_temp","Summer air temperature (degrees C)",17.3947165217391,1,2022,31,0.201337522836167,-0.646848377757247,TRUE
+2023,"dry_spell","Apr-Sep longest dry spell (days)",24,1,2022,31,0.201337522836167,-0.646848377757247,TRUE
+2023,"spring_air_frost_days","Spring air frost (days)",9,1,2022,31,0.201337522836167,-0.646848377757247,TRUE
+2023,"spring_ground_frost_days","Spring ground frost (days)",32,1,2022,31,0.201337522836167,-0.646848377757247,TRUE

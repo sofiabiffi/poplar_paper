@@ -1,0 +1,125 @@
+"measurement_year","hybrid_code","PAIC","MAIC","hybrid","taxon","growth_year","age_years"
+1993,"B",,0.16,"Beaupre","Populus trichocarpa x P. deltoides",1992,1
+1993,"G",,0.01,"Gibecq","Populus deltoides x P. nigra",1992,1
+1993,"R",,0.02,"Robusta","Populus nigra x P. deltoides",1992,1
+1993,"T",,0.08,"Trichobel","Populus trichocarpa",1992,1
+1994,"B",0.512608,0.34,"Beaupre","Populus trichocarpa x P. deltoides",1993,2
+1994,"G",0.0990605,0.05,"Gibecq","Populus deltoides x P. nigra",1993,2
+1994,"R",0.156206,0.09,"Robusta","Populus nigra x P. deltoides",1993,2
+1994,"T",0.232566,0.16,"Trichobel","Populus trichocarpa",1993,2
+1995,"B",1.15785,0.6,"Beaupre","Populus trichocarpa x P. deltoides",1994,3
+1995,"G",0.334988,0.15,"Gibecq","Populus deltoides x P. nigra",1994,3
+1995,"R",0.4686595,0.2,"Robusta","Populus nigra x P. deltoides",1994,3
+1995,"T",0.626318,0.3,"Trichobel","Populus trichocarpa",1994,3
+1996,"B",1.196113,0.75,"Beaupre","Populus trichocarpa x P. deltoides",1995,4
+1996,"G",0.8257255,0.33,"Gibecq","Populus deltoides x P. nigra",1995,4
+1996,"R",1.1169725,0.76,"Robusta","Populus nigra x P. deltoides",1995,4
+1996,"T",0.916071,0.46,"Trichobel","Populus trichocarpa",1995,4
+1997,"B",2.240336,1.11,"Beaupre","Populus trichocarpa x P. deltoides",1996,5
+1997,"G",1.346343,0.54,"Gibecq","Populus deltoides x P. nigra",1996,5
+1997,"R",1.5328025,0.68,"Robusta","Populus nigra x P. deltoides",1996,5
+1997,"T",1.746735,0.75,"Trichobel","Populus trichocarpa",1996,5
+1998,"B",3.018129,1.43,"Beaupre","Populus trichocarpa x P. deltoides",1997,6
+1998,"G",2.414221,0.82,"Gibecq","Populus deltoides x P. nigra",1997,6
+1998,"R",2.2800515,0.97,"Robusta","Populus nigra x P. deltoides",1997,6
+1998,"T",2.798511,1.12,"Trichobel","Populus trichocarpa",1997,6
+1999,"B",,,"Beaupre","Populus trichocarpa x P. deltoides",1998,7
+1999,"G",,,"Gibecq","Populus deltoides x P. nigra",1998,7
+1999,"R",,,"Robusta","Populus nigra x P. deltoides",1998,7
+1999,"T",,,"Trichobel","Populus trichocarpa",1998,7
+2000,"B",,,"Beaupre","Populus trichocarpa x P. deltoides",1999,8
+2000,"G",,,"Gibecq","Populus deltoides x P. nigra",1999,8
+2000,"R",,,"Robusta","Populus nigra x P. deltoides",1999,8
+2000,"T",,,"Trichobel","Populus trichocarpa",1999,8
+2001,"B",0.875567,1.23,"Beaupre","Populus trichocarpa x P. deltoides",2000,9
+2001,"G",0.732475,0.79,"Gibecq","Populus deltoides x P. nigra",2000,9
+2001,"R",0.670059,0.86,"Robusta","Populus nigra x P. deltoides",2000,9
+2001,"T",1.1402817,1.09,"Trichobel","Populus trichocarpa",2000,9
+2002,"B",1.852228,1.27,"Beaupre","Populus trichocarpa x P. deltoides",2001,10
+2002,"G",1.673031,0.88,"Gibecq","Populus deltoides x P. nigra",2001,10
+2002,"R",1.393072,0.93,"Robusta","Populus nigra x P. deltoides",2001,10
+2002,"T",1.926098,1.18,"Trichobel","Populus trichocarpa",2001,10
+2003,"B",,,"Beaupre","Populus trichocarpa x P. deltoides",2002,11
+2003,"G",,,"Gibecq","Populus deltoides x P. nigra",2002,11
+2003,"R",,,"Robusta","Populus nigra x P. deltoides",2002,11
+2003,"T",,,"Trichobel","Populus trichocarpa",2002,11
+2004,"B",,,"Beaupre","Populus trichocarpa x P. deltoides",2003,12
+2004,"G",,,"Gibecq","Populus deltoides x P. nigra",2003,12
+2004,"R",,,"Robusta","Populus nigra x P. deltoides",2003,12
+2004,"T",,,"Trichobel","Populus trichocarpa",2003,12
+2005,"B",2.123306,1.46,"Beaupre","Populus trichocarpa x P. deltoides",2004,13
+2005,"G",2.0273442,1.14,"Gibecq","Populus deltoides x P. nigra",2004,13
+2005,"R",2.0145068,1.12,"Robusta","Populus nigra x P. deltoides",2004,13
+2005,"T",2.9031463,1.58,"Trichobel","Populus trichocarpa",2004,13
+2006,"B",1.266414,1.43,"Beaupre","Populus trichocarpa x P. deltoides",2005,14
+2006,"G",1.109295,1.13,"Gibecq","Populus deltoides x P. nigra",2005,14
+2006,"R",1.403862,1.16,"Robusta","Populus nigra x P. deltoides",2005,14
+2006,"T",1.90485,1.6,"Trichobel","Populus trichocarpa",2005,14
+2007,"B",1.692536,1.45,"Beaupre","Populus trichocarpa x P. deltoides",2006,15
+2007,"G",1.403198,1.15,"Gibecq","Populus deltoides x P. nigra",2006,15
+2007,"R",2.110773,1.24,"Robusta","Populus nigra x P. deltoides",2006,15
+2007,"T",2.861508,1.71,"Trichobel","Populus trichocarpa",2006,15
+2008,"B",1.996731,1.47,"Beaupre","Populus trichocarpa x P. deltoides",2007,16
+2008,"G",1.871567,1.22,"Gibecq","Populus deltoides x P. nigra",2007,16
+2008,"R",2.425675,1.35,"Robusta","Populus nigra x P. deltoides",2007,16
+2008,"T",3.375444,1.8,"Trichobel","Populus trichocarpa",2007,16
+2009,"B",2.095003,1.52,"Beaupre","Populus trichocarpa x P. deltoides",2008,17
+2009,"G",1.856046,1.29,"Gibecq","Populus deltoides x P. nigra",2008,17
+2009,"R",2.167545,1.41,"Robusta","Populus nigra x P. deltoides",2008,17
+2009,"T",3.055562,1.88,"Trichobel","Populus trichocarpa",2008,17
+2010,"B",1.282267,1.51,"Beaupre","Populus trichocarpa x P. deltoides",2009,18
+2010,"G",1.101161,1.25,"Gibecq","Populus deltoides x P. nigra",2009,18
+2010,"R",1.494498,1.37,"Robusta","Populus nigra x P. deltoides",2009,18
+2010,"T",3.174252,1.97,"Trichobel","Populus trichocarpa",2009,18
+2011,"B",1.190967,1.5,"Beaupre","Populus trichocarpa x P. deltoides",2010,19
+2011,"G",0.898724,1.23,"Gibecq","Populus deltoides x P. nigra",2010,19
+2011,"R",1.375061,1.37,"Robusta","Populus nigra x P. deltoides",2010,19
+2011,"T",2.395048,1.99,"Trichobel","Populus trichocarpa",2010,19
+2012,"B",0.823443,1.49,"Beaupre","Populus trichocarpa x P. deltoides",2011,20
+2012,"G",0.820123,1.2,"Gibecq","Populus deltoides x P. nigra",2011,20
+2012,"R",0.926363,1.35,"Robusta","Populus nigra x P. deltoides",2011,20
+2012,"T",1.287164,1.94,"Trichobel","Populus trichocarpa",2011,20
+2013,"B",1.193374,1.45,"Beaupre","Populus trichocarpa x P. deltoides",2012,21
+2013,"G",1.202255,1.24,"Gibecq","Populus deltoides x P. nigra",2012,21
+2013,"R",1.23421,1.34,"Robusta","Populus nigra x P. deltoides",2012,21
+2013,"T",2.26009,1.96,"Trichobel","Populus trichocarpa",2012,21
+2014,"B",0.804104,1.42,"Beaupre","Populus trichocarpa x P. deltoides",2013,22
+2014,"G",0.843861,1.2,"Gibecq","Populus deltoides x P. nigra",2013,22
+2014,"R",1.189141,1.32,"Robusta","Populus nigra x P. deltoides",2013,22
+2014,"T",2.506019,2,"Trichobel","Populus trichocarpa",2013,22
+2015,"B",0.904036,1.39,"Beaupre","Populus trichocarpa x P. deltoides",2014,23
+2015,"G",0.687406,1.19,"Gibecq","Populus deltoides x P. nigra",2014,23
+2015,"R",1.375061,1.34,"Robusta","Populus nigra x P. deltoides",2014,23
+2015,"T",2.617986,2.02,"Trichobel","Populus trichocarpa",2014,23
+2016,"B",0.362876,1.36,"Beaupre","Populus trichocarpa x P. deltoides",2015,24
+2016,"G",0.178367,1.15,"Gibecq","Populus deltoides x P. nigra",2015,24
+2016,"R",0.651052,1.31,"Robusta","Populus nigra x P. deltoides",2015,24
+2016,"T",2.221163,2.05,"Trichobel","Populus trichocarpa",2015,24
+2017,"B",0.450524,1.32,"Beaupre","Populus trichocarpa x P. deltoides",2016,25
+2017,"G",0.183181,1.12,"Gibecq","Populus deltoides x P. nigra",2016,25
+2017,"R",0.608307,1.28,"Robusta","Populus nigra x P. deltoides",2016,25
+2017,"T",1.90983,2.05,"Trichobel","Populus trichocarpa",2016,25
+2018,"B",0.638104,1.29,"Beaupre","Populus trichocarpa x P. deltoides",2017,26
+2018,"G",0.547468,1.09,"Gibecq","Populus deltoides x P. nigra",2017,26
+2018,"R",0.922877,1.27,"Robusta","Populus nigra x P. deltoides",2017,26
+2018,"T",2.732111,2.11,"Trichobel","Populus trichocarpa",2017,26
+2019,"B",0.787172,1.28,"Beaupre","Populus trichocarpa x P. deltoides",2018,27
+2019,"G",0.530951,1.07,"Gibecq","Populus deltoides x P. nigra",2018,27
+2019,"R",0.886689,1.25,"Robusta","Populus nigra x P. deltoides",2018,27
+2019,"T",1.707144,2.06,"Trichobel","Populus trichocarpa",2018,27
+2020,"B",1.591193,1.28,"Beaupre","Populus trichocarpa x P. deltoides",2019,28
+2020,"G",1.370164,1.08,"Gibecq","Populus deltoides x P. nigra",2019,28
+2020,"R",1.210306,1.26,"Robusta","Populus nigra x P. deltoides",2019,28
+2020,"T",1.994988,2.03,"Trichobel","Populus trichocarpa",2019,28
+2021,"B",1.49898,1.29,"Beaupre","Populus trichocarpa x P. deltoides",2020,29
+2021,"G",1.330075,1.09,"Gibecq","Populus deltoides x P. nigra",2020,29
+2021,"R",1.618583,1.26,"Robusta","Populus nigra x P. deltoides",2020,29
+2021,"T",3.723546,2.08,"Trichobel","Populus trichocarpa",2020,29
+2022,"B",1.494,1.31,"Beaupre","Populus trichocarpa x P. deltoides",2021,30
+2022,"G",1.370164,1.1,"Gibecq","Populus deltoides x P. nigra",2021,30
+2022,"R",1.286998,1.27,"Robusta","Populus nigra x P. deltoides",2021,30
+2022,"T",2.095833,2.1,"Trichobel","Populus trichocarpa",2021,30
+2023,"B",0.700852,1.29,"Beaupre","Populus trichocarpa x P. deltoides",2022,31
+2023,"G",0.420478,1.09,"Gibecq","Populus deltoides x P. nigra",2022,31
+2023,"R",0.8580185,1.23,"Robusta","Populus nigra x P. deltoides",2022,31
+2023,"T",2.330889,2.13,"Trichobel","Populus trichocarpa",2022,31

@@ -1,0 +1,3 @@
+"weather_period","variable","reason"
+"summer","summer_air_frost_days","Constant on complete-case PCA basis"
+"summer","summer_growing_days","Constant on complete-case PCA basis"

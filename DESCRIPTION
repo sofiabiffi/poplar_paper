@@ -1,0 +1,9 @@
+Package: poplar.paper
+Type: Project
+Title: Poplar Carbon Paper Analysis
+Version: 0.1.0
+Description: Reproducible data preparation and analysis for the poplar carbon paper.
+Encoding: UTF-8
+Imports: readxl, dplyr, tidyr, purrr, lubridate, ggplot2, openxlsx, tibble,
+    broom, lme4, lmerTest, emmeans, broom.mixed, mgcv, renv
+

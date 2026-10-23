@@ -1,0 +1,37 @@
+"source","method","hybrid_code_1","hybrid_1","hybrid_code_2","hybrid_2","n","pearson_r","spearman_r"
+"Tree medians","raw_log","B","Beaupre","G","Gibecq",26,0.900006213131999,0.937254245190784
+"Tree medians","raw_log","B","Beaupre","R","Robusta",26,0.759330560380892,0.876923076923077
+"Tree medians","raw_log","B","Beaupre","T","Trichobel",26,0.3716608757188,0.418803418803419
+"Tree medians","raw_log","G","Gibecq","R","Robusta",26,0.907619809634227,0.903744242991333
+"Tree medians","raw_log","G","Gibecq","T","Trichobel",26,0.622799675870759,0.546418199129833
+"Tree medians","raw_log","R","Robusta","T","Trichobel",26,0.840990519839892,0.714188034188034
+"Tree medians","linear_residual","B","Beaupre","G","Gibecq",26,0.939814578296137,0.931623931623932
+"Tree medians","linear_residual","B","Beaupre","R","Robusta",26,0.862390002644462,0.837264957264957
+"Tree medians","linear_residual","B","Beaupre","T","Trichobel",26,0.693643870789329,0.660854700854701
+"Tree medians","linear_residual","G","Gibecq","R","Robusta",26,0.923389355340246,0.865299145299145
+"Tree medians","linear_residual","G","Gibecq","T","Trichobel",26,0.76768726956604,0.709401709401709
+"Tree medians","linear_residual","R","Robusta","T","Trichobel",26,0.918951221495011,0.903589743589743
+"Tree medians","quadratic_residual","B","Beaupre","G","Gibecq",26,0.958854712902766,0.943931623931624
+"Tree medians","quadratic_residual","B","Beaupre","R","Robusta",26,0.908450924179092,0.890598290598291
+"Tree medians","quadratic_residual","B","Beaupre","T","Trichobel",26,0.733986069906345,0.718290598290598
+"Tree medians","quadratic_residual","G","Gibecq","R","Robusta",26,0.913751331231164,0.913846153846154
+"Tree medians","quadratic_residual","G","Gibecq","T","Trichobel",26,0.719251861574037,0.712820512820513
+"Tree medians","quadratic_residual","R","Robusta","T","Trichobel",26,0.888063617665475,0.851623931623932
+"Legacy weather summaries","raw_log","B","Beaupre","G","Gibecq",26,0.900006213262487,0.937254245190784
+"Legacy weather summaries","raw_log","B","Beaupre","R","Robusta",26,0.75927857385109,0.876389139155045
+"Legacy weather summaries","raw_log","B","Beaupre","T","Trichobel",26,0.371660874667598,0.418803418803419
+"Legacy weather summaries","raw_log","G","Gibecq","R","Robusta",26,0.907580203513075,0.90218878248974
+"Legacy weather summaries","raw_log","G","Gibecq","T","Trichobel",26,0.622799676121424,0.546418199129833
+"Legacy weather summaries","raw_log","R","Robusta","T","Trichobel",26,0.841007873940202,0.714994026520952
+"Legacy weather summaries","linear_residual","B","Beaupre","G","Gibecq",26,0.939814578313085,0.931623931623932
+"Legacy weather summaries","linear_residual","B","Beaupre","R","Robusta",26,0.862354004400607,0.837264957264957
+"Legacy weather summaries","linear_residual","B","Beaupre","T","Trichobel",26,0.693643869234063,0.660854700854701
+"Legacy weather summaries","linear_residual","G","Gibecq","R","Robusta",26,0.923356418650264,0.865299145299145
+"Legacy weather summaries","linear_residual","G","Gibecq","T","Trichobel",26,0.767687269986381,0.709401709401709
+"Legacy weather summaries","linear_residual","R","Robusta","T","Trichobel",26,0.918950583756221,0.903589743589743
+"Legacy weather summaries","quadratic_residual","B","Beaupre","G","Gibecq",26,0.95885471301858,0.943931623931624
+"Legacy weather summaries","quadratic_residual","B","Beaupre","R","Robusta",26,0.908419040772386,0.890598290598291
+"Legacy weather summaries","quadratic_residual","B","Beaupre","T","Trichobel",26,0.733986068433957,0.718290598290598
+"Legacy weather summaries","quadratic_residual","G","Gibecq","R","Robusta",26,0.913712988524885,0.913846153846154
+"Legacy weather summaries","quadratic_residual","G","Gibecq","T","Trichobel",26,0.719251862100074,0.712820512820513
+"Legacy weather summaries","quadratic_residual","R","Robusta","T","Trichobel",26,0.888056291887053,0.851623931623932

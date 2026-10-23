@@ -1,0 +1,4 @@
+"location_code","location","depth_interval_cm","variable","n_profiles","mean","sd","se","median","q25","q75","significance_letter"
+"3_arable","Arable reference","0-30","SOC_content_mean_percent",47,1.59047872340426,0.14950287031732,0.0218072349077468,1.604,1.491,1.6955,"a"
+"2_alley","Alley","0-30","SOC_content_mean_percent",24,2.11047916666667,0.196216355696343,0.0400524958870406,2.0525,1.973125,2.256875,"b"
+"1_tree","Tree row","0-30","SOC_content_mean_percent",21,2.27057142857143,0.286617484014596,0.0625450626664134,2.255,2.0765,2.3755,"b"

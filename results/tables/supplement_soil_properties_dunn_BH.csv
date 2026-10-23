@@ -1,0 +1,7 @@
+"group1","group2","z","p","p_BH","variable"
+"Arable reference","Alley",0.444906980705669,0.656386977685103,0.656386977685103,"BD_mass_weighted_g_cm3"
+"Arable reference","Tree row",3.61684175442732,0.000298219494468581,0.000894658483405744,"BD_mass_weighted_g_cm3"
+"Alley","Tree row",2.80357217123863,0.00505399195498625,0.00758098793247938,"BD_mass_weighted_g_cm3"
+"Arable reference","Alley",-6.28783332588992,3.21927265570291e-10,4.82890898355436e-10,"SOC_content_mean_percent"
+"Arable reference","Tree row",-7.12900615824981,1.01096211779104e-12,3.03288635337311e-12,"SOC_content_mean_percent"
+"Alley","Tree row",-0.982899095342586,0.325657103128192,0.325657103128192,"SOC_content_mean_percent"

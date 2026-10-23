@@ -1,0 +1,4 @@
+"location_code","location","n_profiles","n_complete","n_total_extrapolated","n_upper_extrapolated","n_total_excluded","n_upper_excluded","max_extrapolated_mass_mg_ha","max_equivalent_depth_cm"
+"3_arable","Arable reference",48,47,22,1,1,0,652.823666482928,36.6646926306718
+"2_alley","Alley",24,24,12,0,0,0,982.31102810142,40.3284448356314
+"1_tree","Tree row",24,21,17,3,3,0,1379.73742287013,44.9291539001565

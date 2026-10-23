@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+renv/cache/
+renv/local/
+results/checks/session_info.txt
+

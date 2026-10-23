@@ -1,0 +1,24 @@
+{
+  "confirmed_by": "User in conversation on 22 October 2026",
+  "sampling_year": 2024,
+  "reference_field_id": "UOL001-A01-001.0",
+  "reference_management": "Arable reference",
+  "field_plan_open_grassland_label": "Agricarbon error, corrected by user",
+  "measurement_source": "AGRICARBON UOL001-A01 Results v3.3 PUBLISH 2024-03-14 CSV.xlsx",
+  "scenario_workbook_role": "Derived workbook for reconciliation; not authoritative for sample location labels or measurements",
+  "row_orientation": "Approximately north to south; row 6 furthest west",
+  "analysis_status": "Existing numerical outputs retain derived workbook inputs; raw-source rebuild still required",
+  "experiment_start_year": 1992,
+  "continuous_fallow_grassland_since": 1992,
+  "last_crop_sown": "autumn 2003",
+  "last_crop_harvest": "August 2004",
+  "continuous_cropping_grassland_since": "after August 2004 harvest",
+  "grassland_continuity": "F continuous since start; C continuous since cessation; user confirmed 2026-10-22",
+  "soc_duration_convention": "User-specified fixed durations on 22 October 2026: 32, 19, 32 years",
+  "tree_phase_audit": "2004 cutoff; 2002-2005 Boundary; Post begins 2005-2006 interval; assignments unchanged",
+  "soc_annualisation_years": {
+    "alley_F": 32,
+    "alley_C": 19,
+    "trees": 32
+  }
+}

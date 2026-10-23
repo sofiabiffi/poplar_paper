@@ -1,0 +1,7 @@
+"group1","group2","z","p","p_BH","mass_interval"
+"Arable reference","Alley",-6.41974253497361,1.36505014432666e-10,2.04757521649e-10,"Upper reference mass"
+"Arable reference","Tree row",-7.29325829462519,3.02547258182688e-13,9.07641774548065e-13,"Upper reference mass"
+"Alley","Tree row",-0.756486838464333,0.449357360591941,0.449357360591941,"Upper reference mass"
+"Arable reference","Alley",-2.16948395053205,0.0300459615409512,0.0450689423114269,"Lower reference mass increment"
+"Arable reference","Tree row",-3.95395106583118,7.68711376121394e-05,0.000230613412836418,"Lower reference mass increment"
+"Alley","Tree row",-1.65170537177284,0.0985946270816178,0.0985946270816178,"Lower reference mass increment"
