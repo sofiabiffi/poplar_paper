@@ -1,0 +1,2 @@
+Mass intervals correspond to the arable mean 0-15 and 15-30 cm layers; physical depths vary.
+Dunn letters: BH adjustment within mass interval, p < 0.05. Boxes: median and IQR; whiskers: 1.5 x IQR.

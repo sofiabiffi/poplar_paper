@@ -17,4 +17,4 @@ invisible(lapply(paper_packages, function(package) {
   suppressPackageStartupMessages(library(package, character.only = TRUE))
 }))
 
-source(file.path(dirname(getOption("poplar.paper.root")), "plot_style.R"), local = TRUE)
+source(file.path(getOption("poplar.paper.root"), "plot_style.R"), local = TRUE)

@@ -1,3 +1,28 @@
+## Model standard errors for current weather reporting 23 October 2026
+
+The user chose conventional model estimates and standard errors for this exploratory secondary analysis. Current analysis/14_raw_paic_weather_final.R no longer runs a bootstrap. It fits the same Gamma(log) models and calculates model-based SEs for the same absolute PAIC contrasts by the delta method using the full coefficient covariance matrix. All fitted coefficients are unchanged (maximum difference zero against the archived fit). Analytic contrast gradients agree with finite differences to less than 8e-11. Current effects table/figure use estimate +/-1 SE, not 95% confidence intervals. Conventional coefficient t tests and p-values are available in final_weather_coefficients.csv; both weather terms have nominal p<0.05 in each hybrid under the independent-observation model. Separate hybrid tests do not establish between-hybrid differences. No paired-bootstrap comparison is part of the current report.
+
+Diagnostics were regenerated with analysis/14_raw_paic_weather_checks.R and inspected for distribution, variance pattern, temporal structure and influence. Current 26-year consecutive-calendar-year deviance-residual correlations are 0.351, 0.557, 0.289 and -0.005 for Beaupre, Gibecq, Robusta and Trichobel. Some influential observations, residual spread differences and temporal structure remain; conventional SEs/p-values may be optimistic. The Word note retains a proportionate independence qualification and exploratory interpretation. Precision of DBH measurements does not establish independence of annual growth. Diagnostic CSV/PDF and derivative audit are saved in results/checks. Earlier 24-year hypothesis ranking is unchanged.
+
+The previous bootstrap model, source and outputs are preserved in archive/weather_before_model_se_20261023_160524. Retired bootstrap-only final tables were removed from the active tables folder after backup. The current Word note contains the final model-SE account only, retaining month windows and age-curve explanations. All eight pages were rendered and visually checked in _qa/weather_model_se_20261023. Current figure is final_weather_hybrid_effects (600 dpi PNG and vector PDF).
+
+Word maintenance: run scripts/update_weather_model_se_note.py last after any older hypothesis/timing builders; do not run update_weather_bootstrap_note.py for the current account. The latest updater preserves a pre-edit Word backup. Earlier reporting instructions below are superseded where they conflict.
+## Timing clarification and Word explanation, 23 October 2026
+
+The current Word note includes expanded timing Methods on pages 2-3, verified against config.R, prep/01_tree_growth.R, prep/02_weather.R and analyses 10, 14 and 17, plus the earlier online discussion "Jyoti Code Walkthrough Thesis Analysis" (https://chatgpt.com/c/6a1ebf0c-89a8-8391-abab-ad1e97d666a1). Measurement year t uses growth year g = t - 1. Spring is March-May g; summer June-August g; autumn September-November g; preceding winter December g-1 through February g; winter half-year October g-1 through March g; summer half-year/dry-spell window April-September g. All boundaries are inclusive. The current eight-model comparison tests spring/summer predictors and the April-September dry spell; the prepared winter/autumn windows are not current candidates.
+
+Daily temperature is averaged across daily means; rain and sunshine are summed. Required variables must have complete daily coverage. No additional gap filling is introduced. PAIC remains the supplied annualised response. Multi-year increments retain final-growth-year weather, not interval-average weather. The March measurement convention is supported by the earlier co-author discussion; the thesis gives November-March and individual visit dates are not available in the current tree table, so the note explicitly describes the adopted year-label convention without claiming verified March dates for every visit.
+
+The supplementary age plot now has a plain-language explanation and is marked optional working material. Model estimates and figure files are unchanged. Timing checks are saved in results/checks/weather_timing_methods_audit.csv. The eight-page Word note was exported to PDF and every page visually inspected in manuscript/analysis_notes/_qa/weather_timing_final.
+
+Maintenance: scripts/update_weather_timing_note.py updates the existing Word note in place and preserves a timestamped backup. Apply it after update_weather_hypothesis_note.py if rebuilding; older builders alone do not retain these expanded timing explanations. Export to a fresh QA PDF path before rendering with the packaged render_docx.py workflow.
+## Weather hypothesis comparison decision 23 October 2026
+
+- Compare the same eight biological hypotheses for each hybrid on the same 24 complete-weather years. Use original PAIC with a Gamma log link and hybrid-specific quadratic age. Do not use correlation strength to exclude predictors before model comparison.
+- Summer rainfall plus temperature rank first for every hybrid; separation from the age-only model is weaker for Gibecq and Trichobel. AICc and single-year omission checks are exploratory under residual dependence and prior data inspection.
+- Retain the verified 26-year summer model for the conditional absolute association plot and age shapes; clearly distinguish those 26 reporting years from the 24 common comparison years. Conditional coefficient intervals omit selection uncertainty. The selected grouped hypothesis does not establish both predictors are individually essential.
+- Analysis 17 and scripts/update_weather_hypothesis_note.py are the current selection entry points. Preserve manual Word revisions and publication captions. Archive the retired correlation figure; keep earlier correlation tables as descriptive background. This decision supersedes earlier correlation-screen and four-candidate selection descriptions below.
+
 # Scope and preparation decisions
 
 ## Current weather reporting decision 21 October 2026
@@ -79,3 +104,5 @@ Taxon labels are transcribed from the thesis. Treatment A/C/F corresponds to alt
 Five Word notes in manuscript/analysis_notes record methods, current results, discussion and decisions for growth, weather, cropping treatments, soil stocks and scenario planning. They should be updated when substantive analyses change; they are not refreshed automatically. Scenario planning is explicitly marked as not yet calculated.
 
 The notes distinguish the measurement-gap issue from a causal explanation: the 2001 PAIC is a three-year average for growth years 1998-2000. Annualisation accounts for elapsed time, so missing visits do not inherently depress PAIC. Annual contributions within that interval remain unresolved, and attribution to weather needs an interval-aware analysis.
+
+

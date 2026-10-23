@@ -1,0 +1,2 @@
+Medians and interquartile ranges across trees.
+Lines connect observed visits; missing years are not imputed.

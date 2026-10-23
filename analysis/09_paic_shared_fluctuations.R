@@ -71,9 +71,16 @@ standalone_d <- d + labs(title='Trichobel relative to the other hybrids',
 save_publication_plot(standalone_d,file.path(root,'results/figures/trichobel_relative_paic'),width=7.2,height=4.8)
 ggsave(file.path(root,'results/figures/trichobel_relative_paic_preview.png'),standalone_d,width=7.2,height=4.8,dpi=150,bg='white')
 draw <- function() {
-  grid::grid.newpage();grid::pushViewport(grid::viewport(layout=grid::grid.layout(3,2,heights=grid::unit(c(4.5,4.5,.8),'null'))))
-  print(a,vp=grid::viewport(layout.pos.row=1,layout.pos.col=1));print(b,vp=grid::viewport(layout.pos.row=1,layout.pos.col=2));print(c,vp=grid::viewport(layout.pos.row=2,layout.pos.col=1));print(d,vp=grid::viewport(layout.pos.row=2,layout.pos.col=2))
-  grid::grid.text(sprintf('DESCRIPTIVE | %d common positive-response measurement years; tree-level hybrid medians as in the PAIC/MAIC descriptive plot.\nTrends fitted separately by hybrid; no shared year effect removed. Lines connect observed visits; missing years are not imputed.\nCorrelations are descriptive and do not establish weather causation. Linear detrending and legacy-response sensitivity exported.',length(years)),x=.02,just='left',gp=grid::gpar(fontsize=9),vp=grid::viewport(layout.pos.row=3,layout.pos.col=1:2))
+  grid::grid.newpage()
+  grid::pushViewport(grid::viewport(layout=grid::grid.layout(2,2)))
+  plots <- list(a,b,c,d)
+  for (i in seq_along(plots)) {
+    vp <- grid::viewport(layout.pos.row=ceiling(i/2),layout.pos.col=if(i%%2)1 else 2)
+    print(plots[[i]],vp=vp)
+    grid::pushViewport(vp)
+    grid::grid.text(LETTERS[i],x=.01,y=.99,just=c('left','top'),gp=grid::gpar(fontface='bold',fontsize=11))
+    grid::popViewport()
+  }
 }
 stem <- file.path(root,'results/figures/paic_shared_fluctuations')
 png(paste0(stem,'.png'),width=13,height=10,units='in',res=600);draw();dev.off()

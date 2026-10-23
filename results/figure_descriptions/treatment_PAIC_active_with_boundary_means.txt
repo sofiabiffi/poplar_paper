@@ -1,0 +1,3 @@
+Active cropping including boundary interval
+Model-adjusted means across hybrids; pointwise 95% CIs. Continuous cropping differs from:
+* continuous fallow; + alternate cropping (Holm p < 0.05 across all 24 pair-by-interval tests in this phase).

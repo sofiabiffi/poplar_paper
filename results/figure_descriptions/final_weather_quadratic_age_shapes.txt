@@ -1,0 +1,3 @@
+Fitted age trajectories at fixed summer weather
+Quadratic age on the log-mean scale; summer temperature held at 15.81 degrees C and rainfall at 172.44 mm.
+Shapes of fitted means only; uncertainty is omitted for clarity. These are not observed trajectories or isolated causal age effects.

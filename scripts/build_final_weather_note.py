@@ -54,6 +54,8 @@ def page(title):
     heading=d.add_heading(title,1)
     heading.paragraph_format.page_break_before=True
 def fig(stem,caption,width=6.6):
+    from publication_captions import publication_caption
+    caption = publication_caption('final_weather_'+stem, caption)
     para=p(''); para.alignment=WD_ALIGN_PARAGRAPH.CENTER
     inline=para.add_run().add_picture(str(ROOT/f'results/figures/final_weather_{stem}.png'),width=Inches(width))
     inline._inline.docPr.set('descr',caption)

@@ -1,0 +1,3 @@
+Weather associations with original PAIC
+Descriptive raw correlations on 24 common complete-weather measurement years. No age removal or standardisation.
+Nine hypothesis-guided candidates; correlations are not the sole model-selection rule and may reflect temporal trends.

@@ -1,0 +1,17 @@
+root <- normalizePath('.',winslash='/')
+options(poplar.paper.root=root)
+.libPaths(c('renv/library',.libPaths()))
+library(ggplot2)
+source('plot_style.R')
+m <- readRDS('results/models/final_raw_paic_weather.rds')
+fits <- m$fits; dat <- m$data
+effects <- read.csv('results/tables/final_weather_absolute_effects.csv')
+hybrids <- names(publication_hybrids); ages <- 'Quadratic age'
+ref_temp <- mean(dat$temp_c); ref_rain <- mean(dat$rain_c)
+out <- function(x,n) invisible(NULL)
+common_cor <- read.csv('results/tables/final_weather_raw_correlations_common.csv')
+lines <- readLines('analysis/14_raw_paic_weather_final.R')
+start <- grep('^labels <- c\\(spring_rainfall',lines)
+end <- grep("^source\\('poplar_paper/analysis/14_raw_paic_weather_figures.R'",lines)
+eval(parse(text=lines[start:(end-1)]))
+source('analysis/14_raw_paic_weather_figures.R')

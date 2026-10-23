@@ -1,0 +1,2 @@
+Letters compare locations within each depth (Dunn, BH-adjusted p < 0.05).
+Shared letters indicate no detected difference. Boxes: median and IQR; whiskers: 1.5 x IQR; points: samples.

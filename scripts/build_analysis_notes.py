@@ -82,6 +82,8 @@ def sources(d, paths):
         para=d.add_paragraph(path);para.paragraph_format.space_after=Pt(3)
         for r in para.runs:r.font.size=Pt(9)
 def picture(d, name, caption, width=6.1):
+    from publication_captions import publication_caption
+    caption = publication_caption(Path(name).stem, caption)
     path=ROOT/"results"/"figures"/name
     para=d.add_paragraph();para.alignment=WD_ALIGN_PARAGRAPH.CENTER
     run=para.add_run(); inline=run.add_picture(str(path),width=Inches(width))

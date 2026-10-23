@@ -1,0 +1,65 @@
+"hybrid_code","hybrid","age_model","weather_model","term","estimate"
+"B","Beaupre","Quadratic age","No weather","(Intercept)",0.358262882522809
+"B","Beaupre","Quadratic age","No weather","age_c",-0.172900585818732
+"B","Beaupre","Quadratic age","No weather","I(age_c^2)",-0.0843651015435438
+"B","Beaupre","Quadratic age","Rainfall","(Intercept)",0.340255196543178
+"B","Beaupre","Quadratic age","Rainfall","age_c",-0.279052611154656
+"B","Beaupre","Quadratic age","Rainfall","I(age_c^2)",0.0667821242192261
+"B","Beaupre","Quadratic age","Rainfall","rain_c",0.389988112009556
+"B","Beaupre","Quadratic age","Temperature","(Intercept)",0.432176280000169
+"B","Beaupre","Quadratic age","Temperature","age_c",-0.219920723740653
+"B","Beaupre","Quadratic age","Temperature","I(age_c^2)",-0.123453659687541
+"B","Beaupre","Quadratic age","Temperature","temp_c",0.177436316650274
+"B","Beaupre","Quadratic age","Both","(Intercept)",0.486560608138116
+"B","Beaupre","Quadratic age","Both","age_c",-0.409897982157106
+"B","Beaupre","Quadratic age","Both","I(age_c^2)",0.0323559118807983
+"B","Beaupre","Quadratic age","Both","rain_c",0.523950406043698
+"B","Beaupre","Quadratic age","Both","temp_c",0.34005933925897
+"G","Gibecq","Quadratic age","No weather","(Intercept)",0.254577099939519
+"G","Gibecq","Quadratic age","No weather","age_c",0.0109958339199754
+"G","Gibecq","Quadratic age","No weather","I(age_c^2)",-0.281692372357915
+"G","Gibecq","Quadratic age","Rainfall","(Intercept)",0.230532048400539
+"G","Gibecq","Quadratic age","Rainfall","age_c",-0.13865188036642
+"G","Gibecq","Quadratic age","Rainfall","I(age_c^2)",-0.0929328858996544
+"G","Gibecq","Quadratic age","Rainfall","rain_c",0.506173067148764
+"G","Gibecq","Quadratic age","Temperature","(Intercept)",0.345183747405091
+"G","Gibecq","Quadratic age","Temperature","age_c",-0.0274637209587177
+"G","Gibecq","Quadratic age","Temperature","I(age_c^2)",-0.33839098840606
+"G","Gibecq","Quadratic age","Temperature","temp_c",0.205072452270015
+"G","Gibecq","Quadratic age","Both","(Intercept)",0.409806519315229
+"G","Gibecq","Quadratic age","Both","age_c",-0.262929346614902
+"G","Gibecq","Quadratic age","Both","I(age_c^2)",-0.159877638493807
+"G","Gibecq","Quadratic age","Both","rain_c",0.652060600705136
+"G","Gibecq","Quadratic age","Both","temp_c",0.389630229267047
+"R","Robusta","Quadratic age","No weather","(Intercept)",0.469371253311231
+"R","Robusta","Quadratic age","No weather","age_c",0.112668280368014
+"R","Robusta","Quadratic age","No weather","I(age_c^2)",-0.326375858236323
+"R","Robusta","Quadratic age","Rainfall","(Intercept)",0.449781103541482
+"R","Robusta","Quadratic age","Rainfall","age_c",0.0349023104777203
+"R","Robusta","Quadratic age","Rainfall","I(age_c^2)",-0.204010064484307
+"R","Robusta","Quadratic age","Rainfall","rain_c",0.277352317371684
+"R","Robusta","Quadratic age","Temperature","(Intercept)",0.588072106197485
+"R","Robusta","Quadratic age","Temperature","age_c",0.0568604821072786
+"R","Robusta","Quadratic age","Temperature","I(age_c^2)",-0.402078674146871
+"R","Robusta","Quadratic age","Temperature","temp_c",0.282182176211274
+"R","Robusta","Quadratic age","Both","(Intercept)",0.62908511432188
+"R","Robusta","Quadratic age","Both","age_c",-0.103103110577275
+"R","Robusta","Quadratic age","Both","I(age_c^2)",-0.254101822204733
+"R","Robusta","Quadratic age","Both","rain_c",0.454172779212159
+"R","Robusta","Quadratic age","Both","temp_c",0.429459225207683
+"T","Trichobel","Quadratic age","No weather","(Intercept)",0.914590274018773
+"T","Trichobel","Quadratic age","No weather","age_c",0.404689885127875
+"T","Trichobel","Quadratic age","No weather","I(age_c^2)",-0.349083784395131
+"T","Trichobel","Quadratic age","Rainfall","(Intercept)",0.895026082452479
+"T","Trichobel","Quadratic age","Rainfall","age_c",0.347627521430733
+"T","Trichobel","Quadratic age","Rainfall","I(age_c^2)",-0.237565588605958
+"T","Trichobel","Quadratic age","Rainfall","rain_c",0.252358056088948
+"T","Trichobel","Quadratic age","Temperature","(Intercept)",0.985267350845715
+"T","Trichobel","Quadratic age","Temperature","age_c",0.367192444834826
+"T","Trichobel","Quadratic age","Temperature","I(age_c^2)",-0.389651666872449
+"T","Trichobel","Quadratic age","Temperature","temp_c",0.164158323035791
+"T","Trichobel","Quadratic age","Both","(Intercept)",1.01266960531962
+"T","Trichobel","Quadratic age","Both","age_c",0.254676428017193
+"T","Trichobel","Quadratic age","Both","I(age_c^2)",-0.262483953281794
+"T","Trichobel","Quadratic age","Both","rain_c",0.36691336646484
+"T","Trichobel","Quadratic age","Both","temp_c",0.279483763385083

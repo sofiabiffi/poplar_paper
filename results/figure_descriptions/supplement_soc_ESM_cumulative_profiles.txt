@@ -1,0 +1,3 @@
+Black: measured cumulative coordinates joined linearly from the origin. Purple dashed: extension using the final measured layer SOC content.
+Grey dotted lines: arable mean cumulative reference masses (1775 and 3733 Mg soil/ha). Coloured symbols: evaluated stocks.
+* Shallow bedrock: upper-reference estimate only; no lower interval or full-profile estimate. Shared axes; labels show land cover and company core number (Field 2).

@@ -1,0 +1,3 @@
+Active cropping including boundary interval
+Equal hybrid weights; pointwise 95% CIs. * Holm-adjusted p < 0.05 across all 24 pair-by-interval tests in this phase.
+A CI excluding zero alone does not establish significance after adjustment.
