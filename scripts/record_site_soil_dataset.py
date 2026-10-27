@@ -4,7 +4,7 @@ import shutil
 from docx import Document
 root=Path(__file__).resolve().parents[1]
 p=root/'manuscript/analysis_notes/04_soil_carbon_stocks.docx'
-shutil.copy2(p,p.parent/'_history'/('04_soil_carbon_stocks_before_new_dataset_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
+(p.parent/'_history').mkdir(parents=True, exist_ok=True); shutil.copy2(p,p.parent/'_history'/('04_soil_carbon_stocks_before_new_dataset_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
 d=Document(p)
 d.add_heading('Replacement study site dataset',level=2)
 d.add_paragraph('The new workbook outputs/soil_provenance_20261022/study_site_soil_2024.xlsx and matching data/processed/study_site_soil_2024.csv provide the replacement analysis input. The soil_0_30 sheet contains 188 measured layers from 96 cores, using full-precision company fine BD and SOC values. Corrected membership is 48 Arable reference cores (95 layers), 24 Alley cores (48 layers) and 24 Tree row cores (45 layers). Four cores lack the lower retained layer; no missing layers are imputed.')

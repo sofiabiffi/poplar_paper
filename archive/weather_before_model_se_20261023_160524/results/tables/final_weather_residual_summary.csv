@@ -1,5 +1,0 @@
-"hybrid_code","hybrid","age_model","consecutive_year_pairs","lag1_residual_correlation","largest_cooks_distance","largest_absolute_deviance_residual"
-"B","Beaupre","Quadratic age",23,0.351170603870242,0.561883383869772,0.775041039753015
-"G","Gibecq","Quadratic age",23,0.556988663440828,0.590943599022823,1.38447866228673
-"R","Robusta","Quadratic age",23,0.288989330194756,0.834858960042905,1.00922996847023
-"T","Trichobel","Quadratic age",23,-0.00460127073690677,0.861918297975807,0.876719121186995

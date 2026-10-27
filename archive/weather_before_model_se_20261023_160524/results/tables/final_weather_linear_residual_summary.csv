@@ -1,5 +1,0 @@
-"hybrid_code","hybrid","age_model","consecutive_year_pairs","lag1_residual_correlation","largest_cooks_distance","largest_absolute_deviance_residual"
-"B","Beaupre","Linear age",23,0.366914995953303,0.250873413141695,0.73536610928318
-"G","Gibecq","Linear age",23,0.540081906370723,0.34155155323485,1.55444688299456
-"R","Robusta","Linear age",23,0.307550588593088,0.566952376014665,1.28698672243009
-"T","Trichobel","Linear age",23,0.103329758747282,0.617091424755953,1.156551769399

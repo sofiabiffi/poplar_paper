@@ -7,3 +7,17 @@ renv/cache/
 renv/local/
 results/checks/session_info.txt
 
+# Local editor state, temporary plots and interpreter caches
+.Rproj.user/
+Rplots.pdf
+__pycache__/
+*.py[cod]
+
+# Reproducible QA renders and superseded snapshots
+archive/
+_history/
+_qa/
+scenarios/uk_2027/qa/
+
+# Generated spreadsheet inspection dumps
+*.inspect.ndjson

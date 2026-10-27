@@ -2,7 +2,7 @@ from pathlib import Path
 import importlib.util, os, tempfile
 root=Path.cwd()/"poplar_paper/manuscript/analysis_notes"
 qa=root/"_qa"
-temp=qa/"_tmp";temp.mkdir(exist_ok=True)
+temp=qa/"_tmp";temp.mkdir(parents=True,exist_ok=True)
 tempfile.tempdir=str(temp)
 os.environ["PATH"] = r"C:\Users\sofia\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin" + os.pathsep + os.environ["PATH"]
 path=Path(r"C:\Users\sofia\.codex\plugins\cache\openai-primary-runtime\documents\26.1020.11127\skills\documents\render_docx.py")

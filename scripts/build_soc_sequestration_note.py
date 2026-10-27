@@ -7,7 +7,7 @@ exec((root/'scripts/build_analysis_notes.py').read_text().split('# Growth')[0],n
 make,h,p,table,save=[ns[k] for k in ('make','h','p','table','save')]
 name='06_soc_sequestration.docx';target=root/'manuscript/analysis_notes'/name
 if target.exists():
-    shutil.copy2(target,target.parent/'_history'/('05_soc_sequestration_before_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
+    (target.parent/'_history').mkdir(parents=True, exist_ok=True); shutil.copy2(target,target.parent/'_history'/('05_soc_sequestration_before_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
 data=list(csv.DictReader((root/'data/raw/study_site_soil_2024.csv').open(encoding='utf-8-sig')))
 group=lambda loc,t=None:[r for r in data if r['location_code']==loc and (t is None or r['former_treatment_code']==t)]
 f=group('2_alley','F');c=group('2_alley','C');a=group('3_arable')

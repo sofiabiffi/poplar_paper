@@ -1,0 +1,36 @@
+"x","y","w","h","group","title","body"
+3,11.1,5.5,1.65,"Scenario","UK land targets","Permanent grassland: 5.985m ha x 14% = 837,900 ha
+Croppable land: 6.1m ha x 7% = 427,000 ha
+Cropped land: 4.1m ha x 7% = 287,000 ha
+Croppable and cropped are alternatives"
+9,11.1,5.5,1.65,"Evidence","Observed tree growth","45 Trichobel trees
+Diameters converted to dry biomass per tree
+Average dry biomass across trees at each visit
+Observed ages 1-31"
+3,8.9,5.5,1.65,"Scenario","Planting programme and layout","All planted in 2027 OR equal planting in 2027-2050
+Cropland: 47.62 trees/ha; 2m strips / 30m rows
+Grassland: 166 trees/ha; 2m strips / 10m rows
+Alleys retain their previous use"
+9,8.9,5.5,1.65,"Evidence","Mean tree biomass through time","Mean tree dry biomass at each measured age
+Linear interpolation between measured ages
+Use ages 1-30; assume zero biomass at age zero
+Same growth assumed across planting layouts"
+6,6.95,11.5,1.15,"Calculation","Follow each annual planting cohort","For every year in 2027-2056: determine cohort age, area and tree count
+Tree count x dry biomass per tree at that age = cohort dry AGB"
+2,4.75,3.5,1.85,"AGB","Aboveground carbon","Dry AGB x 0.4884
+
+Carbon fraction of shoots"
+6,4.75,3.5,1.85,"BGB","Belowground carbon","Dry AGB x 0.26 x 0.4690
+
+Root:shoot dry-mass ratio
+and root carbon fraction"
+10,4.75,3.5,1.85,"SOC","Additional soil carbon","Tree-row ESM minus arable FD
+/ 32 yr = 0.6510 Mg C/ha/yr
+x cropland strip area x cohort age
+Grassland and alleys: zero gain"
+6,2.65,11.5,1.05,"Calculation","Sum cohorts and land types","Aggregate AGB C, BGB C and additional SOC separately
+Convert C to CO2 using 44/12; report annually and at 2050 and 2056"
+3,0.85,5.5,1.25,"Output","Carbon stocks","AGB separately
+Combined = AGB + BGB + additional SOC"
+9,0.85,5.5,1.25,"Output","AGB growth summaries","PAIC: change between annual AGB stocks
+MAIC: sum each cohort (AGB stock / age)"

@@ -34,7 +34,7 @@ s=s.replace("'Annualised excess'","'Sequestration rate'")
 s=s.replace('32 years for Continuous fallow, 19 for Continuous cropping and 32 for tree rows','32 years for Continuous fallow, 19 for Continuous cropping and 32 for tree rows')
 path.write_text(s)
 path=root/'manuscript/analysis_notes/06_soc_sequestration.docx'
-shutil.copy2(path,path.parent/'_history'/('06_soc_sequestration_before_timeline_labels_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
+(path.parent/'_history').mkdir(parents=True, exist_ok=True); shutil.copy2(path,path.parent/'_history'/('06_soc_sequestration_before_timeline_labels_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
 d=Document(path)
 for p in d.paragraphs:
     text=p.text

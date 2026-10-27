@@ -13,7 +13,7 @@ s=s.replace('need revision after source interpretation is settled.','need rebuil
 s += '\n## Source authority and remaining scenario inputs\n\nThe user confirms the scenario workbook may contain Excel handling errors. Treat company IDs, coordinates and measurements as the primary data; use the scenario workbook only to audit previous transformations. The tree-profile-25 finding means that the two rows labelled Tree row 25 reproduce an arable core, not that the company physically sampled an arable core in a tree row. Keep the original location label as an audit field. Record confirmed site facts in confirmed_site_metadata.json.\n\nBefore deriving annual sequestration scenarios, establish management after the original cropping-treatment period and whether the arable reference is a defensible counterfactual (management and comparability). Scenario upscaling also needs actual tree-row/alley area fractions and an explicit stock-to-time trajectory. These do not prevent use of the recovered sample identities.\n'
 p.write_text(s)
 path=root/'manuscript/analysis_notes/04_soil_carbon_stocks.docx'
-shutil.copy2(path,path.parent/'_history'/('04_soil_carbon_stocks_before_source_clarifications_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
+(path.parent/'_history').mkdir(parents=True, exist_ok=True); shutil.copy2(path,path.parent/'_history'/('04_soil_carbon_stocks_before_source_clarifications_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
 d=Document(path)
 for p in d.paragraphs:
     if p.text.startswith('The western, middle and eastern sampled bands are now confirmed'):

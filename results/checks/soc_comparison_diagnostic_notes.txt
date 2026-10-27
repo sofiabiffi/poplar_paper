@@ -1,0 +1,4 @@
+Rank comparisons assume independent cores. Separate land-cover distributions and leave-one-core-out sensitivity are saved.
+Reference field versus agroforestry field is not replicated land-use assignment. Former treatment is confounded with block/row band.
+Different spreads preclude an unqualified median-only interpretation. Pairwise p-values describe sampled-core rank contrasts, not causal or replicated treatment effects.
+The fine-BD volume denominator and any required coarse-fragment correction remain an outstanding measurement-basis check; this revision corrects FD versus ESM handling only.

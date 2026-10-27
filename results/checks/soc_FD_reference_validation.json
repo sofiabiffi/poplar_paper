@@ -1,0 +1,7 @@
+{
+  "n_profiles": 96,
+  "arable_fixed_depth_identity": true,
+  "agroforestry_integration": true,
+  "independent_Dunn_BH": true,
+  "downstream_sequestration_upscaling": "deferred pending inspection"
+}

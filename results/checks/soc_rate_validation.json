@@ -1,0 +1,11 @@
+{
+  "n_profiles": 96,
+  "n_complete": 92,
+  "baseline_is_fixed_depth": true,
+  "profile_reconciliation": true,
+  "tree_rate": 0.6510129934894138,
+  "tree_rate_SD": 0.2593445972277993,
+  "SD_identity": true,
+  "source_sha256": "4e664bc822cba2407457eaa7ab7160758ff13298751b4490d8ae36050fe26d81",
+  "limits": "Profile SD is descriptive and conditional on the shared arable mean. Reference mean/mass, spatial clustering, baseline-history, density-definition, extrapolation-model and national transfer uncertainty are not propagated."
+}

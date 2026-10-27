@@ -109,3 +109,6 @@ message("Review residual diagnostics and singular-fit flags before inference. ",
 
 
 
+
+# Export the combined primary phase figure.
+source(project_path("analysis", "03c_treatment_figure.R"))

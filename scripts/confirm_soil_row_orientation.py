@@ -17,7 +17,7 @@ s=s.replace('- The north arrow and numbered treatment rows in the supplied scree
 s=s.replace('including provisional management columns and explicit status flags','including confirmed former-management columns and explicit status flags')
 readme.write_text(s)
 path=root/'manuscript/analysis_notes/04_soil_carbon_stocks.docx'
-shutil.copy2(path,path.parent/'_history'/('04_soil_carbon_stocks_before_orientation_confirmation_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
+(path.parent/'_history').mkdir(parents=True, exist_ok=True); shutil.copy2(path,path.parent/'_history'/('04_soil_carbon_stocks_before_orientation_confirmation_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
 d=Document(path)
 for p in d.paragraphs:
     text=p.text

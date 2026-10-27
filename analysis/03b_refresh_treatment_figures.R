@@ -16,3 +16,6 @@ model_temp <- tempfile("treatment_PAIC_", tmpdir = dirname(model_file), fileext 
 saveRDS(treatment_paic_results, model_temp)
 if (!file.copy(model_temp, model_file, overwrite = TRUE)) stop("Could not replace saved models")
 unlink(model_temp)
+
+# Export the combined primary phase figure.
+source(project_path("analysis", "03c_treatment_figure.R"))

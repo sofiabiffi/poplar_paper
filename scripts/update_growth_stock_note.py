@@ -6,7 +6,7 @@ from docx.shared import Pt
 from docx.oxml import OxmlElement
 from docx.text.paragraph import Paragraph
 p=Path('manuscript/analysis_notes/01_tree_growth.docx')
-shutil.copy2(p,p.parent/'_history'/('01_tree_growth_before_stock_test_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
+(p.parent/'_history').mkdir(parents=True, exist_ok=True); shutil.copy2(p,p.parent/'_history'/('01_tree_growth_before_stock_test_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx'))
 d=Document(p)
 for q in d.paragraphs:
  if q.text.startswith('For the final-visit hybrid comparison,'):

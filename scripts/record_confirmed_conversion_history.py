@@ -14,7 +14,7 @@ chronology='The user confirms Continuous fallow alleys have remained grassland c
 decisions='The start year, final crop season and continuity of grassland are now confirmed. Remaining decisions are the duration convention (nominal calendar years versus verified elapsed dates), grassland management details (mowing, grazing and organic inputs), availability of baseline soil measurements especially around 2004, and arable management comparability. Specify the ESM extrapolation policy and scenario trajectory. Prior accumulation beside trees remains a limitation for interpreting the Continuous cropping contrast as solely post-2004 sequestration.'
 folder=root/'manuscript/analysis_notes'
 for filename in ['06_soc_sequestration.docx','03_cropping_treatment_and_legacy.docx']:
-    path=folder/filename;shutil.copy2(path,folder/'_history'/(path.stem+'_before_confirmed_history_'+stamp+'.docx'))
+    path=folder/filename;(folder/'_history').mkdir(parents=True, exist_ok=True); shutil.copy2(path,folder/'_history'/(path.stem+'_before_confirmed_history_'+stamp+'.docx'))
     d=Document(path)
     for p in d.paragraphs:
         text=p.text

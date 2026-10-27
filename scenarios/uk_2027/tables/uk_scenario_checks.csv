@@ -1,0 +1,32 @@
+check,passed,detail
+grassland SOC is zero,True,0
+four scenarios,True,4
+24 annual planting years,True,24
+30 projection periods,True,30
+BGB carbon ratio accounts for C fractions,True,0.24967239967239965
+CB_FAST Permanent grassland reaches target,True,837900.0000000001
+CB_FAST Permanent grassland increments reconcile,True,64891939.92764421
+CB_FAST Permanent grassland no planting after 2050,True,0
+CB_FAST Croppable area reaches target,True,428750.00000000006
+CB_FAST Croppable area increments reconcile,True,10083470.268840687
+CB_FAST Croppable area no planting after 2050,True,0
+CB_STEADY Permanent grassland reaches target,True,837900.0000000001
+CB_STEADY Permanent grassland increments reconcile,True,35638095.84243852
+CB_STEADY Permanent grassland no planting after 2050,True,0
+CB_STEADY Croppable area reaches target,True,428750.00000000006
+CB_STEADY Croppable area increments reconcile,True,5575422.866512648
+CB_STEADY Croppable area no planting after 2050,True,0
+CR_FAST Permanent grassland reaches target,True,837900.0000000001
+CR_FAST Permanent grassland increments reconcile,True,64891939.92764421
+CR_FAST Permanent grassland no planting after 2050,True,0
+CR_FAST Cropped area reaches target,True,286230.0
+CR_FAST Cropped area increments reconcile,True,6731642.43743503
+CR_FAST Cropped area no planting after 2050,True,0
+CR_STEADY Permanent grassland reaches target,True,837900.0000000001
+CR_STEADY Permanent grassland increments reconcile,True,35638095.84243852
+CR_STEADY Permanent grassland no planting after 2050,True,0
+CR_STEADY Cropped area reaches target,True,286230.0
+CR_STEADY Cropped area increments reconcile,True,3722106.79202779
+CR_STEADY Cropped area no planting after 2050,True,0
+maximum cohort age within observations,True,30
+no negative annual accumulation,True,871.3414468944671

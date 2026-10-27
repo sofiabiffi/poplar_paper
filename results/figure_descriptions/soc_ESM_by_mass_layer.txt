@@ -1,2 +1,1 @@
-Mass intervals correspond to the arable mean 0-15 and 15-30 cm layers; physical depths vary.
-Dunn letters: BH adjustment within mass interval, p < 0.05. Boxes: median and IQR; whiskers: 1.5 x IQR.
+Figure 1 SOC stocks for arable reference, alley and tree-row profiles. Arable stocks remain measured fixed-depth 0-15 cm and 15-30 cm values. Alley and tree-row stocks are ESM corrected to the corresponding arable mean reference masses. Boxes show median and IQR; whiskers extend to observations within 1.5 times the IQR. Points are cores. Dunn letters use BH adjustment across three pairs within each panel, p < 0.05. Shared letters indicate no detected difference.

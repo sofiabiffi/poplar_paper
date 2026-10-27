@@ -1,7 +1,5 @@
 {
-  "heading": "Soil sample provenance and former cropping treatments",
-  "xml_elements": 18,
-  "before_sha256": "19e8c37529ff267c31a3c4c1c68c9ddba218e488f29bb1a458fbcc4224ccd29e",
-  "after_sha256": "19e8c37529ff267c31a3c4c1c68c9ddba218e488f29bb1a458fbcc4224ccd29e",
-  "identical": true
+  "identical": true,
+  "sha256": "3c3cef1ebcd239df2702cb9821757bfb76a1caecadb15dd4e3df62ae9ffe8b74",
+  "scope": "Provenance section and all subsequent manual content"
 }

@@ -5,7 +5,7 @@ from docx import Document
 root=Path(__file__).resolve().parents[1]
 path=root/'manuscript/analysis_notes/04_soil_carbon_stocks.docx'
 backup=path.parent/'_history'/('04_soil_carbon_stocks_before_provenance_'+datetime.now().strftime('%Y%m%d_%H%M%S')+'.docx')
-shutil.copy2(path,backup)
+backup.parent.mkdir(parents=True, exist_ok=True); shutil.copy2(path,backup)
 d=Document(path)
 # Preserve existing prose and figures; add a conspicuous qualification near the front.
 p=d.paragraphs[2].insert_paragraph_before('Provenance update 22 October 2026: all 188 measured records have been traced to AgricARBON sample IDs. Tree row profile 25 matches reference-field core 016. Earlier numerical summaries and tests below retain the original workbook labels and require revision before scenario use. See the provenance addendum at the end.')

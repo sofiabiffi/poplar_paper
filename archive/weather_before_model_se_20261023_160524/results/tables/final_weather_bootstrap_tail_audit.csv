@@ -1,9 +1,0 @@
-"hybrid_code","hybrid","age_model","predictor","n_boot","above_10_absolute","maximum"
-"B","Beaupre","Quadratic age","Temperature",1000,2,58.6383208245098
-"B","Beaupre","Quadratic age","Rainfall",1000,4,21821.6683497553
-"G","Gibecq","Quadratic age","Temperature",1000,3,13059138.2742672
-"G","Gibecq","Quadratic age","Rainfall",1000,8,87024287.0175262
-"R","Robusta","Quadratic age","Temperature",1000,1,10.584805755207
-"R","Robusta","Quadratic age","Rainfall",1000,2,190.948271509852
-"T","Trichobel","Quadratic age","Temperature",1000,0,4.69298451559803
-"T","Trichobel","Quadratic age","Rainfall",1000,0,1.46932749464107

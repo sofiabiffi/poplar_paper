@@ -1,0 +1,2 @@
+﻿land_cover,n_tree_profiles,n_arable_profiles,duration_years,tree_ESM_stock_mean_mg_C_ha,arable_FD_stock_mean_mg_C_ha,mean_delta_SOC_mg_C_ha,mean_annual_SOC_accumulation_mg_C_ha_yr,profile_SD_rate_mg_C_ha_yr,uncertainty
+Tree row,21,47,32,80.19118034674052,59.35876455507928,20.83241579166124,0.6510129934894138,0.2593445972277993,"SD among complete tree-row profile rates; shared arable mean, reference masses and duration held fixed; not a confidence interval"

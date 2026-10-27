@@ -32,36 +32,46 @@ for (id in unique(esm_layers$profile_id)) {
   status[is.na(values)] <- "excluded_incomplete_profile"
   # A full-profile result requires both measured depths, irrespective of mass.
   if (!complete) { values[2] <- NA_real_; status[2] <- "excluded_incomplete_profile" }
+  is_arable <- dat$location_code[1] == "3_arable"
+  if (is_arable) {
+    values <- c(carbon[2],if(complete) tail(carbon,1) else NA_real_)
+    status <- c("fixed_depth",if(complete) "fixed_depth" else "excluded_incomplete_profile")
+  }
   estimates[[id]] <- bind_cols(key,data.frame(profile_complete=complete,
+    stock_basis=if(is_arable) "Fixed depth" else "Equivalent soil mass",
+    SOC_stock_upper_mg_ha=values[1],SOC_stock_lower_mg_ha=values[2]-values[1],SOC_stock_total_mg_ha=values[2],
     observed_mass_0_15_mg_ha=mass[2], observed_mass_0_30_mg_ha=if(complete) tail(mass,1) else NA_real_,
     reference_mass_upper_mg_ha=ref_mass[1],reference_mass_total_mg_ha=ref_mass[2],
-    SOC_ESM_upper_mg_ha=values[1],SOC_ESM_lower_mg_ha=values[2]-values[1],SOC_ESM_total_mg_ha=values[2],
+    SOC_ESM_upper_mg_ha=if(is_arable) NA_real_ else values[1],SOC_ESM_lower_mg_ha=if(is_arable) NA_real_ else values[2]-values[1],SOC_ESM_total_mg_ha=if(is_arable) NA_real_ else values[2],
     upper_method=status[1],total_method=status[2],
     shallow_bedrock=!complete,
-    extrapolated_mass_upper_mg_ha=max(0,ref_mass[1]-max(mass)),
-    extrapolated_mass_total_mg_ha=if(complete) max(0,ref_mass[2]-max(mass)) else NA_real_,
-    extrapolated_SOC_total_mg_ha=if(complete) max(0,ref_mass[2]-max(mass))*final_slope else NA_real_,
-    equivalent_depth_total_cm=if(complete) {
+    extrapolated_mass_upper_mg_ha=if(is_arable) 0 else max(0,ref_mass[1]-max(mass)),
+    extrapolated_mass_total_mg_ha=if(is_arable) {if(complete) 0 else NA_real_} else if(complete) max(0,ref_mass[2]-max(mass)) else NA_real_,
+    extrapolated_SOC_total_mg_ha=if(is_arable) {if(complete) 0 else NA_real_} else if(complete) max(0,ref_mass[2]-max(mass))*final_slope else NA_real_,
+    equivalent_depth_total_cm=if(is_arable) {if(complete) 30 else NA_real_} else if(complete) {
       if(ref_mass[2]<=mass[2]) ref_mass[2]/dat$soil_mass_mg_ha[1]*15 else 15+(ref_mass[2]-mass[2])/dat$soil_mass_mg_ha[2]*15
     } else NA_real_))
   extension_target <- if (complete) ref_mass[2] else ref_mass[1]
-  if (extension_target > max(mass)) extensions[[id]] <- bind_cols(key,data.frame(x=max(mass),xend=extension_target,y=tail(carbon,1),yend=if(complete) values[2] else values[1]))
+  if (!is_arable && extension_target > max(mass)) extensions[[id]] <- bind_cols(key,data.frame(x=max(mass),xend=extension_target,y=tail(carbon,1),yend=if(complete) values[2] else values[1]))
 }
 esm_coordinates <- bind_rows(coords); esm_profiles <- bind_rows(estimates) |> order_soil()
 esm_extensions <- bind_rows(extensions)
 write_table(esm_coordinates,"soc_ESM_cumulative_coordinates")
 write_table(esm_profiles,"soc_ESM_profile_estimates")
-esm_long <- esm_profiles |> tidyr::pivot_longer(c(SOC_ESM_upper_mg_ha,SOC_ESM_lower_mg_ha,SOC_ESM_total_mg_ha),names_to="mass_interval",values_to="SOC_stock_mg_ha") |>
-  mutate(mass_interval=recode(mass_interval,SOC_ESM_upper_mg_ha="Upper reference mass",SOC_ESM_lower_mg_ha="Lower reference mass increment",SOC_ESM_total_mg_ha="Total reference mass"))
-esm_summary <- esm_long |> group_by(location_code,location,mass_interval) |>
+write_table(esm_profiles,"soc_stock_comparison_profiles")
+esm_long <- esm_profiles |> tidyr::pivot_longer(c(SOC_stock_upper_mg_ha,SOC_stock_lower_mg_ha,SOC_stock_total_mg_ha),names_to="mass_interval",values_to="SOC_stock_mg_ha") |>
+  mutate(mass_interval=recode(mass_interval,SOC_stock_upper_mg_ha="Upper reference mass",SOC_stock_lower_mg_ha="Lower reference mass increment",SOC_stock_total_mg_ha="Total reference mass"))
+esm_summary <- esm_long |> group_by(location_code,location,stock_basis,mass_interval) |>
   summarise(n_profiles=sum(is.finite(SOC_stock_mg_ha)),mean=mean(SOC_stock_mg_ha,na.rm=TRUE),sd=sd(SOC_stock_mg_ha,na.rm=TRUE),
     se=sd/sqrt(n_profiles),median=median(SOC_stock_mg_ha,na.rm=TRUE),q25=quantile(SOC_stock_mg_ha,.25,na.rm=TRUE),q75=quantile(SOC_stock_mg_ha,.75,na.rm=TRUE),.groups="drop") |> order_soil()
 write_table(esm_summary,"soc_ESM_summary")
+write_table(esm_summary,"soc_stock_comparison_summary")
+write_table(filter(esm_summary,mass_interval=="Total reference mass"),"soc_stock_comparison_total_summary")
 write_table(filter(esm_summary,mass_interval=="Total reference mass"),"soc_ESM_total_summary")
 esm_audit <- esm_profiles |> group_by(location_code,location) |>
  summarise(n_profiles=n(),n_complete=sum(profile_complete),n_total_extrapolated=sum(total_method=="extrapolated"),
  n_upper_extrapolated=sum(upper_method=="extrapolated"),
- n_total_excluded=sum(is.na(SOC_ESM_total_mg_ha)),n_upper_excluded=sum(is.na(SOC_ESM_upper_mg_ha)),
+ n_total_excluded=sum(is.na(SOC_stock_total_mg_ha)),n_upper_excluded=sum(is.na(SOC_stock_upper_mg_ha)),
  max_extrapolated_mass_mg_ha=max(extrapolated_mass_total_mg_ha,na.rm=TRUE),max_equivalent_depth_cm=max(equivalent_depth_total_cm,na.rm=TRUE),.groups="drop") |> order_soil()
 write_table(esm_audit,"soc_ESM_extrapolation_audit")
 
@@ -86,7 +96,7 @@ esm_boxplot <- ggplot(esm_plot_data,aes(location,SOC_stock_mg_ha,colour=location
  geom_boxplot(outlier.shape=NA,colour="grey30",width=.6) + geom_point(position=position_jitter(width=.12,seed=1),alpha=.65,size=1.8) +
  geom_text(data=esm_letters,aes(location,y,label=letter),inherit.aes=FALSE,size=4.5) + facet_wrap(~depth_interval_cm,labeller=as_labeller(c("Upper reference mass"="0-15 cm reference mass depth", "Lower reference mass increment"="15-30 cm reference mass depth"))) +
  publication_scales(location_order,include_linetype=FALSE) + theme_publication() + theme(legend.position="none") +
- labs(x=NULL,y=expression("ESM SOC stock (Mg C ha"^{-1}*")"),caption="Mass intervals correspond to the arable mean 0-15 and 15-30 cm layers; physical depths vary.\nDunn letters: BH adjustment within mass interval, p < 0.05. Boxes: median and IQR; whiskers: 1.5 x IQR.")
+ labs(x=NULL,y=expression("SOC stock (Mg C ha"^{-1}*")"),caption="Arable: measured fixed-depth stocks. Alley/tree row: ESM stocks at arable reference masses; physical depths vary.\nDunn letters: BH adjustment within mass interval, p < 0.05. Boxes: median and IQR; whiskers: 1.5 x IQR.")
 save_publication_plot(esm_boxplot,project_path("results/figures/soc_ESM_by_mass_layer"),8,4.8)
 
 # One small facet per alley/tree sampling profile, including incomplete profiles.
@@ -116,7 +126,7 @@ esm_overview <- ggplot() +
 save_publication_plot(esm_overview,project_path("results/figures/supplement_soc_ESM_cumulative_profiles"),13.4,11.4)
 writeLines(c("Linear ESM: origin plus measured cumulative soil-mass/SOC-stock endpoints; straight segments, no spline.",
  "Reference masses: sum of mean arable layer masses; all available observations per layer (n shown in reference table).",
- "All locations, including individual arable profiles, are evaluated at the same reference masses for comparable distributions.",
+ "Arable stocks remain measured fixed-depth values; only alley and tree-row profiles are evaluated at the arable mean reference masses.",
  "Complete profiles: linear interpolation within measured mass; beyond 30 cm, extend last segment with measured 15-30 cm SOC concentration.",
  "Shallow-bedrock profiles: upper-reference stock from the measured upper-layer slope, extended to that mass if necessary; no total or lower-increment estimate.",
  "Mass intervals correspond to arable fixed-depth layers but are not fixed physical depths in other profiles. Total is arable 0-30 cm equivalent mass.",
@@ -125,3 +135,25 @@ writeLines(c("Linear ESM: origin plus measured cumulative soil-mass/SOC-stock en
  "Fixed-depth outputs are retained separately. Supplementary BD and content tables remain measured 0-30 cm properties.",
  "Profile independence and spatial clustering remain open; ESM tests are exploratory."),project_path("results/tables/soc_ESM_README.txt"))
 
+
+# Diagnostics for rank-based sampled-core comparisons; independence is a design issue.
+comparison_diagnostics <- esm_plot_data |> group_by(location_code,location,depth_interval_cm) |>
+ summarise(n=n(),median=median(SOC_stock_mg_ha),q25=quantile(SOC_stock_mg_ha,.25),q75=quantile(SOC_stock_mg_ha,.75),
+ min=min(SOC_stock_mg_ha),max=max(SOC_stock_mg_ha),n_unique=n_distinct(SOC_stock_mg_ha),.groups="drop")
+write.csv(comparison_diagnostics,project_path("results/checks/soc_comparison_distribution_diagnostics.csv"),row.names=FALSE)
+influence <- list()
+for (interval in levels(esm_plot_data$depth_interval_cm)) {
+ dat <- filter(esm_plot_data,depth_interval_cm==interval)
+ full <- dunn_depth(dat)
+ for (i in seq_len(nrow(dat))) {
+  reduced <- dunn_depth(dat[-i,]); reduced$omitted_profile_id <- dat$profile_id[i]; reduced$mass_interval <- interval
+  reduced$full_p_BH <- full$p_BH
+  reduced$decision_changed <- (reduced$p_BH < .05) != (full$p_BH < .05)
+  influence[[length(influence)+1]] <- reduced
+ }
+}
+write.csv(bind_rows(influence),project_path("results/checks/soc_comparison_leave_one_out.csv"),row.names=FALSE)
+writeLines(c("Rank comparisons assume independent cores. Separate land-cover distributions and leave-one-core-out sensitivity are saved.",
+ "Reference field versus agroforestry field is not replicated land-use assignment. Former treatment is confounded with block/row band.",
+ "Different spreads preclude an unqualified median-only interpretation. Pairwise p-values describe sampled-core rank contrasts, not causal or replicated treatment effects.",
+ "The fine-BD volume denominator and any required coarse-fragment correction remain an outstanding measurement-basis check; this revision corrects FD versus ESM handling only."),project_path("results/checks/soc_comparison_diagnostic_notes.txt"))

@@ -1,0 +1,177 @@
+{
+  "boxes": [
+    {
+      "x": 3.0,
+      "y": 11.1,
+      "w": 5.5,
+      "h": 1.65,
+      "group": "Scenario",
+      "title": "UK land targets",
+      "body": "Permanent grassland: 5.985m ha x 14% = 837,900 ha\r\nCroppable land: 6.1m ha x 7% = 427,000 ha\r\nCropped land: 4.1m ha x 7% = 287,000 ha\r\nCroppable and cropped are alternatives"
+    },
+    {
+      "x": 9.0,
+      "y": 11.1,
+      "w": 5.5,
+      "h": 1.65,
+      "group": "Evidence",
+      "title": "Observed tree growth",
+      "body": "45 Trichobel trees\r\nDiameters converted to dry biomass per tree\r\nAverage dry biomass across trees at each visit\r\nObserved ages 1-31"
+    },
+    {
+      "x": 3.0,
+      "y": 8.9,
+      "w": 5.5,
+      "h": 1.65,
+      "group": "Scenario",
+      "title": "Planting programme and layout",
+      "body": "All planted in 2027 OR equal planting in 2027-2050\r\nCropland: 47.62 trees/ha; 2m strips / 30m rows\r\nGrassland: 166 trees/ha; 2m strips / 10m rows\r\nAlleys retain their previous use"
+    },
+    {
+      "x": 9.0,
+      "y": 8.9,
+      "w": 5.5,
+      "h": 1.65,
+      "group": "Evidence",
+      "title": "Mean tree biomass through time",
+      "body": "Mean tree dry biomass at each measured age\r\nLinear interpolation between measured ages\r\nUse ages 1-30; assume zero biomass at age zero\r\nSame growth assumed across planting layouts"
+    },
+    {
+      "x": 6.0,
+      "y": 6.95,
+      "w": 11.5,
+      "h": 1.15,
+      "group": "Calculation",
+      "title": "Follow each annual planting cohort",
+      "body": "For every year in 2027-2056: determine cohort age, area and tree count\r\nTree count x dry biomass per tree at that age = cohort dry AGB"
+    },
+    {
+      "x": 2.0,
+      "y": 4.75,
+      "w": 3.5,
+      "h": 1.85,
+      "group": "AGB",
+      "title": "Aboveground carbon",
+      "body": "Dry AGB x 0.4884\r\n\r\nCarbon fraction of shoots"
+    },
+    {
+      "x": 6.0,
+      "y": 4.75,
+      "w": 3.5,
+      "h": 1.85,
+      "group": "BGB",
+      "title": "Belowground carbon",
+      "body": "Dry AGB x 0.26 x 0.4690\r\n\r\nRoot:shoot dry-mass ratio\r\nand root carbon fraction"
+    },
+    {
+      "x": 10.0,
+      "y": 4.75,
+      "w": 3.5,
+      "h": 1.85,
+      "group": "SOC",
+      "title": "Additional soil carbon",
+      "body": "Tree-row ESM minus arable FD\r\n/ 32 yr = 0.6510 Mg C/ha/yr\r\nx cropland strip area x cohort age\r\nGrassland and alleys: zero gain"
+    },
+    {
+      "x": 6.0,
+      "y": 2.65,
+      "w": 11.5,
+      "h": 1.05,
+      "group": "Calculation",
+      "title": "Sum cohorts and land types",
+      "body": "Aggregate AGB C, BGB C and additional SOC separately\r\nConvert C to CO2 using 44/12; report annually and at 2050 and 2056"
+    },
+    {
+      "x": 3.0,
+      "y": 0.85,
+      "w": 5.5,
+      "h": 1.25,
+      "group": "Output",
+      "title": "Carbon stocks",
+      "body": "AGB separately\r\nCombined = AGB + BGB + additional SOC"
+    },
+    {
+      "x": 9.0,
+      "y": 0.85,
+      "w": 5.5,
+      "h": 1.25,
+      "group": "Output",
+      "title": "AGB growth summaries",
+      "body": "PAIC: change between annual AGB stocks\r\nMAIC: sum each cohort (AGB stock / age)"
+    }
+  ],
+  "arrows": [
+    {
+      "x": 3.0,
+      "y": 10.275,
+      "xend": 3.0,
+      "yend": 9.725
+    },
+    {
+      "x": 9.0,
+      "y": 10.275,
+      "xend": 9.0,
+      "yend": 9.725
+    },
+    {
+      "x": 3.0,
+      "y": 8.075,
+      "xend": 3.0,
+      "yend": 7.525
+    },
+    {
+      "x": 9.0,
+      "y": 8.075,
+      "xend": 9.0,
+      "yend": 7.525
+    },
+    {
+      "x": 2.0,
+      "y": 6.375,
+      "xend": 2.0,
+      "yend": 5.675
+    },
+    {
+      "x": 6.0,
+      "y": 6.375,
+      "xend": 6.0,
+      "yend": 5.675
+    },
+    {
+      "x": 10.0,
+      "y": 6.375,
+      "xend": 10.0,
+      "yend": 5.675
+    },
+    {
+      "x": 2.0,
+      "y": 3.825,
+      "xend": 2.0,
+      "yend": 3.175
+    },
+    {
+      "x": 6.0,
+      "y": 3.825,
+      "xend": 6.0,
+      "yend": 3.175
+    },
+    {
+      "x": 10.0,
+      "y": 3.825,
+      "xend": 10.0,
+      "yend": 3.175
+    },
+    {
+      "x": 3.0,
+      "y": 2.125,
+      "xend": 3.0,
+      "yend": 1.475
+    },
+    {
+      "x": 9.0,
+      "y": 2.125,
+      "xend": 9.0,
+      "yend": 1.475
+    }
+  ]
+}
